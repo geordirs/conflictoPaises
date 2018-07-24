@@ -1,0 +1,28 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Taller de jQuery</title>
+      <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+
+
+  </head>
+  <body>
+       <iframe id="el_iframe" name="el_iframe" src="https://www.trivago.com.ec/?cpt=44327103&iRoomType=7&iPathId=443271&aDateRange%5Barr%5D=2017-06-25&aDateRange%5Bdep%5D=2017-06-26&iGeoDistanceItem=0&iViewType=0&bIsSeoPage=false&bIsSitemap=false&" width="620" height="400"></iframe>
+  </body>
+
+
+</html>
+
+  <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+    <script type="text/javascript" language="JavaScript">
+    $(document).ready( function () {
+        $('#el_iframe').load( function () {
+            $(this).contents().find("h3").css({'background-color':'#fff','background-image':'none'});
+        });
+    });
+    </script>
+

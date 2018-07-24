@@ -1,0 +1,1039 @@
+id,fecha,iniciador,objetivo,provincia,fuente
+1,2015-03-24,Oposicion,Gobierno Sirio,Daraa,SOHR
+2,2016-02-06,Gobierno Sirio,Oposicion,Daraa,Media
+3,2016-02-05,Gobierno Sirio,Oposicion,Daraa,Media
+4,2016-06-09,Oposicion,Gobierno Sirio,Daraa,Twitter
+5,2017-02-28,ISIS,Oposicion,Daraa,SOHR
+6,2017-02-20,ISIS,Oposicion,Daraa,SOHR
+7,2017-02-20,ISIS,Oposicion,Daraa,SOHR
+8,2015-12-28,Gobierno Sirio,Oposicion,Daraa,SOHR
+9,2016-01-25,Gobierno Sirio,Oposicion,Daraa,SOHR
+10,2016-04-08,Oposicion,ISIS,Daraa,SOHR
+11,2017-02-20,ISIS,Oposicion,Daraa,SOHR
+12,2016-04-04,Oposicion,ISIS,Daraa,SOHR
+13,2017-03-27,Oposicion,ISIS,Sweida,SOHR
+14,2017-03-27,Oposicion,ISIS,Sweida,SOHR
+15,2017-03-24,Oposicion,ISIS,Sweida,Twitter
+16,2015-05-05,Oposicion,ISIS,Quneitra,YouTube
+17,2015-04-30,Gobierno Sirio,Oposicion,Quneitra,Twitter
+18,2015-04-30,Gobierno Sirio,Oposicion,Quneitra,Twitter
+19,2014-11-17,Oposicion,Gobierno Sirio,Quneitra,Facebook
+20,2015-02-10,Gobierno Sirio,Oposicion,Daraa,SOHR
+21,2014-11-17,Oposicion,Gobierno Sirio,Quneitra,Facebook
+22,2015-02-27,Gobierno Sirio,Oposicion,Damasco Rural,SOHR
+23,2015-02-07,Oposicion,Gobierno Sirio,Damasco Rural,Facebook
+24,2015-10-12,Gobierno Sirio,Oposicion,Aleppo,SOHR
+25,2017-01-13,Gobierno Sirio,Oposicion,Damasco Rural,Twitter
+26,2017-03-27,Oposicion,ISIS,Damasco Rural,SOHR
+27,2016-10-14,Gobierno Sirio,Oposicion,Damasco Rural,SOHR
+28,2016-11-08,Gobierno Sirio,Oposicion,Damasco Rural,SOHR
+29,2016-08-25,Gobierno Sirio,Oposicion,Damasco Rural,SOHR
+30,2016-05-19,Gobierno Sirio,Oposicion,Damasco Rural,SOHR
+31,2016-05-19,Gobierno Sirio,Oposicion,Damasco Rural,SOHR
+32,2016-01-11,Gobierno Sirio,Oposicion,Damasco Rural,Media
+33,2016-06-29,Gobierno Sirio,Oposicion,Damasco Rural,SOHR
+34,2016-05-09,Oposicion,Oposicion,Damasco,SOHR
+35,2016-07-06,Gobierno Sirio,Oposicion,Damasco Rural,SOHR
+36,2016-10-11,Gobierno Sirio,Oposicion,Damasco Rural,Twitter
+37,2016-10-31,Gobierno Sirio,Oposicion,Damasco Rural,SOHR
+38,2016-07-07,Oposicion,Gobierno Sirio,Damasco Rural,SOHR
+39,2015-05-06,Gobierno Sirio,Oposicion,Damasco Rural,SOHR
+40,2015-05-23,ISIS,Gobierno Sirio,Damasco,SOHR
+41,2015-12-10,ISIS,Gobierno Sirio,Homs,SOHR
+42,2015-05-21,ISIS,Gobierno Sirio,Homs,SOHR
+43,2015-11-22,Gobierno Sirio,ISIS,Homs,Media
+44,2015-12-28,Gobierno Sirio,ISIS,Homs,SOHR
+45,2016-03-27,Gobierno Sirio,ISIS,Homs,SOHR
+46,2016-03-27,Gobierno Sirio,ISIS,Homs,SOHR
+47,2016-03-25,Gobierno Sirio,ISIS,Homs,Twitter
+48,2017-06-15,Gobierno Sirio,ISIS,Homs,SOHR
+49,2017-06-14,Gobierno Sirio,ISIS,Homs,SOHR
+50,2017-04-26,Gobierno Sirio,ISIS,Homs,SOHR
+51,2015-05-12,ISIS,Gobierno Sirio,Homs,SOHR
+52,2017-02-01,Gobierno Sirio,Oposicion,Hama,SOHR
+53,2015-12-13,Gobierno Sirio,Oposicion,Hama,SOHR
+54,2017-03-31,Gobierno Sirio,Oposicion,Hama,SOHR
+55,2017-03-31,Gobierno Sirio,Oposicion,Hama,SOHR
+56,2017-03-31,Gobierno Sirio,Oposicion,Hama,SOHR
+57,2017-03-31,Gobierno Sirio,Oposicion,Hama,SOHR
+58,2017-04-04,Gobierno Sirio,Oposicion,Hama,YouTube
+59,2017-03-31,Gobierno Sirio,Oposicion,Hama,SOHR
+60,2017-03-31,Gobierno Sirio,Oposicion,Hama,SOHR
+61,2017-03-31,Gobierno Sirio,Oposicion,Hama,SOHR
+62,2016-03-14,Gobierno Sirio,ISIS,Deir Ezzor,Media
+63,2017-04-23,Gobierno Sirio,Oposicion,Hama,SOHR
+64,2017-04-10,Gobierno Sirio,Oposicion,Hama,SOHR
+65,2016-10-17,Oposicion,Gobierno Sirio,Hama,SOHR
+66,2017-04-23,Gobierno Sirio,Oposicion,Hama,SOHR
+67,2017-04-20,Gobierno Sirio,Oposicion,Hama,Twitter
+68,2017-03-31,Gobierno Sirio,Oposicion,Hama,SOHR
+69,2017-03-31,Gobierno Sirio,Oposicion,Hama,SOHR
+70,2017-04-23,Gobierno Sirio,Oposicion,Hama,SOHR
+71,2016-10-08,Gobierno Sirio,Oposicion,Hama,SOHR
+72,2017-04-16,Gobierno Sirio,Oposicion,Hama,SOHR
+73,2017-03-31,Gobierno Sirio,Oposicion,Hama,SOHR
+74,2016-08-29,Oposicion,Gobierno Sirio,Hama,Twitter
+75,2015-10-23,Oposicion,Gobierno Sirio,Hama,SOHR
+76,2015-05-14,ISIS,Gobierno Sirio,Deir Ezzor,SOHR
+77,2015-10-23,Oposicion,Gobierno Sirio,Hama,SOHR
+78,2016-10-08,Gobierno Sirio,Oposicion,Hama,SOHR
+79,2016-09-27,Oposicion,Gobierno Sirio,Hama,Twitter
+80,2016-10-10,Oposicion,Gobierno Sirio,Hama,SOHR
+81,2016-02-26,Gobierno Sirio,ISIS,Aleppo,Twitter
+82,2016-10-08,Gobierno Sirio,Oposicion,Hama,SOHR
+83,2015-11-04,Oposicion,Gobierno Sirio,Hama,SOHR
+84,2017-02-16,Oposicion,Oposicion,Hama,SOHR
+85,2015-10-09,Gobierno Sirio,Oposicion,Hama,SOHR
+86,2015-09-15,Oposicion,Gobierno Sirio,Idlib,SOHR
+87,2015-11-04,Oposicion,Gobierno Sirio,Idlib,SOHR
+88,2016-10-08,Gobierno Sirio,Oposicion,Hama,SOHR
+89,2016-03-31,Kurdistan Sirio,ISIS,Deir Ezzor,Twitter
+90,2014-12-14,Oposicion,Gobierno Sirio,Idlib,Facebook
+91,2016-04-10,Oposicion,Gobierno Sirio,Hama,Twitter
+92,2015-04-24,Oposicion,Gobierno Sirio,Hama,SOHR
+93,2016-04-03,Kurdistan Sirio,ISIS,Deir Ezzor,Media
+94,2016-01-12,Gobierno Sirio,Oposicion,Lattakia,Twitter
+95,2016-01-13,Gobierno Sirio,Oposicion,Lattakia,Twitter
+96,2015-11-22,Gobierno Sirio,Oposicion,Lattakia,SOHR
+97,2015-10-10,Gobierno Sirio,Oposicion,Hama,SOHR
+98,2016-01-10,Gobierno Sirio,Oposicion,Lattakia,Twitter
+99,2016-01-11,Gobierno Sirio,Oposicion,Lattakia,SOHR
+100,2015-11-19,Gobierno Sirio,Oposicion,Lattakia,Media
+101,2015-12-16,Gobierno Sirio,Oposicion,Lattakia,Media
+102,2016-01-13,Gobierno Sirio,Oposicion,Lattakia,Media
+103,2016-02-13,Gobierno Sirio,Oposicion,Lattakia,Twitter
+104,2016-03-10,Gobierno Sirio,Oposicion,Lattakia,Twitter
+105,2016-01-13,Gobierno Sirio,Oposicion,Lattakia,Media
+106,2016-01-27,Gobierno Sirio,Oposicion,Lattakia,SOHR
+107,2015-11-16,Gobierno Sirio,Oposicion,Lattakia,Media
+108,2016-02-16,Gobierno Sirio,Oposicion,Lattakia,Twitter
+109,2015-12-07,Gobierno Sirio,Oposicion,Lattakia,Twitter
+110,2015-12-29,Gobierno Sirio,Oposicion,Lattakia,Twitter
+111,2016-02-13,Gobierno Sirio,Oposicion,Lattakia,Twitter
+112,2016-02-14,Gobierno Sirio,Oposicion,Lattakia,Twitter
+113,2016-02-14,Gobierno Sirio,Oposicion,Lattakia,Media
+114,2017-01-25,Oposicion,Oposicion,Idlib,SOHR
+115,2016-01-27,Gobierno Sirio,Oposicion,Lattakia,SOHR
+116,2015-07-27,Oposicion,Gobierno Sirio,Hama,Media
+117,2015-05-24,Gobierno Sirio,Oposicion,Aleppo,SOHR
+118,2016-02-16,Gobierno Sirio,Oposicion,Lattakia,Twitter
+119,2016-02-14,Gobierno Sirio,Oposicion,Lattakia,Twitter
+120,2016-01-29,Gobierno Sirio,Oposicion,Lattakia,Twitter
+121,2016-01-29,Gobierno Sirio,Oposicion,Lattakia,Twitter
+122,2016-02-16,Gobierno Sirio,Oposicion,Lattakia,Twitter
+123,2017-01-25,Oposicion,Oposicion,Idlib,SOHR
+124,2016-01-21,Gobierno Sirio,Oposicion,Lattakia,SOHR
+125,2016-02-18,Gobierno Sirio,Oposicion,Lattakia,SOHR
+126,2017-04-06,Oposicion,Gobierno Sirio,Lattakia,Twitter
+127,2015-05-24,Oposicion,Gobierno Sirio,Aleppo,SOHR
+128,2015-06-05,Oposicion,Gobierno Sirio,Idlib,SOHR
+129,2016-02-07,Gobierno Sirio,Oposicion,Lattakia,Media
+130,2016-03-06,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+131,2016-01-24,Gobierno Sirio,Oposicion,Lattakia,Twitter
+132,2016-02-20,Gobierno Sirio,Oposicion,Lattakia,Twitter
+133,2016-02-23,Gobierno Sirio,Oposicion,Lattakia,Twitter
+134,2016-02-17,Gobierno Sirio,Oposicion,Lattakia,Twitter
+135,2015-07-27,Oposicion,Gobierno Sirio,Idlib,Media
+136,2016-02-06,Gobierno Sirio,Oposicion,Lattakia,Twitter
+137,2015-07-27,Oposicion,Gobierno Sirio,Idlib,Media
+138,2015-06-05,Oposicion,Gobierno Sirio,Idlib,SOHR
+139,2017-03-09,Kurdistan Sirio,ISIS,Deir Ezzor,SOHR
+140,2017-01-23,Gobierno Sirio,ISIS,Aleppo,SOHR
+141,2015-05-16,Oposicion,Gobierno Sirio,Idlib,Facebook
+142,2016-02-22,Gobierno Sirio,Oposicion,Lattakia,Media
+143,2016-03-10,Gobierno Sirio,ISIS,Aleppo,Media
+144,2016-02-26,Gobierno Sirio,Oposicion,Lattakia,Media
+145,2016-01-24,Gobierno Sirio,Oposicion,Lattakia,SOHR
+146,2015-06-05,Oposicion,Gobierno Sirio,Idlib,SOHR
+147,2017-03-09,Kurdistan Sirio,ISIS,Deir Ezzor,SOHR
+148,2017-03-10,Kurdistan Sirio,ISIS,Deir Ezzor,SOHR
+149,2015-05-28,Oposicion,Gobierno Sirio,Idlib,SOHR
+150,2016-01-23,Gobierno Sirio,Oposicion,Lattakia,Media
+151,2017-03-10,Kurdistan Sirio,ISIS,Deir Ezzor,SOHR
+152,2015-05-10,Oposicion,Gobierno Sirio,Idlib,YouTube
+153,2016-04-15,ISIS,Gobierno Sirio,Aleppo,SOHR
+154,2016-02-14,Gobierno Sirio,Oposicion,Lattakia,Twitter
+155,2017-03-10,Kurdistan Sirio,ISIS,Raqqa,SOHR
+156,2015-05-28,Oposicion,Gobierno Sirio,Idlib,YouTube
+157,2015-05-21,Oposicion,Gobierno Sirio,Idlib,SOHR
+158,2015-05-12,Oposicion,Gobierno Sirio,Idlib,YouTube
+159,2015-12-22,Gobierno Sirio,Oposicion,Lattakia,Twitter
+160,2016-03-10,Gobierno Sirio,ISIS,Aleppo,Media
+161,2015-05-28,Oposicion,Gobierno Sirio,Idlib,YouTube
+162,2015-05-05,Oposicion,Gobierno Sirio,Idlib,YouTube
+163,2016-02-25,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+164,2017-03-12,Kurdistan Sirio,ISIS,Raqqa,SOHR
+165,2015-07-27,Oposicion,Gobierno Sirio,Idlib,SOHR
+166,2016-06-17,Oposicion,Gobierno Sirio,Lattakia,SOHR
+167,2015-04-22,Oposicion,Gobierno Sirio,Idlib,SOHR
+168,2016-03-10,Gobierno Sirio,ISIS,Aleppo,SOHR
+169,2015-12-23,Gobierno Sirio,Oposicion,Lattakia,Twitter
+170,2016-03-10,Gobierno Sirio,ISIS,Aleppo,Media
+171,2016-02-26,Gobierno Sirio,ISIS,Aleppo,SOHR
+172,2016-02-25,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+173,2017-06-03,Kurdistan Sirio,ISIS,Raqqa,SOHR
+174,2015-05-19,Oposicion,Gobierno Sirio,Idlib,YouTube
+175,2016-02-27,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+176,2016-02-26,Gobierno Sirio,ISIS,Aleppo,Twitter
+177,2016-03-06,Oposicion,Gobierno Sirio,Lattakia,SOHR
+178,2015-04-22,Oposicion,Gobierno Sirio,Idlib,SOHR
+179,2016-02-25,Gobierno Sirio,ISIS,Aleppo,SOHR
+180,2015-05-18,Oposicion,Gobierno Sirio,Idlib,SOHR
+181,2017-03-20,Kurdistan Sirio,ISIS,Raqqa,SOHR
+182,2017-04-03,Oposicion,Oposicion,Aleppo,SOHR
+183,2017-03-08,Oposicion,Oposicion,Idlib,Twitter
+184,2016-02-27,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+185,2016-02-22,Gobierno Sirio,ISIS,Aleppo,Media
+186,2017-05-24,Kurdistan Sirio,ISIS,Raqqa,Twitter
+187,2017-02-13,ISIS,Kurdistan Sirio,Raqqa,SOHR
+188,2016-02-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+189,2017-01-19,Oposicion,Oposicion,Idlib,SOHR
+190,2017-05-24,Kurdistan Sirio,ISIS,Raqqa,Twitter
+191,2016-04-01,Oposicion,Gobierno Sirio,Aleppo,Twitter
+192,2016-04-01,Oposicion,Gobierno Sirio,Aleppo,Twitter
+193,2016-02-20,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+194,2017-05-24,Kurdistan Sirio,ISIS,Raqqa,Twitter
+195,2015-12-14,Gobierno Sirio,Oposicion,Aleppo,Twitter
+196,2017-03-04,Oposicion,Oposicion,Idlib,Twitter
+197,2015-03-23,Oposicion,Gobierno Sirio,Idlib,YouTube
+198,2015-12-12,Gobierno Sirio,Oposicion,Aleppo,Media
+199,2015-03-25,Oposicion,Gobierno Sirio,Idlib,YouTube
+200,2017-05-22,Kurdistan Sirio,ISIS,Raqqa,SOHR
+201,2015-03-25,Oposicion,Gobierno Sirio,Idlib,YouTube
+202,2017-06-01,Oposicion,Oposicion,Aleppo,Media
+203,2015-12-12,Gobierno Sirio,Oposicion,Aleppo,Media
+204,2017-05-15,Kurdistan Sirio,ISIS,Raqqa,SOHR
+205,2015-03-27,Oposicion,Gobierno Sirio,Idlib,Facebook
+206,2017-06-03,Gobierno Sirio,ISIS,Aleppo,SOHR
+207,2015-03-25,Oposicion,Gobierno Sirio,Idlib,YouTube
+208,2015-12-06,Gobierno Sirio,Oposicion,Aleppo,Twitter
+209,2017-05-17,Kurdistan Sirio,ISIS,Raqqa,SOHR
+210,2017-06-06,Kurdistan Sirio,ISIS,Raqqa,SOHR
+211,2016-03-05,Kurdistan Sirio,ISIS,Deir Ezzor,Twitter
+212,2015-12-03,Gobierno Sirio,Oposicion,Aleppo,Facebook
+213,2016-02-24,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+214,2017-04-04,Oposicion,Oposicion,Aleppo,SOHR
+215,2015-11-10,Gobierno Sirio,Oposicion,Aleppo,SOHR
+216,2015-10-30,Gobierno Sirio,Oposicion,Aleppo,SOHR
+217,2016-03-27,Kurdistan Sirio,ISIS,Hasakeh,Media
+218,2017-06-04,Gobierno Sirio,ISIS,Aleppo,SOHR
+219,2015-11-11,Gobierno Sirio,Oposicion,Aleppo,YouTube
+220,2015-10-30,Gobierno Sirio,Oposicion,Aleppo,Media
+221,2015-12-14,Oposicion,Gobierno Sirio,Aleppo,Media
+222,2015-10-21,Gobierno Sirio,Oposicion,Aleppo,SOHR
+223,2017-03-09,Kurdistan Sirio,ISIS,Raqqa,Twitter
+224,2015-10-30,Gobierno Sirio,Oposicion,Aleppo,SOHR
+225,2015-11-11,Gobierno Sirio,Oposicion,Aleppo,Twitter
+226,2017-06-06,Kurdistan Sirio,ISIS,Raqqa,SOHR
+227,2016-02-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+228,2015-10-30,Gobierno Sirio,Oposicion,Aleppo,Media
+229,2016-02-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+230,2015-10-21,Gobierno Sirio,Oposicion,Aleppo,SOHR
+231,2017-06-06,Kurdistan Sirio,ISIS,Raqqa,SOHR
+232,2016-06-18,Oposicion,Gobierno Sirio,Aleppo,SOHR
+233,2017-06-06,Kurdistan Sirio,ISIS,Raqqa,SOHR
+234,2017-03-05,Oposicion,Oposicion,Idlib,Twitter
+235,2015-10-17,Gobierno Sirio,Oposicion,Aleppo,SOHR
+236,2017-05-14,Kurdistan Sirio,ISIS,Raqqa,SOHR
+237,2016-02-20,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+238,2016-04-10,Oposicion,Gobierno Sirio,Aleppo,SOHR
+239,2016-06-18,Oposicion,Gobierno Sirio,Aleppo,SOHR
+240,2017-05-14,Kurdistan Sirio,ISIS,Raqqa,SOHR
+241,2017-03-06,Oposicion,Oposicion,Idlib,Twitter
+242,2016-02-19,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+243,2015-10-08,Gobierno Sirio,ISIS,Aleppo,Twitter
+244,2016-02-18,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+245,2017-05-13,Gobierno Sirio,ISIS,Aleppo,SOHR
+246,2015-12-20,Gobierno Sirio,Oposicion,Aleppo,Media
+247,2016-02-24,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+248,2015-10-18,Gobierno Sirio,Oposicion,Aleppo,Media
+249,2017-04-20,Kurdistan Sirio,ISIS,Raqqa,SOHR
+250,2017-03-16,Gobierno Sirio,ISIS,Aleppo,SOHR
+251,2017-04-20,Kurdistan Sirio,ISIS,Raqqa,SOHR
+252,2015-10-16,Gobierno Sirio,ISIS,Aleppo,Media
+253,2017-03-16,Gobierno Sirio,ISIS,Aleppo,SOHR
+254,2017-03-16,Gobierno Sirio,ISIS,Aleppo,SOHR
+255,2015-10-16,Gobierno Sirio,ISIS,Aleppo,Media
+256,2016-05-06,Oposicion,Gobierno Sirio,Aleppo,Twitter
+257,2016-02-24,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+258,2017-03-17,Gobierno Sirio,ISIS,Aleppo,SOHR
+259,2015-10-20,Gobierno Sirio,ISIS,Aleppo,SOHR
+260,2017-03-20,Gobierno Sirio,ISIS,Aleppo,SOHR
+261,2016-01-14,Gobierno Sirio,ISIS,Aleppo,Twitter
+262,2016-04-10,Gobierno Sirio,Oposicion,Aleppo,SOHR
+263,2017-03-22,Gobierno Sirio,ISIS,Aleppo,SOHR
+264,2016-02-21,Gobierno Sirio,ISIS,Aleppo,Media
+265,2017-04-22,Oposicion,ISIS,Raqqa,SOHR
+266,2016-02-21,Gobierno Sirio,ISIS,Aleppo,Media
+267,2016-02-22,Gobierno Sirio,ISIS,Aleppo,Media
+268,2016-02-22,Gobierno Sirio,ISIS,Aleppo,Media
+269,2017-03-22,Gobierno Sirio,ISIS,Aleppo,SOHR
+270,2017-03-18,Gobierno Sirio,ISIS,Aleppo,SOHR
+271,2017-03-07,Gobierno Sirio,ISIS,Aleppo,SOHR
+272,2017-03-16,Gobierno Sirio,ISIS,Aleppo,SOHR
+273,2015-10-17,Gobierno Sirio,ISIS,Aleppo,Media
+274,2015-10-24,Gobierno Sirio,Oposicion,Aleppo,SOHR
+275,2016-02-16,Gobierno Sirio,Oposicion,Aleppo,Media
+276,2017-03-22,Gobierno Sirio,ISIS,Aleppo,SOHR
+277,2016-02-21,Gobierno Sirio,ISIS,Aleppo,Media
+278,2015-11-08,Gobierno Sirio,ISIS,Aleppo,SOHR
+279,2017-04-20,Kurdistan Sirio,ISIS,Raqqa,SOHR
+280,2017-03-25,Gobierno Sirio,ISIS,Aleppo,SOHR
+281,2016-03-07,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+282,2016-02-24,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+283,2016-02-21,Gobierno Sirio,ISIS,Aleppo,Media
+284,2016-02-21,Gobierno Sirio,ISIS,Aleppo,Media
+285,2016-02-20,Gobierno Sirio,ISIS,Aleppo,Twitter
+286,2016-02-21,Gobierno Sirio,ISIS,Aleppo,Media
+287,2016-02-18,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+288,2015-12-03,Gobierno Sirio,ISIS,Aleppo,YouTube
+289,2015-11-09,Gobierno Sirio,ISIS,Aleppo,Media
+290,2015-11-09,Gobierno Sirio,ISIS,Aleppo,Media
+291,2017-03-06,Gobierno Sirio,ISIS,Aleppo,SOHR
+292,2016-02-22,Gobierno Sirio,ISIS,Aleppo,Media
+293,2016-08-05,Gobierno Sirio,Oposicion,Aleppo,SOHR
+294,2016-02-18,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+295,2017-03-16,Gobierno Sirio,ISIS,Aleppo,SOHR
+296,2016-02-16,Gobierno Sirio,ISIS,Aleppo,SOHR
+297,2016-02-21,Gobierno Sirio,ISIS,Aleppo,SOHR
+298,2015-12-16,Gobierno Sirio,ISIS,Aleppo,Media
+299,2017-03-22,Gobierno Sirio,ISIS,Aleppo,SOHR
+300,2016-02-21,Gobierno Sirio,ISIS,Aleppo,Media
+301,2016-02-19,Gobierno Sirio,ISIS,Aleppo,Media
+302,2016-02-21,Gobierno Sirio,ISIS,Aleppo,SOHR
+303,2016-02-18,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+304,2016-01-26,Gobierno Sirio,ISIS,Aleppo,SOHR
+305,2016-02-24,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+306,2017-03-07,Gobierno Sirio,ISIS,Aleppo,SOHR
+307,2016-02-13,Gobierno Sirio,ISIS,Aleppo,Twitter
+308,2016-01-24,Gobierno Sirio,ISIS,Aleppo,Twitter
+309,2017-02-13,Gobierno Sirio,ISIS,Aleppo,SOHR
+310,2016-02-24,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+311,2016-03-01,Gobierno Sirio,ISIS,Aleppo,YouTube
+312,2017-03-07,Gobierno Sirio,ISIS,Aleppo,Twitter
+313,2016-02-21,Gobierno Sirio,ISIS,Aleppo,SOHR
+314,2016-01-29,Gobierno Sirio,ISIS,Aleppo,Twitter
+315,2016-02-24,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+316,2017-03-06,Gobierno Sirio,ISIS,Aleppo,SOHR
+317,2016-02-12,Gobierno Sirio,ISIS,Aleppo,Media
+318,2016-01-22,Gobierno Sirio,ISIS,Aleppo,SOHR
+319,2017-02-21,Gobierno Sirio,ISIS,Aleppo,SOHR
+320,2015-12-25,Gobierno Sirio,ISIS,Aleppo,SOHR
+321,2015-12-25,Gobierno Sirio,ISIS,Aleppo,SOHR
+322,2017-03-07,Gobierno Sirio,ISIS,Aleppo,SOHR
+323,2016-02-03,Gobierno Sirio,ISIS,Aleppo,Media
+324,2015-12-02,Gobierno Sirio,ISIS,Aleppo,Twitter
+325,2017-03-07,Gobierno Sirio,ISIS,Aleppo,SOHR
+326,2016-02-17,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+327,2017-03-07,Gobierno Sirio,ISIS,Aleppo,SOHR
+328,2016-07-28,Gobierno Sirio,Oposicion,Aleppo,SOHR
+329,2016-11-27,Gobierno Sirio,Oposicion,Aleppo,SOHR
+330,2016-02-24,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+331,2016-01-30,Gobierno Sirio,ISIS,Aleppo,Twitter
+332,2016-01-01,Gobierno Sirio,ISIS,Aleppo,Media
+333,2017-03-06,Gobierno Sirio,ISIS,Aleppo,SOHR
+334,2016-02-26,Gobierno Sirio,Oposicion,Aleppo,SOHR
+335,2016-01-22,Gobierno Sirio,ISIS,Aleppo,SOHR
+336,2016-10-15,Gobierno Sirio,Oposicion,Aleppo,SOHR
+337,2016-10-07,Gobierno Sirio,Oposicion,Aleppo,SOHR
+338,2016-10-15,Gobierno Sirio,Oposicion,Aleppo,SOHR
+339,2015-01-05,Oposicion,Gobierno Sirio,Aleppo,Facebook
+340,2016-02-15,Gobierno Sirio,ISIS,Aleppo,SOHR
+341,2015-02-02,Gobierno Sirio,Oposicion,Aleppo,Twitter
+342,2016-01-10,Gobierno Sirio,ISIS,Aleppo,SOHR
+343,2017-03-06,Gobierno Sirio,ISIS,Aleppo,SOHR
+344,2015-01-24,Oposicion,Gobierno Sirio,Aleppo,YouTube
+345,2017-03-06,Gobierno Sirio,ISIS,Aleppo,SOHR
+346,2016-09-29,Gobierno Sirio,Oposicion,Aleppo,SOHR
+347,2016-03-06,Kurdistan Sirio,ISIS,Raqqa,Twitter
+348,2015-12-13,Kurdistan Sirio,ISIS,Hasakeh,Media
+349,2015-12-13,Kurdistan Sirio,ISIS,Hasakeh,Media
+350,2015-03-19,Gobierno Sirio,Oposicion,Aleppo,Media
+351,2017-03-07,Gobierno Sirio,ISIS,Aleppo,SOHR
+352,2015-12-13,Kurdistan Sirio,ISIS,Hasakeh,Media
+353,2015-12-10,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+354,2016-02-12,Kurdistan Sirio,Oposicion,Aleppo,SOHR
+355,2016-06-01,Kurdistan Sirio,ISIS,Aleppo,SOHR
+356,2015-07-07,Kurdistan Sirio,ISIS,Raqqa,Twitter
+357,2017-02-06,Gobierno Sirio,ISIS,Aleppo,YouTube
+358,2017-02-13,Gobierno Sirio,ISIS,Aleppo,SOHR
+359,2015-07-06,Kurdistan Sirio,ISIS,Raqqa,Media
+360,2016-03-06,Kurdistan Sirio,ISIS,Raqqa,Twitter
+361,2016-02-12,Gobierno Sirio,Oposicion,Aleppo,Twitter
+362,2017-02-07,Gobierno Sirio,ISIS,Aleppo,SOHR
+363,2016-10-30,Gobierno Sirio,ISIS,Aleppo,SOHR
+364,2016-10-30,Gobierno Sirio,ISIS,Aleppo,SOHR
+365,2016-03-04,Kurdistan Sirio,ISIS,Raqqa,Twitter
+366,2017-02-25,Gobierno Sirio,Oposicion,Aleppo,SOHR
+367,2015-02-16,Gobierno Sirio,Oposicion,Aleppo,SOHR
+368,2015-07-06,Kurdistan Sirio,ISIS,Raqqa,Media
+369,2016-05-24,Kurdistan Sirio,ISIS,Raqqa,Twitter
+370,2015-12-08,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+371,2015-06-22,Kurdistan Sirio,ISIS,Raqqa,Media
+372,2017-02-10,Gobierno Sirio,ISIS,Aleppo,YouTube
+373,2015-11-15,Kurdistan Sirio,ISIS,Hasakeh,Media
+374,2015-12-29,Kurdistan Sirio,ISIS,Aleppo,Media
+375,2015-10-09,ISIS,Oposicion,Aleppo,SOHR
+376,2017-03-25,Oposicion,Gobierno Sirio,Aleppo,Twitter
+377,2016-02-07,Gobierno Sirio,Oposicion,Aleppo,Twitter
+378,2016-10-31,Oposicion,Gobierno Sirio,Aleppo,Twitter
+379,2016-10-30,Kurdistan Sirio,ISIS,Aleppo,SOHR
+380,2015-12-25,Kurdistan Sirio,ISIS,Aleppo,Media
+381,2015-11-15,Kurdistan Sirio,ISIS,Hasakeh,Media
+382,2016-02-01,Gobierno Sirio,Oposicion,Aleppo,SOHR
+383,2016-03-04,Kurdistan Sirio,ISIS,Hama,Twitter
+384,2015-12-24,Kurdistan Sirio,ISIS,Aleppo,Media
+385,2015-11-08,Kurdistan Sirio,ISIS,Hasakeh,Media
+386,2015-06-22,Kurdistan Sirio,ISIS,Raqqa,SOHR
+387,2016-06-20,ISIS,Kurdistan Sirio,Aleppo,Media
+388,2017-02-24,CJTF-OIR,ISIS,Aleppo,Twitter
+389,2016-10-30,Kurdistan Sirio,ISIS,Aleppo,SOHR
+390,2015-12-27,Kurdistan Sirio,ISIS,Aleppo,Twitter
+391,2015-11-21,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+392,2016-10-30,Kurdistan Sirio,ISIS,Aleppo,SOHR
+393,2017-02-23,CJTF-OIR,ISIS,Aleppo,Twitter
+394,2016-02-02,Gobierno Sirio,Oposicion,Aleppo,SOHR
+395,2015-12-27,Kurdistan Sirio,ISIS,Aleppo,Media
+396,2015-07-06,Kurdistan Sirio,ISIS,Raqqa,Media
+397,2015-07-07,Kurdistan Sirio,ISIS,Raqqa,Media
+398,2016-02-05,Gobierno Sirio,Oposicion,Aleppo,SOHR
+399,2015-11-15,Kurdistan Sirio,ISIS,Hasakeh,Media
+400,2016-11-05,Kurdistan Sirio,ISIS,Aleppo,SOHR
+401,2016-08-20,Kurdistan Sirio,ISIS,Aleppo,Twitter
+402,2015-11-11,Kurdistan Sirio,ISIS,Hasakeh,Media
+403,2015-07-09,Kurdistan Sirio,ISIS,Raqqa,Media
+404,2015-07-05,Kurdistan Sirio,ISIS,Raqqa,SOHR
+405,2016-02-15,Gobierno Sirio,Oposicion,Aleppo,SOHR
+406,2016-05-24,Kurdistan Sirio,ISIS,Raqqa,Twitter
+407,2016-02-26,Kurdistan Sirio,Gobierno Sirio,Aleppo,Twitter
+408,2015-06-20,Kurdistan Sirio,ISIS,Raqqa,Media
+409,2016-11-14,Oposicion,ISIS,Aleppo,SOHR
+410,2015-07-09,Kurdistan Sirio,ISIS,Raqqa,Media
+411,2015-11-21,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+412,2015-07-06,Kurdistan Sirio,ISIS,Raqqa,Media
+413,2015-12-29,Kurdistan Sirio,ISIS,Aleppo,Media
+414,2016-11-14,Oposicion,ISIS,Aleppo,SOHR
+415,2015-11-14,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+416,2016-02-08,Gobierno Sirio,Oposicion,Aleppo,SOHR
+417,2016-06-09,Kurdistan Sirio,ISIS,Raqqa,SOHR
+418,2016-10-21,Oposicion,ISIS,Aleppo,Twitter
+419,2016-03-04,Kurdistan Sirio,ISIS,Raqqa,Twitter
+420,2015-12-23,Kurdistan Sirio,ISIS,Aleppo,Media
+421,2015-11-10,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+422,2016-09-24,Oposicion,ISIS,Aleppo,SOHR
+423,2015-07-06,Kurdistan Sirio,ISIS,Aleppo,Media
+424,2015-11-10,Kurdistan Sirio,ISIS,Hasakeh,Media
+425,2015-06-20,Kurdistan Sirio,ISIS,Raqqa,Media
+426,2015-06-20,Kurdistan Sirio,ISIS,Raqqa,Media
+427,2016-06-10,Kurdistan Sirio,ISIS,Aleppo,Media
+428,2016-02-15,Kurdistan Sirio,Oposicion,Aleppo,SOHR
+429,2015-12-29,Kurdistan Sirio,ISIS,Aleppo,Media
+430,2015-11-14,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+431,2016-02-04,Kurdistan Sirio,Oposicion,Aleppo,Twitter
+432,2015-07-06,Kurdistan Sirio,ISIS,Raqqa,SOHR
+433,2017-02-27,Oposicion,Kurdistan Sirio,Aleppo,Twitter
+434,2015-07-06,Kurdistan Sirio,ISIS,Raqqa,Media
+435,2016-10-24,Oposicion,ISIS,Aleppo,SOHR
+436,2016-06-10,Kurdistan Sirio,ISIS,Aleppo,Media
+437,2015-07-09,Kurdistan Sirio,ISIS,Raqqa,Media
+438,2016-06-04,Kurdistan Sirio,ISIS,Aleppo,SOHR
+439,2015-06-30,Kurdistan Sirio,ISIS,Aleppo,Media
+440,2015-05-25,Kurdistan Sirio,ISIS,Hasakeh,Media
+441,2016-06-10,Kurdistan Sirio,ISIS,Aleppo,Media
+442,2015-07-09,Kurdistan Sirio,ISIS,Raqqa,Media
+443,2016-06-10,Kurdistan Sirio,ISIS,Aleppo,Media
+444,2016-10-24,Oposicion,ISIS,Aleppo,SOHR
+445,2016-02-08,Kurdistan Sirio,Oposicion,Aleppo,SOHR
+446,2016-10-16,Oposicion,ISIS,Aleppo,SOHR
+447,2016-01-12,Kurdistan Sirio,ISIS,Aleppo,SOHR
+448,2015-07-20,Kurdistan Sirio,ISIS,Aleppo,Twitter
+449,2015-05-25,Kurdistan Sirio,ISIS,Hasakeh,Media
+450,2015-07-19,Kurdistan Sirio,ISIS,Hasakeh,Media
+451,2015-05-25,Kurdistan Sirio,ISIS,Hasakeh,Media
+452,2016-06-10,Kurdistan Sirio,ISIS,Aleppo,Media
+453,2015-08-03,Gobierno Sirio,ISIS,Hasakeh,SOHR
+454,2015-05-25,Kurdistan Sirio,ISIS,Hasakeh,Media
+455,2015-08-03,Kurdistan Sirio,ISIS,Hasakeh,Media
+456,2015-06-19,Kurdistan Sirio,ISIS,Aleppo,Twitter
+457,2015-06-22,Kurdistan Sirio,ISIS,Raqqa,Twitter
+458,2015-06-30,Kurdistan Sirio,ISIS,Aleppo,Media
+459,2016-11-07,Oposicion,ISIS,Aleppo,SOHR
+460,2015-11-14,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+461,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+462,2015-06-01,Gobierno Sirio,ISIS,Hasakeh,SOHR
+463,2016-06-07,Kurdistan Sirio,ISIS,Aleppo,Twitter
+464,2015-11-10,Kurdistan Sirio,ISIS,Hasakeh,Media
+465,2015-06-19,Kurdistan Sirio,ISIS,Aleppo,Twitter
+466,2015-07-09,Kurdistan Sirio,ISIS,Aleppo,Twitter
+467,2016-02-15,Kurdistan Sirio,Oposicion,Aleppo,SOHR
+468,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+469,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+470,2015-07-09,Kurdistan Sirio,ISIS,Raqqa,Media
+471,2016-02-16,Kurdistan Sirio,Oposicion,Aleppo,SOHR
+472,2016-10-18,Oposicion,ISIS,Aleppo,SOHR
+473,2015-12-23,Kurdistan Sirio,ISIS,Aleppo,Media
+474,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Twitter
+475,2015-06-18,Kurdistan Sirio,ISIS,Aleppo,Twitter
+476,2016-10-18,CJTF-OIR,ISIS,Aleppo,SOHR
+477,2016-08-22,Kurdistan Sirio,Gobierno Sirio,Hasakeh,SOHR
+478,2016-01-02,Kurdistan Sirio,Oposicion,Aleppo,SOHR
+479,2015-07-06,Kurdistan Sirio,ISIS,Raqqa,Media
+480,2016-06-11,Kurdistan Sirio,ISIS,Aleppo,Media
+481,2015-06-18,Kurdistan Sirio,ISIS,Aleppo,Twitter
+482,2015-07-03,Kurdistan Sirio,ISIS,Hasakeh,Media
+483,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Twitter
+484,2015-06-18,Kurdistan Sirio,ISIS,Aleppo,Twitter
+485,2015-11-10,Kurdistan Sirio,ISIS,Hasakeh,Media
+486,2016-02-06,Kurdistan Sirio,Oposicion,Aleppo,Twitter
+487,2016-10-07,Oposicion,ISIS,Aleppo,SOHR
+488,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+489,2015-06-23,Kurdistan Sirio,ISIS,Raqqa,Twitter
+490,2015-12-31,Kurdistan Sirio,Oposicion,Aleppo,SOHR
+491,2015-06-20,Kurdistan Sirio,ISIS,Raqqa,Twitter
+492,2016-10-24,Oposicion,ISIS,Aleppo,SOHR
+493,2015-12-13,Kurdistan Sirio,ISIS,Aleppo,Media
+494,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Twitter
+495,2015-06-17,Kurdistan Sirio,ISIS,Aleppo,Twitter
+496,2016-10-30,ISIS,Oposicion,Aleppo,SOHR
+497,2016-02-08,Kurdistan Sirio,Oposicion,Aleppo,SOHR
+498,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Twitter
+499,2015-07-06,Kurdistan Sirio,ISIS,Raqqa,Media
+500,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+501,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Twitter
+502,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+503,2015-12-31,Kurdistan Sirio,Oposicion,Aleppo,SOHR
+504,2015-05-25,Kurdistan Sirio,ISIS,Raqqa,Twitter
+505,2015-07-06,Kurdistan Sirio,ISIS,Raqqa,Media
+506,2015-07-09,Kurdistan Sirio,ISIS,Raqqa,Media
+507,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,SOHR
+508,2016-11-07,Oposicion,ISIS,Aleppo,SOHR
+509,2016-05-28,Oposicion,ISIS,Aleppo,Twitter
+510,2015-06-23,Kurdistan Sirio,ISIS,Raqqa,Twitter
+511,2016-10-15,Oposicion,ISIS,Aleppo,SOHR
+512,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Twitter
+513,2016-02-13,Kurdistan Sirio,Oposicion,Aleppo,SOHR
+514,2015-05-06,Kurdistan Sirio,ISIS,Aleppo,Media
+515,2016-02-11,Kurdistan Sirio,Oposicion,Aleppo,SOHR
+516,2016-06-16,Kurdistan Sirio,ISIS,Aleppo,Twitter
+517,2016-07-30,Kurdistan Sirio,ISIS,Aleppo,SOHR
+518,2015-12-28,Kurdistan Sirio,Oposicion,Aleppo,Twitter
+519,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Twitter
+520,2016-10-16,Oposicion,ISIS,Aleppo,SOHR
+521,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+522,2015-05-06,Kurdistan Sirio,ISIS,Aleppo,Media
+523,2016-11-07,Oposicion,ISIS,Aleppo,SOHR
+524,2016-02-29,Kurdistan Sirio,ISIS,Hama,SOHR
+525,2016-06-10,Kurdistan Sirio,ISIS,Aleppo,Media
+526,2015-06-16,Kurdistan Sirio,ISIS,Aleppo,Twitter
+527,2016-05-29,Oposicion,ISIS,Aleppo,Twitter
+528,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+529,2015-06-15,Kurdistan Sirio,ISIS,Aleppo,Twitter
+530,2016-10-16,Oposicion,ISIS,Aleppo,SOHR
+531,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,Media
+532,2015-05-09,Kurdistan Sirio,ISIS,Hasakeh,Media
+533,2016-11-07,Oposicion,ISIS,Aleppo,SOHR
+534,2016-06-08,Kurdistan Sirio,ISIS,Aleppo,Twitter
+535,2016-10-05,Oposicion,ISIS,Aleppo,Media
+536,2015-12-27,Kurdistan Sirio,Oposicion,Aleppo,Twitter
+537,2015-04-13,Kurdistan Sirio,ISIS,Aleppo,Media
+538,2015-06-21,Kurdistan Sirio,ISIS,Raqqa,Media
+539,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,Media
+540,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+541,2015-02-24,Kurdistan Sirio,ISIS,Hasakeh,Media
+542,2015-06-12,Kurdistan Sirio,ISIS,Raqqa,Media
+543,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+544,2016-02-08,Kurdistan Sirio,Oposicion,Aleppo,SOHR
+545,2015-05-25,Kurdistan Sirio,ISIS,Raqqa,Twitter
+546,2015-06-21,Kurdistan Sirio,ISIS,Raqqa,Media
+547,2014-12-19,Kurdistan Sirio,ISIS,Hasakeh,Media
+548,2016-06-01,Kurdistan Sirio,ISIS,Aleppo,Twitter
+549,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+550,2016-09-29,CJTF-OIR,ISIS,Aleppo,SOHR
+551,2016-06-08,Oposicion,ISIS,Aleppo,Twitter
+552,2015-04-11,Kurdistan Sirio,ISIS,Aleppo,Media
+553,2016-09-29,CJTF-OIR,ISIS,Aleppo,SOHR
+554,2015-03-09,Kurdistan Sirio,ISIS,Aleppo,SOHR
+555,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+556,2015-04-30,Kurdistan Sirio,ISIS,Aleppo,Media
+557,2015-06-18,Kurdistan Sirio,ISIS,Raqqa,SOHR
+558,2016-06-07,Kurdistan Sirio,ISIS,Aleppo,Twitter
+559,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,Media
+560,2016-10-11,Oposicion,ISIS,Aleppo,Twitter
+561,2016-10-12,CJTF-OIR,ISIS,Aleppo,SOHR
+562,2016-10-16,Oposicion,ISIS,Aleppo,Twitter
+563,2015-05-06,Kurdistan Sirio,ISIS,Aleppo,Media
+564,2015-06-11,Kurdistan Sirio,ISIS,Raqqa,SOHR
+565,2015-02-24,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+566,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+567,2016-11-07,Oposicion,ISIS,Aleppo,SOHR
+568,2016-06-07,Kurdistan Sirio,ISIS,Aleppo,Twitter
+569,2016-06-19,Kurdistan Sirio,ISIS,Aleppo,Twitter
+570,2016-10-11,Oposicion,ISIS,Aleppo,Twitter
+571,2015-05-31,Kurdistan Sirio,ISIS,Raqqa,Media
+572,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+573,2016-06-07,Kurdistan Sirio,ISIS,Aleppo,Twitter
+574,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+575,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+576,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+577,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,Media
+578,2016-09-04,Oposicion,ISIS,Aleppo,Facebook
+579,2016-10-10,Oposicion,ISIS,Aleppo,Twitter
+580,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+581,2015-02-18,Kurdistan Sirio,ISIS,Aleppo,SOHR
+582,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+583,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+584,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+585,2015-05-06,Kurdistan Sirio,ISIS,Aleppo,Media
+586,2016-06-13,Kurdistan Sirio,ISIS,Aleppo,Media
+587,2015-06-14,Kurdistan Sirio,ISIS,Raqqa,Media
+588,2015-04-12,Kurdistan Sirio,ISIS,Aleppo,Media
+589,2016-09-20,Oposicion,ISIS,Aleppo,SOHR
+590,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+591,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,Media
+592,2015-06-04,Kurdistan Sirio,ISIS,Raqqa,Media
+593,2016-06-10,Kurdistan Sirio,ISIS,Aleppo,Media
+594,2016-06-13,Kurdistan Sirio,ISIS,Aleppo,Media
+595,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+596,2016-09-19,Oposicion,ISIS,Aleppo,SOHR
+597,2016-09-19,Oposicion,ISIS,Aleppo,SOHR
+598,2016-09-06,Oposicion,ISIS,Aleppo,Twitter
+599,2015-06-14,Kurdistan Sirio,ISIS,Raqqa,Media
+600,2016-10-11,Oposicion,ISIS,Aleppo,Twitter
+601,2015-06-11,Kurdistan Sirio,ISIS,Raqqa,SOHR
+602,2016-10-10,Oposicion,ISIS,Aleppo,Twitter
+603,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+604,2016-10-09,CJTF-OIR,ISIS,Aleppo,SOHR
+605,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+606,2015-04-21,Kurdistan Sirio,ISIS,Aleppo,Media
+607,2015-02-23,Kurdistan Sirio,ISIS,Hasakeh,Media
+608,2016-05-28,Oposicion,ISIS,Aleppo,Twitter
+609,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+610,2016-09-19,Oposicion,ISIS,Aleppo,SOHR
+611,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+612,2016-09-06,Oposicion,ISIS,Aleppo,Twitter
+613,2015-03-09,Kurdistan Sirio,ISIS,Aleppo,SOHR
+614,2016-09-04,Oposicion,ISIS,Aleppo,SOHR
+615,2015-06-06,Kurdistan Sirio,ISIS,Raqqa,Media
+616,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+617,2015-07-26,Kurdistan Sirio,ISIS,Aleppo,SOHR
+618,2015-05-29,Kurdistan Sirio,ISIS,Hasakeh,Media
+619,2016-06-10,Kurdistan Sirio,ISIS,Aleppo,Twitter
+620,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+621,2016-06-10,Kurdistan Sirio,ISIS,Aleppo,Media
+622,2016-06-07,Kurdistan Sirio,ISIS,Aleppo,Twitter
+623,2016-10-10,Oposicion,ISIS,Aleppo,Twitter
+624,2016-06-10,Kurdistan Sirio,ISIS,Aleppo,Twitter
+625,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,Media
+626,2015-05-25,Kurdistan Sirio,ISIS,Raqqa,Twitter
+627,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+628,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,Media
+629,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+630,2016-10-10,Oposicion,ISIS,Aleppo,SOHR
+631,2016-09-19,Oposicion,ISIS,Aleppo,SOHR
+632,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+633,2015-09-03,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+634,2016-10-09,Oposicion,ISIS,Aleppo,SOHR
+635,2015-03-28,Kurdistan Sirio,ISIS,Aleppo,Media
+636,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+637,2015-05-25,Kurdistan Sirio,ISIS,Aleppo,Twitter
+638,2016-10-09,Oposicion,ISIS,Aleppo,SOHR
+639,2015-05-31,Kurdistan Sirio,ISIS,Raqqa,Media
+640,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,SOHR
+641,2016-09-06,Oposicion,ISIS,Aleppo,Twitter
+642,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+643,2015-06-05,Kurdistan Sirio,ISIS,Raqqa,Media
+644,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Twitter
+645,2015-06-11,Kurdistan Sirio,ISIS,Raqqa,SOHR
+646,2016-09-20,ISIS,Oposicion,Aleppo,Twitter
+647,2016-09-19,Oposicion,ISIS,Aleppo,SOHR
+648,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+649,2016-10-09,Oposicion,ISIS,Aleppo,SOHR
+650,2016-06-10,Kurdistan Sirio,ISIS,Aleppo,Twitter
+651,2016-10-10,CJTF-OIR,ISIS,Aleppo,SOHR
+652,2016-03-25,Oposicion,ISIS,Aleppo,SOHR
+653,2016-10-10,Oposicion,ISIS,Aleppo,Twitter
+654,2015-06-04,Kurdistan Sirio,ISIS,Raqqa,Media
+655,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+656,2015-06-12,Kurdistan Sirio,ISIS,Raqqa,Media
+657,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+658,2016-05-28,Oposicion,ISIS,Aleppo,Twitter
+659,2016-06-11,Oposicion,ISIS,Aleppo,Twitter
+660,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Twitter
+661,2015-03-13,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+662,2016-09-19,Oposicion,ISIS,Aleppo,SOHR
+663,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+664,2015-06-05,Kurdistan Sirio,ISIS,Raqqa,Media
+665,2016-06-13,Kurdistan Sirio,ISIS,Aleppo,Media
+666,2015-04-17,Kurdistan Sirio,ISIS,Aleppo,Twitter
+667,2015-03-13,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+668,2016-08-27,Oposicion,ISIS,Aleppo,Twitter
+669,2015-02-26,Kurdistan Sirio,ISIS,Aleppo,Media
+670,2015-02-18,Kurdistan Sirio,ISIS,Aleppo,SOHR
+671,2016-04-01,Oposicion,ISIS,Aleppo,Twitter
+672,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+673,2015-05-31,Kurdistan Sirio,ISIS,Raqqa,SOHR
+674,2015-02-18,Kurdistan Sirio,ISIS,Aleppo,SOHR
+675,2016-09-19,Oposicion,ISIS,Aleppo,SOHR
+676,2016-10-10,Oposicion,ISIS,Aleppo,SOHR
+677,2016-06-10,Kurdistan Sirio,ISIS,Aleppo,Twitter
+678,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+679,2015-02-18,Kurdistan Sirio,ISIS,Aleppo,SOHR
+680,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+681,2016-09-04,Oposicion,ISIS,Aleppo,Twitter
+682,2015-02-25,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+683,2016-06-19,Oposicion,ISIS,Aleppo,Twitter
+684,2016-09-19,Oposicion,ISIS,Aleppo,SOHR
+685,2015-04-21,Kurdistan Sirio,ISIS,Aleppo,Media
+686,2016-06-03,Kurdistan Sirio,ISIS,Aleppo,Twitter
+687,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+688,2016-05-28,Oposicion,ISIS,Aleppo,Twitter
+689,2016-09-03,CJTF-OIR,ISIS,Aleppo,Twitter
+690,2015-02-18,Kurdistan Sirio,ISIS,Aleppo,SOHR
+691,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+692,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+693,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+694,2016-10-10,CJTF-OIR,ISIS,Aleppo,SOHR
+695,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,Media
+696,2015-03-14,Kurdistan Sirio,ISIS,Aleppo,Media
+697,2015-06-14,Kurdistan Sirio,ISIS,Raqqa,Media
+698,2016-06-08,Oposicion,ISIS,Aleppo,SOHR
+699,2015-05-25,Kurdistan Sirio,ISIS,Aleppo,Twitter
+700,2015-06-04,Kurdistan Sirio,ISIS,Raqqa,Media
+701,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+702,2017-03-06,Gobierno Sirio,ISIS,Aleppo,SOHR
+703,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+704,2015-06-14,Kurdistan Sirio,ISIS,Raqqa,Media
+705,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,Media
+706,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+707,2015-06-07,Kurdistan Sirio,ISIS,Raqqa,SOHR
+708,2015-05-31,Kurdistan Sirio,ISIS,Raqqa,Media
+709,2015-02-18,Kurdistan Sirio,ISIS,Raqqa,SOHR
+710,2015-02-26,Kurdistan Sirio,ISIS,Aleppo,Media
+711,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+712,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+713,2016-04-13,Oposicion,ISIS,Aleppo,Twitter
+714,2015-06-11,Kurdistan Sirio,ISIS,Raqqa,SOHR
+715,2015-02-18,Kurdistan Sirio,ISIS,Aleppo,SOHR
+716,2016-05-16,Oposicion,ISIS,Aleppo,Twitter
+717,2016-04-16,Oposicion,ISIS,Aleppo,Twitter
+718,2016-06-19,Oposicion,ISIS,Aleppo,Twitter
+719,2016-09-19,Oposicion,ISIS,Aleppo,SOHR
+720,2016-08-28,Oposicion,ISIS,Aleppo,Twitter
+721,2015-06-12,Kurdistan Sirio,ISIS,Raqqa,Media
+722,2015-03-14,Kurdistan Sirio,ISIS,Aleppo,Media
+723,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+724,2015-06-09,Kurdistan Sirio,ISIS,Raqqa,Media
+725,2015-03-14,Kurdistan Sirio,ISIS,Aleppo,Media
+726,2016-04-12,Oposicion,ISIS,Aleppo,Media
+727,2015-05-21,Kurdistan Sirio,ISIS,Hasakeh,Media
+728,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+729,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+730,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,Media
+731,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+732,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,Media
+733,2016-04-11,Oposicion,ISIS,Aleppo,Twitter
+734,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+735,2015-02-18,Kurdistan Sirio,ISIS,Aleppo,SOHR
+736,2015-03-14,Kurdistan Sirio,ISIS,Aleppo,Media
+737,2015-05-21,Kurdistan Sirio,ISIS,Hasakeh,Media
+738,2015-05-25,Kurdistan Sirio,ISIS,Aleppo,Twitter
+739,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+740,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+741,2015-03-14,Kurdistan Sirio,ISIS,Aleppo,Media
+742,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+743,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+744,2015-06-14,Kurdistan Sirio,ISIS,Raqqa,Media
+745,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+746,2015-05-31,Kurdistan Sirio,ISIS,Raqqa,Media
+747,2015-06-05,Kurdistan Sirio,ISIS,Raqqa,Media
+748,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+749,2015-06-07,Kurdistan Sirio,ISIS,Raqqa,Twitter
+750,2016-11-07,Oposicion,ISIS,Aleppo,SOHR
+751,2016-04-11,Oposicion,ISIS,Aleppo,Twitter
+752,2015-05-20,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+753,2015-06-05,Kurdistan Sirio,ISIS,Raqqa,Media
+754,2016-09-06,Oposicion,ISIS,Aleppo,Twitter
+755,2015-05-31,Kurdistan Sirio,ISIS,Raqqa,Media
+756,2015-03-03,Kurdistan Sirio,ISIS,Hasakeh,Media
+757,2015-05-29,Kurdistan Sirio,ISIS,Hasakeh,Media
+758,2016-04-14,Oposicion,ISIS,Aleppo,Twitter
+759,2016-08-28,Oposicion,Kurdistan Sirio,Aleppo,Twitter
+760,2016-08-29,Oposicion,Kurdistan Sirio,Aleppo,Twitter
+761,2015-06-12,Kurdistan Sirio,ISIS,Raqqa,Media
+762,2015-05-31,Kurdistan Sirio,ISIS,Raqqa,Media
+763,2015-06-09,Kurdistan Sirio,ISIS,Raqqa,Media
+764,2016-01-11,Oposicion,ISIS,Aleppo,SOHR
+765,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+766,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+767,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+768,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+769,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+770,2016-06-03,Kurdistan Sirio,ISIS,Aleppo,Twitter
+771,2016-01-12,Oposicion,ISIS,Aleppo,SOHR
+772,2015-06-08,Kurdistan Sirio,ISIS,Raqqa,Twitter
+773,2015-06-14,Kurdistan Sirio,ISIS,Raqqa,Media
+774,2015-03-03,Kurdistan Sirio,ISIS,Hasakeh,Media
+775,2015-05-27,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+776,2016-04-14,Oposicion,ISIS,Aleppo,SOHR
+777,2016-09-03,CJTF-OIR,ISIS,Aleppo,Twitter
+778,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+779,2015-06-16,Kurdistan Sirio,ISIS,Raqqa,Media
+780,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+781,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+782,2016-09-05,Oposicion,ISIS,Aleppo,Twitter
+783,2016-08-29,Oposicion,Kurdistan Sirio,Aleppo,Twitter
+784,2015-05-02,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+785,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+786,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+787,2015-06-09,Kurdistan Sirio,ISIS,Quneitra,Media
+788,2016-09-04,Oposicion,ISIS,Sweida,Twitter
+789,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+790,2016-09-03,Oposicion,ISIS,Aleppo,Twitter
+791,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+792,2016-08-29,Oposicion,Kurdistan Sirio,Aleppo,Twitter
+793,2015-02-18,Kurdistan Sirio,ISIS,Raqqa,SOHR
+794,2015-05-31,Kurdistan Sirio,ISIS,Raqqa,Media
+795,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+796,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+797,2015-06-16,Kurdistan Sirio,ISIS,Raqqa,Media
+798,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+799,2015-03-14,Kurdistan Sirio,ISIS,Aleppo,Media
+800,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+801,2016-09-04,Oposicion,ISIS,Aleppo,Twitter
+802,2015-06-05,Kurdistan Sirio,ISIS,Raqqa,Media
+803,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+804,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+805,2016-01-04,Kurdistan Sirio,ISIS,Raqqa,Media
+806,2016-12-01,Oposicion,ISIS,Aleppo,SOHR
+807,2015-06-14,Kurdistan Sirio,ISIS,Raqqa,Media
+808,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+809,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+810,2015-02-27,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+811,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+812,2015-02-18,Kurdistan Sirio,ISIS,Aleppo,SOHR
+813,2016-08-28,Oposicion,Kurdistan Sirio,Aleppo,Twitter
+814,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+815,2015-06-16,Kurdistan Sirio,ISIS,Raqqa,Media
+816,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+817,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+818,2015-02-22,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+819,2015-06-14,Kurdistan Sirio,ISIS,Raqqa,Media
+820,2015-06-16,Kurdistan Sirio,ISIS,Raqqa,Media
+821,2016-09-04,Oposicion,ISIS,Aleppo,Twitter
+822,2016-08-29,Oposicion,Kurdistan Sirio,Aleppo,Twitter
+823,2015-05-31,Kurdistan Sirio,ISIS,Raqqa,Media
+824,2016-09-06,CJTF-OIR,ISIS,Aleppo,Twitter
+825,2016-09-04,Oposicion,ISIS,Aleppo,Twitter
+826,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+827,2015-06-14,Kurdistan Sirio,ISIS,Raqqa,Media
+828,2015-05-29,Kurdistan Sirio,ISIS,Hasakeh,Media
+829,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+830,2015-06-16,Kurdistan Sirio,ISIS,Raqqa,Media
+831,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+832,2016-09-02,CJTF-OIR,ISIS,Aleppo,Twitter
+833,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+834,2016-09-03,Oposicion,ISIS,Aleppo,Twitter
+835,2015-06-14,Kurdistan Sirio,ISIS,Raqqa,Media
+836,2016-02-28,Kurdistan Sirio,ISIS,Raqqa,SOHR
+837,2015-06-16,Kurdistan Sirio,ISIS,Raqqa,Media
+838,2015-06-16,Kurdistan Sirio,ISIS,Raqqa,Media
+839,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+840,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+841,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+842,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+843,2015-06-13,Kurdistan Sirio,ISIS,Raqqa,Media
+844,2016-09-04,Oposicion,ISIS,Aleppo,Twitter
+845,2015-05-27,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+846,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+847,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+848,2016-08-29,Oposicion,Kurdistan Sirio,Aleppo,Twitter
+849,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,Media
+850,2015-02-18,Kurdistan Sirio,ISIS,Aleppo,SOHR
+851,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+852,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+853,2016-08-28,Oposicion,Kurdistan Sirio,Aleppo,Twitter
+854,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+855,2015-02-18,Kurdistan Sirio,ISIS,Raqqa,SOHR
+856,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+857,2016-08-30,Oposicion,ISIS,Aleppo,Twitter
+858,2016-09-04,Oposicion,ISIS,Aleppo,Twitter
+859,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+860,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+861,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,Media
+862,2016-09-04,Oposicion,ISIS,Aleppo,Twitter
+863,2016-08-27,Oposicion,ISIS,Aleppo,Twitter
+864,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+865,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+866,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+867,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+868,2016-09-01,Oposicion,ISIS,Aleppo,Twitter
+869,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+870,2016-09-02,Oposicion,ISIS,Aleppo,Twitter
+871,2015-02-14,Kurdistan Sirio,ISIS,Aleppo,SOHR
+872,2016-09-04,CJTF-OIR,ISIS,Aleppo,Twitter
+873,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+874,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+875,2016-09-03,Oposicion,ISIS,Aleppo,Twitter
+876,2015-02-28,Kurdistan Sirio,ISIS,Hasakeh,Media
+877,2015-02-24,Kurdistan Sirio,ISIS,Hasakeh,Media
+878,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+879,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+880,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+881,2016-09-01,Oposicion,ISIS,Aleppo,Twitter
+882,2014-03-25,Kurdistan Sirio,ISIS,Hasakeh,Media
+883,2016-08-28,Oposicion,ISIS,Aleppo,Twitter
+884,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+885,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+886,2016-08-27,CJTF-OIR,Kurdistan Sirio,Aleppo,Twitter
+887,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+888,2016-09-03,Oposicion,ISIS,Aleppo,Twitter
+889,2015-02-03,Kurdistan Sirio,ISIS,Aleppo,SOHR
+890,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+891,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+892,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+893,2016-09-02,Oposicion,ISIS,Aleppo,Twitter
+894,2016-08-28,Oposicion,Kurdistan Sirio,Aleppo,Twitter
+895,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+896,2015-03-02,Kurdistan Sirio,ISIS,Hasakeh,Media
+897,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+898,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+899,2016-09-01,Oposicion,ISIS,Aleppo,Twitter
+900,2015-02-03,Kurdistan Sirio,ISIS,Aleppo,SOHR
+901,2015-03-04,Kurdistan Sirio,ISIS,Aleppo,Twitter
+902,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+903,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+904,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,Twitter
+905,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+906,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+907,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+908,2016-08-27,Oposicion,ISIS,Aleppo,YouTube
+909,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+910,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+911,2016-08-28,Oposicion,ISIS,Aleppo,Twitter
+912,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+913,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+914,2015-02-18,Kurdistan Sirio,ISIS,Aleppo,SOHR
+915,2015-02-03,Kurdistan Sirio,ISIS,Aleppo,SOHR
+916,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+917,2015-02-03,Kurdistan Sirio,ISIS,Aleppo,SOHR
+918,2015-02-01,Kurdistan Sirio,ISIS,Aleppo,SOHR
+919,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+920,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+921,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+922,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+923,2015-02-01,Kurdistan Sirio,ISIS,Aleppo,SOHR
+924,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+925,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+926,2016-08-27,Oposicion,ISIS,Aleppo,Twitter
+927,2015-03-07,Gobierno Sirio,ISIS,Hasakeh,Media
+928,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+929,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+930,2015-02-01,Kurdistan Sirio,ISIS,Aleppo,SOHR
+931,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+932,2015-02-01,Kurdistan Sirio,ISIS,Aleppo,SOHR
+933,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+934,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+935,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+936,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+937,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+938,2015-03-04,Kurdistan Sirio,ISIS,Aleppo,Twitter
+939,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+940,2016-08-26,Oposicion,ISIS,Aleppo,Twitter
+941,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+942,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+943,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+944,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+945,2015-01-29,Kurdistan Sirio,ISIS,Aleppo,SOHR
+946,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+947,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+948,2015-02-01,Kurdistan Sirio,ISIS,Aleppo,SOHR
+949,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+950,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+951,2015-02-03,Kurdistan Sirio,ISIS,Aleppo,SOHR
+952,2016-08-24,Oposicion,ISIS,Aleppo,Media
+953,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+954,2015-01-29,Kurdistan Sirio,ISIS,Aleppo,SOHR
+955,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+956,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+957,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+958,2015-03-07,Gobierno Sirio,ISIS,Hasakeh,Media
+959,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+960,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+961,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+962,2015-02-03,Kurdistan Sirio,ISIS,Aleppo,SOHR
+963,2015-02-24,Kurdistan Sirio,ISIS,Hasakeh,Media
+964,2015-02-03,Kurdistan Sirio,ISIS,Aleppo,SOHR
+965,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+966,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+967,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+968,2016-08-24,Oposicion,ISIS,Aleppo,Media
+969,2015-02-28,Gobierno Sirio,ISIS,Hasakeh,Media
+970,2015-02-03,Kurdistan Sirio,ISIS,Aleppo,SOHR
+971,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+972,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+973,2015-01-29,Kurdistan Sirio,ISIS,Aleppo,SOHR
+974,2015-01-29,Kurdistan Sirio,ISIS,Aleppo,SOHR
+975,2015-03-07,Gobierno Sirio,ISIS,Hasakeh,Media
+976,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+977,2015-03-07,Gobierno Sirio,ISIS,Hasakeh,SOHR
+978,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+979,2015-02-22,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+980,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+981,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+982,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+983,2015-03-02,Gobierno Sirio,ISIS,Hasakeh,Media
+984,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+985,2015-03-07,Gobierno Sirio,ISIS,Hasakeh,Media
+986,2015-03-02,Gobierno Sirio,ISIS,Hasakeh,SOHR
+987,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+988,2015-01-27,Kurdistan Sirio,ISIS,Aleppo,SOHR
+989,2015-01-29,Kurdistan Sirio,ISIS,Aleppo,SOHR
+990,2015-02-02,Kurdistan Sirio,ISIS,Aleppo,Twitter
+991,2015-03-02,Gobierno Sirio,ISIS,Hasakeh,Media
+992,2015-02-22,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+993,2015-03-02,Gobierno Sirio,ISIS,Hasakeh,Media
+994,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+995,2015-02-28,Gobierno Sirio,ISIS,Hasakeh,SOHR
+996,2015-01-26,Kurdistan Sirio,ISIS,Aleppo,SOHR
+997,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+998,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+999,2015-01-18,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1000,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1001,2015-02-05,Gobierno Sirio,ISIS,Hasakeh,SOHR
+1002,2015-02-07,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1003,2015-02-13,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1004,2015-02-28,Gobierno Sirio,ISIS,Hasakeh,Media
+1005,2015-01-29,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1006,2015-03-02,Gobierno Sirio,ISIS,Hasakeh,Media
+1007,2015-01-24,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1008,2015-01-29,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1009,2015-02-22,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+1010,2015-01-23,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1011,2015-03-02,Gobierno Sirio,ISIS,Hasakeh,Media
+1012,2015-02-26,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+1013,2015-01-29,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1014,2015-02-05,Gobierno Sirio,ISIS,Hasakeh,SOHR
+1015,2015-02-28,Gobierno Sirio,ISIS,Hasakeh,SOHR
+1016,2015-02-22,Kurdistan Sirio,ISIS,Hasakeh,SOHR
+1017,2015-02-01,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1018,2015-02-05,Gobierno Sirio,ISIS,Hasakeh,SOHR
+1019,2015-01-29,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1020,2015-03-02,Gobierno Sirio,ISIS,Hasakeh,Media
+1021,2015-01-29,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1022,2015-02-05,Gobierno Sirio,ISIS,Hasakeh,SOHR
+1023,2014-11-23,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1024,2015-02-05,Gobierno Sirio,ISIS,Hasakeh,Media
+1025,2015-02-03,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1026,2015-01-29,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1027,2015-01-22,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1028,2015-02-01,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1029,2015-01-29,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1030,2015-02-05,Gobierno Sirio,ISIS,Hasakeh,SOHR
+1031,2015-02-05,Gobierno Sirio,ISIS,Hasakeh,SOHR
+1032,2015-02-01,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1033,2015-02-05,Gobierno Sirio,ISIS,Hasakeh,Media
+1034,2015-01-29,Kurdistan Sirio,ISIS,Aleppo,SOHR
+1035,2015-02-05,Gobierno Sirio,ISIS,Hasakeh,SOHR
+1036,2015-02-05,Gobierno Sirio,ISIS,Hasakeh,SOHR
+1037,2015-02-05,Gobierno Sirio,ISIS,Hasakeh,SOHR
+1038,2017-03-04,Gobierno Sirio,ISIS,Hasakeh,Twitter

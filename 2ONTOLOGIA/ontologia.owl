@@ -1,0 +1,622 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.conflictosiria.com/ela/ontologies/2017/4/conflictosiria#"
+     xml:base="http://www.conflictosiria.com/ela/ontologies/2017/4/conflictosiria"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.conflictosiria.com/schema/">
+        <rdfs:comment xml:lang="es">Ontología creada para representar conflictos bélicos</rdfs:comment>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#intervenes -->
+
+    <owl:ObjectProperty rdf:about="http://www.conflictosiria.com/schema/#intervenes">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#ArmedGroup"/>
+        <rdfs:range rdf:resource="http://www.conflictosiria.com/schema/#Conflict"/>
+        <rdfs:comment>Propiedad que define la participación de un grupo armado en un conflicto</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#livesIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.conflictosiria.com/schema/#livesIn">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Victim"/>
+        <rdfs:range rdf:resource="http://www.conflictosiria.com/schema/#Governorate"/>
+        <rdfs:comment>Propiedad que define donde vive una víctima</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#occurs -->
+
+    <owl:ObjectProperty rdf:about="http://www.conflictosiria.com/schema/#occurs">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Conflict"/>
+        <rdfs:range rdf:resource="http://www.conflictosiria.com/schema/#ConflictCountry"/>
+        <rdfs:comment>Propiedad que define el país donde se esta sucitando un conflicto</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#receives -->
+
+    <owl:ObjectProperty rdf:about="http://www.conflictosiria.com/schema/#receives">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Governorate"/>
+        <rdfs:range rdf:resource="http://www.conflictosiria.com/schema/#Assault"/>
+        <rdfs:comment>Propiedad que define el lugar que es afectado por un ataque</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#registeredIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.conflictosiria.com/schema/#registeredIn">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Victim"/>
+        <rdfs:range rdf:resource="http://www.conflictosiria.com/schema/#Decease"/>
+        <rdfs:range rdf:resource="http://www.conflictosiria.com/schema/#Detention"/>
+        <rdfs:range rdf:resource="http://www.conflictosiria.com/schema/#Disappearance"/>
+        <rdfs:comment>Propiedad que define los registros de fallecimienots, detenciones o desapariciones que puede tener una víctima</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#reportedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.conflictosiria.com/schema/#reportedBy">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/Bomber"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/Chemical"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Assault"/>
+        <rdfs:range rdf:resource="http://www.conflictosiria.com/schema/#Source"/>
+        <rdfs:comment>Propiedad que define por quien es reportado un ataque</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#start -->
+
+    <owl:ObjectProperty rdf:about="http://www.conflictosiria.com/schema/#start">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#InverseFunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#ArmedGroup"/>
+        <rdfs:range rdf:resource="http://www.conflictosiria.com/schema/#Assault"/>
+        <rdfs:comment>Propiedad inversa que define quien inicia un ataque</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#startedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.conflictosiria.com/schema/#startedBy">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Assault"/>
+        <rdfs:range rdf:resource="http://www.conflictosiria.com/schema/#ArmedGroup"/>
+        <rdfs:comment>Propiedad que define por quien es iniciado un ataque</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#target -->
+
+    <owl:ObjectProperty rdf:about="http://www.conflictosiria.com/schema/#target">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#ArmedGroup"/>
+        <rdfs:range rdf:resource="http://www.conflictosiria.com/schema/#ArmedGroup"/>
+        <rdfs:comment>Propiedad que define a que grupo aramado va dirigido el ataque</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#territorialDivision -->
+
+    <owl:ObjectProperty rdf:about="http://www.conflictosiria.com/schema/#territorialDivision">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#ConflictCountry"/>
+        <rdfs:range rdf:resource="http://www.conflictosiria.com/schema/#Governorate"/>
+        <rdfs:comment>Propiedad que define la división territorial de un país</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/1999/02/22-rdf-syntax-ns#type -->
+
+    <owl:ObjectProperty rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Source"/>
+        <rdfs:range rdf:resource="http://www.conflictosiria.com/schema/#SourceMedia"/>
+        <rdfs:comment>Propiedad que define el tipo de medio de comunicación que genera una noticia</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#topObjectProperty -->
+
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#topObjectProperty">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#ArmedGroup"/>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://dbpedia.org/ontology/abstract -->
+
+    <owl:DatatypeProperty rdf:about="http://dbpedia.org/ontology/abstract">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#ArmedGroup"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Conflict"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#ConflictCountry"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Governorate"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Propiedad que define la descripción de provincia, grupo armado, conflicto y país</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://dbpedia.org/ontology/arrestDate -->
+
+    <owl:DatatypeProperty rdf:about="http://dbpedia.org/ontology/arrestDate">
+        <rdfs:subPropertyOf rdf:resource="http://dbpedia.org/ontology/date"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Detention"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Propiedad que define la fecha de arresto de una víctima</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://dbpedia.org/ontology/country -->
+
+    <owl:DatatypeProperty rdf:about="http://dbpedia.org/ontology/country">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#ConflictCountry"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Propiedad que define el nombre de un país</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://dbpedia.org/ontology/date -->
+
+    <owl:DatatypeProperty rdf:about="http://dbpedia.org/ontology/date"/>
+    
+
+
+    <!-- http://dbpedia.org/ontology/deathDate -->
+
+    <owl:DatatypeProperty rdf:about="http://dbpedia.org/ontology/deathDate">
+        <rdfs:subPropertyOf rdf:resource="http://dbpedia.org/ontology/date"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Decease"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Propiedad que define la fecha de fallecimiento de una víctima</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://dbpedia.org/ontology/genre -->
+
+    <owl:DatatypeProperty rdf:about="http://dbpedia.org/ontology/genre">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Victim"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Propiedad que define el género de una víctima</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://dbpedia.org/ontology/province -->
+
+    <owl:DatatypeProperty rdf:about="http://dbpedia.org/ontology/province">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Governorate"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Propiedad que define el nombre de una provincia</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#attackDate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.conflictosiria.com/schema/#attackDate">
+        <rdfs:subPropertyOf rdf:resource="http://dbpedia.org/ontology/date"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Assault"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Propiedad que define la fecha en que sucedió un ataque</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#attackURL -->
+
+    <owl:DatatypeProperty rdf:about="http://www.conflictosiria.com/schema/#attackURL">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Source"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+        <rdfs:comment>Propiedad que define el enlace de la noticia</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#citizenType -->
+
+    <owl:DatatypeProperty rdf:about="http://www.conflictosiria.com/schema/#citizenType">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Decease"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Propiedad que define que tipo de ciudadano era una víctima al momento de su muerte</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#criminalRecord -->
+
+    <owl:DatatypeProperty rdf:about="http://www.conflictosiria.com/schema/#criminalRecord">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Detention"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Propiedad que deffine los antecedentes penales de una víctima.</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#deathCause -->
+
+    <owl:DatatypeProperty rdf:about="http://www.conflictosiria.com/schema/#deathCause">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Decease"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Propiedad que define la causa de muerte de una víctima</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#detentionRecord -->
+
+    <owl:DatatypeProperty rdf:about="http://www.conflictosiria.com/schema/#detentionRecord">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Detention"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <rdfs:comment>Propiedad que registra el número de detenciones de una víctima</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#disappearanceDate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.conflictosiria.com/schema/#disappearanceDate">
+        <rdfs:subPropertyOf rdf:resource="http://dbpedia.org/ontology/date"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Disappearance"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Propiedad que define la fecha de desaparición de una víctima</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#foundDate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.conflictosiria.com/schema/#foundDate">
+        <rdfs:subPropertyOf rdf:resource="http://dbpedia.org/ontology/date"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Disappearance"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Propiedad que define la fecha de encontrado de una víctima</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#nombre_reporte -->
+
+    <owl:DatatypeProperty rdf:about="http://www.conflictosiria.com/schema/#nombre_reporte">
+        <rdfs:subPropertyOf rdf:resource="http://xmlns.com/foaf/0.1/name"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Source"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Propiedad que registra el nombre de la víctima</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.w3.org/2003/01/geo/wgs84_pos#latitude -->
+
+    <owl:DatatypeProperty rdf:about="http://www.w3.org/2003/01/geo/wgs84_pos#latitude">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Governorate"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+        <rdfs:comment>Propiedad que define la latitud de una provincia</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.w3.org/2003/01/geo/wgs84_pos#longitude -->
+
+    <owl:DatatypeProperty rdf:about="http://www.w3.org/2003/01/geo/wgs84_pos#longitude">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Governorate"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+        <rdfs:comment>Propiedad que define la longitud de una provincia</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/homepage -->
+
+    <owl:DatatypeProperty rdf:about="http://xmlns.com/foaf/0.1/homepage">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#SourceMedia"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+        <rdfs:comment>Propiedad que registra el sitio web de un medio de comunicación</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/name -->
+
+    <owl:DatatypeProperty rdf:about="http://xmlns.com/foaf/0.1/name">
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#ArmedGroup"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#ConflictCountry"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Governorate"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#SourceMedia"/>
+        <rdfs:domain rdf:resource="http://www.conflictosiria.com/schema/#Victim"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://dbpedia.org/ontology/Attack -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Attack"/>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Country -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Country"/>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Media -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Media"/>
+    
+
+
+    <!-- http://dbpedia.org/ontology/MilitaryConflict -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/MilitaryConflict"/>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Province -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Province"/>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/Bomber -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/Bomber">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Attack"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/Chemical -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/Chemical">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Attack"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/District -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/District">
+        <rdfs:subClassOf rdf:resource="http://www.conflictosiria.com/schema/dbo:location"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/Goberning -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/Goberning">
+        <rdfs:subClassOf rdf:resource="http://www.conflictosiria.com/schema/dbo:location"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/Subdistrict -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/Subdistrict">
+        <rdfs:subClassOf rdf:resource="http://www.conflictosiria.com/schema/dbo:location"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#ArmedGroup -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/#ArmedGroup">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdfs:comment xml:lang="es">Entidad para describir cada uno de los actores que han intervenido en un conflicto bélico</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#Assault -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/#Assault">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Attack"/>
+        <rdfs:comment xml:lang="es">Entidad que describe un ataque realizado en determinado lugar y fecha</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#Conflict -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/#Conflict">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/MilitaryConflict"/>
+        <rdfs:comment xml:lang="es">Entidad general que define un conflicto bélico</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#ConflictCountry -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/#ConflictCountry">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Country"/>
+        <rdfs:comment xml:lang="es">Entidad para nombrar a un pais cualquiera</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#Decease -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/#Decease">
+        <rdfs:comment xml:lang="es">Entidad para describir personas fallecidas por causa de un conflicto bélico</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#Detention -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/#Detention">
+        <rdfs:comment xml:lang="es">Entidad para describir personas detenidas por causa de un conflicto bélico</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#Disappearance -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/#Disappearance">
+        <rdfs:comment xml:lang="es">Entidad para describir personas desaparecidas por causa del conflicto</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#Governorate -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/#Governorate">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Province"/>
+        <rdfs:comment xml:lang="es">Entidad que determina las divisiones territoriales de un país, tambien llamadas provincias</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#Source -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/#Source">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"/>
+                <owl:someValuesFrom rdf:resource="http://www.conflictosiria.com/schema/#SourceMedia"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <owl:disjointWith rdf:resource="http://www.conflictosiria.com/schema/#SourceMedia"/>
+        <rdfs:comment xml:lang="es">Entidad que describe de donde se extrajo la información sobre un ataque</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#SourceMedia -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/#SourceMedia">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Media"/>
+        <rdfs:comment xml:lang="es">Entidad que define los medios por los cuales se comparte la información acerca de un conflicto bélico</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/#Victim -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/#Victim">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.conflictosiria.com/schema/#livesIn"/>
+                <owl:someValuesFrom rdf:resource="http://www.conflictosiria.com/schema/#Governorate"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.conflictosiria.com/schema/#registeredIn"/>
+                <owl:someValuesFrom rdf:resource="http://www.conflictosiria.com/schema/#Decease"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="es">Entidad que define las personas que han sido victimas de un conflicto bélico</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.conflictosiria.com/schema/dbo:location -->
+
+    <owl:Class rdf:about="http://www.conflictosiria.com/schema/dbo:location"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/Organization -->
+
+    <owl:Class rdf:about="http://xmlns.com/foaf/0.1/Organization"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/Person -->
+
+    <owl:Class rdf:about="http://xmlns.com/foaf/0.1/Person"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://dbpedia.org/ontology/Attack"/>
+            <rdf:Description rdf:about="http://dbpedia.org/ontology/Country"/>
+            <rdf:Description rdf:about="http://dbpedia.org/ontology/Media"/>
+            <rdf:Description rdf:about="http://dbpedia.org/ontology/MilitaryConflict"/>
+            <rdf:Description rdf:about="http://dbpedia.org/ontology/Province"/>
+            <rdf:Description rdf:about="http://www.conflictosiria.com/schema/#Decease"/>
+            <rdf:Description rdf:about="http://www.conflictosiria.com/schema/#Detention"/>
+            <rdf:Description rdf:about="http://www.conflictosiria.com/schema/#Disappearance"/>
+            <rdf:Description rdf:about="http://www.conflictosiria.com/schema/#Source"/>
+            <rdf:Description rdf:about="http://www.conflictosiria.com/schema/dbo:location"/>
+            <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Organization"/>
+            <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Person"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

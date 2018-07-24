@@ -1,0 +1,1005 @@
+id,grupo_causante,fecha_muerte,sexo,provincia_muerte,tipo_ciudadano,lugar_nacimiento,nombre,causa_muerte
+1,Gobierno,2017-06-03,Hombre,Damasco,Civil,Midan,Morshed Haji,Detención - Tortura
+2,Gobierno,2017-06-03,Hombre,Damasco,Civil,Hajar Aswad,Brother of Ahmad Mosa Samara,Detención - Tortura
+3,Gobierno,2017-06-03,Hombre,Damasco,Civil,Yarmuk Camp,Mohammad al-Sahli,Detención - Tortura
+4,Gobierno,2017-06-03,Hombre,Damasco,Civil,Tadamun,Jalal al-Rehban,Detención - Tortura
+5,Gobierno,2017-06-03,Hombre,Damasco Rural,Civil,Dumair,Daeas Qasem Wafa,Ejecución de campo
+6,Gobierno,2017-06-03,Hombre,Idlib,No Civil,Jisr Shagour,Mohannad Ahmad al-Mostafa,Disparo
+7,Gobierno,2017-05-31,Hombre,Aleppo,No Civil,Tadif,Abdullah Hamoud al-Wahab,Disparo
+8,ISIS,2017-05-31,Hombre,Damasco Rural,No Civil,Bweda,Abo Baker,Disparo
+9,Gobierno,2017-06-01,Hombre,Damasco Rural,No Civil,Douma,Rasheed al-Hamouri,Disparo
+10,Gobierno,2017-06-03,Hombre,Damasco,Civil,Hajar Aswad,Ahmad Mosa Samara,Detención - Tortura
+11,CJTF-OIR,2017-05-23,Hombre,Aleppo,Civil,,From Saleh Mohammad al-Jasem 2,Bombardeo del avión de guerra
+12,CJTF-OIR,2017-05-23,Hombre,Aleppo,Civil,,From Saleh Mohammad al-Jasem 1,Bombardeo del avión de guerra
+13,Gobierno,2017-05-23,Mujer,Aleppo,Civil,Hamdania,Rama Walid Houri,Bombardeo
+14,Gobierno,2017-05-23,Mujer,Aleppo,Civil,Hamdania,Nour Mohammad Naesan,Bombardeo
+15,Gobierno,2017-05-23,Mujer,Aleppo,Civil,Hamdania,Gina Mohammad Naesan,Bombardeo
+16,Gobierno,2017-05-23,Hombre,Aleppo,Civil,Hamdania,Molham Lozi Habab,Bombardeo
+17,Gobierno,2017-05-23,Mujer,Aleppo,Civil,al-Oaynatt Village,Unidentified,Bombardeo
+18,Gobierno,2017-05-23,Hombre,Aleppo,Civil,Kaferhout,Unidentified,Bombardeo del avión de guerra
+19,ISIS,2017-05-07,Hombre,Aleppo,Civil,Bab,Abd al-Salam al-Ahmad,Explosion
+20,No identificado,2017-05-18,Mujer,Daraa,Civil,Umm Al-Mayathin,Noor al-Huda Mouhammad al-Masri,Bombardeo
+21,Gobierno,2017-05-18,Hombre,Daraa,Civil,Sheikh Miskeen,Hayel Aayesh al-Fa'ouri,Explosion
+22,Gobierno,2017-05-16,Hombre,Aleppo,Civil,Maskaneh,Desconocido3,Bombardeo del avión de guerra
+23,No identificado,2017-05-18,Mujer,Daraa,Civil,Dara Al-Balad,Hala Qasem Abd al-Hameed Abazeid,Bombardeo
+24,Oposición,2017-05-15,Hombre,Damasco Rural,No Civil,Abbada,Khaled Majed Qallae,Disparo
+25,Gobierno,2017-05-14,Hombre,Damasco Rural,Civil,Ashari,Mohammad Meilesh,Bombardeo
+26,Gobierno,2017-05-14,Hombre,Homs,Civil,Hula: Taldo,Abd al-Razzaq Ali Faeour,Bombardeo del avión de guerra
+27,Gobierno,2017-05-14,Hombre,Aleppo,No Civil,,Abd al-Malek Hallak,Disparo
+28,Oposición,2017-05-12,Hombre,Idlib,Civil,Hafserjeh,Samir al-Ahmad,Disparo
+29,Kurdistan Sirio,2017-05-12,Hombre,Idlib,No Civil,Kansaefreh,Naser Mohammad Sayadi,Disparo
+30,Gobierno,2017-05-12,Hombre,Aleppo,Civil,Maskaneh,Mahmoud al-Ali al-Khaled,Bombardeo del avión de guerra
+31,Gobierno,2017-04-30,Hombre,Otras nacionalidades,No Civil,Jordan,Abo Ghareeb,Bombardeo
+32,No identificado,2017-04-29,Hombre,Damasco Rural,No Civil,Harasta,Hamza Ahmad Shuman,Desconocido
+33,,0000-00-00,Hombre,Damasco Rural,Civil,Khan al-Sheih Camp,Mohammad Joumaa Qasem,Bombardeo
+34,,0000-00-00,Hombre,Damasco Rural,Civil,Yabrud,Abd al-Mouen Khaled al-Dakak,Bombardeo
+35,Gobierno,2017-04-29,Hombre,Damasco Rural,No Civil,Douma,Mouhammad Tawfeeq Abd al-Aziz,Desconocido
+36,No identificado,2017-04-29,Hombre,Idlib,No Civil,Armanaz,Mahmoud al-Hijazi,Explosion
+37,Gobierno,2017-04-29,Hombre,Idlib,No Civil,Roj Plain,Ammar Abo al-Barae,Disparo
+38,Gobierno,2017-04-29,Hombre,Idlib,No Civil,Jarjanaz,Mohammad Abd al-Salam al-Dogaim,Disparo
+39,Oposición,2017-04-29,Hombre,Desconocido,Civil,,Desconocido7,Disparo
+40,Oposición,2017-04-29,Hombre,Desconocido,Civil,,Desconocido6,Disparo
+41,Oposición,2017-04-29,Hombre,Desconocido,Civil,,Desconocido5,Disparo
+42,Oposición,2017-04-29,Hombre,Desconocido,Civil,,Desconocido4,Disparo
+43,Oposición,2017-04-29,Hombre,Desconocido,Civil,,Desconocido3,Disparo
+44,Oposición,2017-04-29,Hombre,Damasco Rural,No Civil,Erbeen,Maher Manina,Disparo
+45,Kurdistan Sirio,2017-04-29,Hombre,Homs,No Civil,,Abdualllah al-Homsi,Bombardeo del avión de guerra
+46,Gobierno,2017-04-29,Hombre,Aleppo,Civil,Qasimeah,Samir Latouf,Bombardeo
+47,Oposición,2017-04-29,Hombre,Damasco Rural,No Civil,Erbeen,Abo al-Nour,Disparo
+48,Oposición,2017-04-29,Hombre,Damasco Rural,No Civil,,Abo Saeid Kaedan,Disparo
+49,Gobierno,2017-04-30,Hombre,Daraa,No Civil,Nahta,Yehya Hasan al-Mefelani,Explosion
+50,Gobierno,2017-04-30,Hombre,Daraa,No Civil,Bassr Al-Hareer,Qasem Mohammad al-Hareeri,Explosion
+51,Kurdistan Sirio,2017-04-27,Hombre,Hama,Civil,Taibet Al-Imam,Ahmad Suliman,Bombardeo del avión de guerra
+52,Kurdistan Sirio,2017-04-27,Hombre,Hama,Civil,Qamhana,Majed Mohammad,Bombardeo del avión de guerra
+53,Kurdistan Sirio,2017-04-27,Mujer,Hama,Civil,Kaferzita,Amineh al-Hamwia,Bombardeo del avión de guerra
+54,Gobierno,2017-04-29,Hombre,Damasco,No Civil,Qaboun,Mohammad Qasem,Disparo
+55,Oposición,2017-04-29,Hombre,Damasco Rural,No Civil,Der Salman,Yehya Gerra,Disparo
+56,Oposición,2017-04-29,Hombre,Damasco Rural,No Civil,Der Salman,Mahmoud al-Qadiri,Disparo
+57,Oposición,2017-04-29,Hombre,Damasco Rural,No Civil,Der Salman,Yehya Ateout,Disparo
+58,Oposición,2017-04-29,Hombre,Damasco Rural,No Civil,Der Salman,Ali Ammar Ateout,Disparo
+59,Oposición,2017-04-29,Hombre,Damasco Rural,No Civil,Der Salman,Ali Ali Ateout,Disparo
+60,Oposición,2017-04-29,Hombre,Damasco Rural,No Civil,Der Salman,Mohammad Afif Qedra,Disparo
+61,Oposición,2017-04-29,Hombre,Damasco Rural,Civil,Eftrees,Saif al-Deen al-Homsi,Disparo
+62,Oposición,2017-04-29,Hombre,Damasco Rural,Civil,Erbeen,Nour al-Deen al-Herbawi,Disparo
+63,Gobierno,2017-04-29,Mujer,Damasco Rural,Civil,Madyara,Fayzeh al-Howari,Bombardeo del avión de guerra
+64,Oposición,2017-04-29,Hombre,Damasco Rural,Civil,Hazza,Ahmad al-Taweel,Disparo
+65,Oposición,2017-04-29,Hombre,Damasco Rural,No Civil,Erbeen,Nidal al-Tair,Disparo
+66,Oposición,2017-04-29,Hombre,Damasco Rural,No Civil,Erbeen,Ahmad al-Haj Ali,Disparo
+67,Gobierno,2017-04-30,Hombre,Hama,Civil,Lattamna,Mahmoud Muhammad Sameh Dahroj,Bombardeo del avión de guerra
+68,Gobierno,2017-04-30,Mujer,Daraa,No Civil,Dara Al-Balad,Marwa Abdul Salam Mwafaq al-Masalme,Bombardeo del avión de guerra
+69,Gobierno,2017-04-30,Hombre,Hama,No Civil,Halfaya,Ahmad Muhammad al-Jumaili,Disparo
+70,Gobierno,2017-04-30,Hombre,Daraa,No Civil,Dara Al-Balad,Hasan Taha Slaiman Abazeed,Bombardeo del avión de guerra
+71,Gobierno,2017-04-30,Hombre,Daraa,No Civil,Dara Al-Balad,Abdul Salam Mwafaq Hasan al-Masalme,Bombardeo del avión de guerra
+72,Gobierno,2017-04-30,Mujer,Daraa,No Civil,Dara Al-Balad,Nisreen Fayez Ibraheem al-Masalme,Bombardeo del avión de guerra
+73,Gobierno,2017-04-30,Hombre,Daraa,No Civil,Dara Al-Balad,Mwafaq Adnan Mwafaq al-Masalme,Bombardeo del avión de guerra
+74,Gobierno,2017-04-30,Mujer,Daraa,No Civil,Dara Al-Balad,Hend Adnan Mwafaq al-Masalme,Bombardeo del avión de guerra
+75,Gobierno,2017-04-30,Mujer,Daraa,No Civil,Dara Al-Balad,Meriam Adnan Mwafaq al-Masalme,Bombardeo del avión de guerra
+76,Kurdistan Sirio,2017-04-27,Mujer,Idlib,Civil,Sinjar: Squiah Village,Mariam Shahoud al-Hosain,Bombardeo del avión de guerra
+77,Gobierno,2017-04-27,Hombre,Idlib,Civil,Kafrsijneh,Eisawi Ahmad al-Eisawi,Bombardeo del avión de guerra
+78,Kurdistan Sirio,2017-04-27,Mujer,Idlib,Civil,Serjeh,Mariam Idrees al-Ashqar,Bombardeo del avión de guerra
+79,Kurdistan Sirio,2017-04-27,Mujer,Idlib,Civil,Serjeh,Aysha Idrees al-Ashqar,Bombardeo del avión de guerra
+80,Gobierno,2017-04-27,Hombre,Idlib,Civil,Jisr Shagour,Mohammad Qahwaji,Bombardeo del avión de guerra
+81,Kurdistan Sirio,2017-04-27,Hombre,Idlib,Civil,Marshurin,Awad al-Abd al-Hafez,Bombardeo del avión de guerra
+82,Kurdistan Sirio,2017-04-27,Mujer,Idlib,Civil,Marshurin,Um Abd al-Monem al-Hasan,Bombardeo del avión de guerra
+83,Kurdistan Sirio,2017-04-27,Hombre,Idlib,Civil,Marshurin,Hozaifa Abd al-Hafez,Bombardeo del avión de guerra
+84,Kurdistan Sirio,2017-04-27,Mujer,Idlib,Civil,Marshurin,Ineam Abd al-Monem Tahbash,Bombardeo del avión de guerra
+85,Kurdistan Sirio,2017-04-27,Mujer,Idlib,Civil,Marshurin,Shifae Khaled Tahbash,Bombardeo del avión de guerra
+86,Kurdistan Sirio,2017-04-27,Hombre,Idlib,Civil,Marshurin,Ahmad Abd al-Monem al-Hasan,Bombardeo del avión de guerra
+87,Kurdistan Sirio,2017-04-27,Mujer,Idlib,Civil,Marshurin,Aysha al-Qadour,Bombardeo del avión de guerra
+88,Kurdistan Sirio,2017-04-27,Hombre,Idlib,Civil,Marshurin,Sameh Hasan Tahbash,Bombardeo del avión de guerra
+89,Oposición,2017-04-29,Hombre,Damasco Rural,No Civil,Misraba,Dyab Riad Ganoum,Disparo
+90,No identificado,2017-04-29,Hombre,Otras nacionalidades,No Civil,Chechnya,Desconocido4,Disparo
+91,No identificado,2017-04-29,Hombre,Otras nacionalidades,No Civil,Chechnya,Desconocido3,Disparo
+92,No identificado,2017-04-29,Hombre,Otras nacionalidades,No Civil,Chechnya,Desconocido2,Disparo
+93,No identificado,2017-04-29,Hombre,Otras nacionalidades,No Civil,Chechnya,Desconocido1,Disparo
+94,Gobierno,2017-04-30,Hombre,Daraa,Civil,Naemeh,Mohammad Rami Esam al-Aboud,Bombardeo del avión de guerra
+95,No identificado,2017-04-30,Hombre,Daraa,Civil,Naseeb,Mohamad Jamal Abo Zraik,Disparo
+96,Oposición,2017-04-30,Hombre,Desconocido,Civil,,Kaser Tarad Shano,Disparo
+97,Gobierno,2017-05-01,Hombre,Hama,No Civil,North Alfann,Yousef Fawaz al-Sayed Ataria,Disparo
+98,Gobierno,2017-05-01,Hombre,Aleppo,No Civil,,Anwar Abd al-Salam,Disparo
+99,Gobierno,2017-05-01,Mujer,Aleppo,Civil,Tel Daman,Al-Khaled Family 13,Bombardeo
+100,Gobierno,2017-05-01,Mujer,Aleppo,Civil,Tel Daman,Al-Khaled Family 12,Bombardeo
+101,CJTF-OIR,2017-04-27,Hombre,Aleppo,Civil,Maskaneh,Ahmad al-Hamdi,Bombardeo del avión de guerra
+102,No identificado,2017-04-27,Hombre,Aleppo,Civil,Maskaneh,Abdulawahhab Ismaeel,Disparo
+103,Kurdistan Sirio,2017-04-27,Hombre,Aleppo,Civil,Kafarnaha,Desconocido2,Bombardeo del avión de guerra
+104,Kurdistan Sirio,2017-04-27,Hombre,Aleppo,Civil,Kafarnaha,Desconocido1,Bombardeo del avión de guerra
+105,Oposición,2017-04-28,Hombre,Damasco Rural,No Civil,Douma,Ahmad Raheem Saeed al-Shifouni,Disparo
+106,Oposición,2017-04-28,Hombre,Damasco Rural,Civil,East Ghota,Ali Abd al-Ghani Dawood,Disparo
+107,Oposición,2017-04-28,Hombre,Damasco Rural,No Civil,Douma,Rateb Yasin Awad,Disparo
+108,Oposición,2017-04-28,Hombre,Damasco Rural,No Civil,Douma,Abdullah Abdal-Razzak Samoud,Disparo
+109,Oposición,2017-04-28,Hombre,Damasco Rural,No Civil,Misraba,Khalil Mahmoud al-Kholi,Disparo
+110,Oposición,2017-04-28,Hombre,Desconocido,No Civil,,Hisham Jasem Qasem,Disparo
+111,No identificado,2017-04-29,Hombre,Daraa,No Civil,Khirbet Ghazaleh,Hazzaa Wael Abo Erra,Explosion
+112,Oposición,2017-04-29,Hombre,Damasco Rural,No Civil,Misraba,Dyab Ganoum al-Hout,Disparo
+113,Gobierno,2017-04-29,Hombre,Aleppo,No Civil,Mkahleh,Muheeb al-Ali,Disparo
+114,No identificado,2017-04-29,Hombre,Damasco Rural,Civil,Sbaineh,Ali Mohammad Ali,Disparo
+115,Gobierno,2017-05-01,Mujer,Aleppo,Civil,Tel Daman,Al-Khaled Family 11,Bombardeo
+116,Gobierno,2017-05-01,Mujer,Aleppo,Civil,Tel Daman,Al-Khaled Family 10,Bombardeo
+117,Gobierno,2017-05-01,Hombre,Aleppo,Civil,Tel Daman,Al-Khaled Family 9,Bombardeo
+118,Gobierno,2017-05-01,Hombre,Aleppo,Civil,Tel Daman,Al-Khaled Family 8,Bombardeo
+119,Gobierno,2017-05-01,Hombre,Aleppo,Civil,Tel Daman,Al-Khaled Family 7,Bombardeo
+120,Gobierno,2017-05-01,Hombre,Aleppo,Civil,Tel Daman,Al-Khaled Family 6,Bombardeo
+121,Gobierno,2017-05-01,Hombre,Aleppo,Civil,Tel Daman,Al-Khaled Family 5,Bombardeo
+122,Gobierno,2017-05-01,Hombre,Aleppo,Civil,Tel Daman,Al-Khaled Family 4,Bombardeo
+123,Gobierno,2017-05-01,Hombre,Aleppo,Civil,Tel Daman,Al-Khaled Family 3,Bombardeo
+124,Gobierno,2017-05-01,Hombre,Aleppo,Civil,Tel Daman,Al-Khaled Family 2,Bombardeo
+125,Gobierno,2017-05-01,Hombre,Aleppo,Civil,Tel Daman,Al-Khaled Family 1,Bombardeo
+126,Gobierno,2017-05-01,Hombre,Aleppo,Civil,Tel Daman,Al-Khaled Family 14,Bombardeo
+127,Gobierno,2017-05-01,Hombre,Aleppo,Civil,Tel Daman,Al-Khaled Family 15,Bombardeo
+128,Gobierno,2017-05-01,Hombre,Aleppo,Civil,Tel Daman,Al-Khaled Family 16,Bombardeo
+129,Oposición,2017-04-28,Hombre,Desconocido,No Civil,,Mouhammad Omar Omar,Disparo
+130,Oposición,2017-04-28,Hombre,Damasco Rural,No Civil,Douma,Yousef Khaled Yehya al-Soufi,Disparo
+131,Oposición,2017-04-28,Hombre,Desconocido,No Civil,,Zafer Marwan al-Khalil,Disparo
+132,Oposición,2017-04-28,Hombre,Damasco Rural,No Civil,,Abo Gazi,Disparo
+133,Gobierno,2017-04-28,Hombre,Damasco Rural,No Civil,Erbeen,Imad Daedoush,Disparo
+134,Oposición,2017-04-28,Hombre,Desconocido,No Civil,,Nidal Hafez Darweesh,Disparo
+135,Gobierno,2017-04-28,Hombre,Damasco Rural,No Civil,Erbeen,Firas Qalae,Disparo
+136,Oposición,2017-04-28,Hombre,Damasco Rural,No Civil,Douma,Hasan Mahrous al-Beik,Disparo
+137,Gobierno,2017-04-28,Hombre,Damasco Rural,No Civil,Erbeen,Hamed Abo Qamar,Disparo
+138,ISIS,2017-04-28,Hombre,Daraa,Civil,Shajara,Rami Ghazi al-Jahmani,Ejecución de campo
+139,CJTF-OIR,2017-05-19,Hombre,Homs,Civil,Palmyra,"Hosain Abd al-Halim al-Qasem ""al-Shabraq""",Bombardeo del avión de guerra
+140,Gobierno,2017-04-24,Mujer,Homs,Civil,Rastan,Khitam Shameer,Bombardeo
+141,Gobierno,2017-04-24,Hombre,Hama,Civil,Hama city,Abdulrazak Abo,Bombardeo del avión de guerra
+142,Kurdistan Sirio,2017-04-29,Hombre,Hama,Civil,Kaferzita,Hasan Hamoud al-Arafat,Bombardeo del avión de guerra
+143,Kurdistan Sirio,2017-04-29,Hombre,Hama,Civil,Kaferzita,Amer Raslan al-Aboud,Bombardeo del avión de guerra
+144,Kurdistan Sirio,2017-04-29,Hombre,Hama,Civil,Kaferzita,Ahmad al-Hallak,Bombardeo del avión de guerra
+145,Kurdistan Sirio,2017-04-29,Hombre,Hama,Civil,Hama city,Mostafa Mohammad al-Najjar,Bombardeo del avión de guerra
+146,Kurdistan Sirio,2017-04-29,Hombre,Hama,Civil,Hama city,Gassan al-Dallal,Bombardeo del avión de guerra
+147,No identificado,2017-04-29,Hombre,Idlib,No Civil,Armanaz,Yousef al-Homsi,Explosion
+148,ISIS,2017-05-01,Hombre,Deir Ezzor,No Civil,,Desconocido3,Secuestro-Ejecución
+149,ISIS,2017-05-01,Hombre,Deir Ezzor,No Civil,,Desconocido2,Secuestro-Ejecución
+150,ISIS,2017-05-01,Hombre,Deir Ezzor,No Civil,,Desconocido1,Secuestro-Ejecución
+151,ISIS,2017-05-01,Hombre,Deir Ezzor,No Civil,Bukmal,Unidentified,Secuestro-Ejecución
+152,ISIS,2017-05-01,Mujer,Deir Ezzor,Civil,Bukmal,Unidentified,Secuestro-Ejecución
+153,ISIS,2017-05-01,Hombre,Deir Ezzor,Civil,Joura neighborhood,Dahham Ali al-Asaad,Bombardeo del avión de guerra
+154,Gobierno,2017-05-01,Hombre,Damasco,No Civil,Qaboun,Hamza Omar,Disparo
+155,Oposición,2017-05-01,Hombre,Damasco Rural,No Civil,Douma,Waleed al-Terk,Disparo
+156,Oposición,2017-05-01,Hombre,Damasco Rural,No Civil,Abbada,Amjad Batoul,Disparo
+157,Oposición,2017-05-01,Hombre,Damasco Rural,No Civil,Abbada,Abdulsattar Khaled Sarhan,Disparo
+158,Oposición,2017-05-01,Hombre,Daraa,Civil,Enkhel,Muhammad Mosa al-Dokhe,Ejecución de campo
+159,ISIS,2017-04-28,Hombre,Daraa,Civil,Shajara,Marwan Ghazi al-Jahmani,Ejecución de campo
+160,ISIS,2017-04-28,Hombre,Daraa,Civil,Shajara,Naser Abdo al-Jahmani,Ejecución de campo
+161,ISIS,2017-04-28,Hombre,Daraa,Civil,Shajara,Qasem Naser al-Jahmani,Ejecución de campo
+162,ISIS,2017-04-28,Hombre,Daraa,Civil,Shajara,Abdu al-Hai Tamer al-Jahmani,Ejecución de campo
+163,ISIS,2017-04-28,Hombre,Daraa,Civil,Shajara,Yanes al-Masri,Ejecución de campo
+164,ISIS,2017-04-28,Hombre,Daraa,Civil,Shajara,Aghiyad al-Masri,Ejecución de campo
+165,ISIS,2017-04-28,Hombre,Daraa,Civil,Shajara,Abdullah Mouhammad Abu Habsa,Ejecución de campo
+166,Kurdistan Sirio,2017-04-28,Hombre,Idlib,Civil,Qaysiyeh,Unidentified,Bombardeo del avión de guerra
+167,Kurdistan Sirio,2017-04-28,Mujer,Idlib,Civil,Qaysiyeh,Unidentified,Bombardeo del avión de guerra
+168,Kurdistan Sirio,2017-04-28,Mujer,Idlib,Civil,Serjeh,Huda Ahmad Haj Mosa,Bombardeo del avión de guerra
+169,Gobierno,2017-04-28,Hombre,Idlib,Civil,Sarmeen,Mohammad Mostafa Qareoush,Bombardeo
+170,Gobierno,2017-04-28,Mujer,Idlib,Civil,Sarmeen,Daughter of Ibraheem Mowahed,Bombardeo
+171,Gobierno,2017-05-20,Hombre,Idlib,Civil,Salqeen,Gazal Abd al-Rahman al-Bashi,Bombardeo del avión de guerra
+172,Oposición,2017-05-20,Hombre,Damasco Rural,No Civil,Beit Naiem,Abu al-Baraa,Disparo
+173,ISIS,2017-05-21,Hombre,Aleppo,No Civil,Zammar,Adnan Abu Mouhammad,Explosion
+174,ISIS,2017-05-21,Hombre,Hama,No Civil,Ziyareh,Unidentified,Explosion
+175,ISIS,2017-05-21,Hombre,Hama,No Civil,Ziyareh,Ammar Abd al-Raheem,Explosion
+176,ISIS,2017-05-21,Hombre,Hama,No Civil,Ziyareh,Ammar Mustafa Abboud,Explosion
+177,ISIS,2017-05-21,Hombre,Hama,No Civil,Ziyareh,Mustafa,Explosion
+178,ISIS,2017-05-21,Hombre,Hama,No Civil,Ziyareh,Yahya al-Abboud,Explosion
+179,ISIS,2017-05-21,Hombre,Hama,No Civil,Ziyareh,Abd al-Hadi al-Abboud,Explosion
+180,Gobierno,2017-04-28,Hombre,Idlib,Civil,Sarmeen,Omer Mahdi al-Saeid,Bombardeo
+181,Gobierno,2017-04-28,Hombre,Idlib,Civil,Sarmeen,Mohammad Abd al-Hai Qassas,Bombardeo
+182,Gobierno,2017-04-24,Hombre,Hama,No Civil,Halfaya,Hasan Ali al-Qashlan,Disparo
+183,Gobierno,2017-04-24,Hombre,Hama,No Civil,Halfaya,Fawaz Hasan al-Hasan,Disparo
+184,Gobierno,2017-04-24,Hombre,Hama,Civil,Kaferzita,Shahama Hilal al-Salloum,Bombardeo del avión de guerra
+185,Gobierno,2017-04-24,Hombre,Hama,No Civil,Halfaya,Hikmat Azzam al-Modhi,Disparo
+186,Gobierno,2017-04-24,Hombre,Hama,Civil,Akrab,Ahmad Ziad al-Khaled,Bombardeo
+187,Gobierno,2017-04-24,Hombre,Homs,Civil,Hula: Western Taybeh,Abdullah Omer al-Hasan,Bombardeo del avión de guerra
+188,Gobierno,2017-04-24,Mujer,Homs,Civil,Hula: Taldo,Monira Saeid al-Yousef,Bombardeo del avión de guerra
+189,Gobierno,2017-04-24,Mujer,Homs,Civil,Hula: Taldo,Sondos Myasar Bakour,Bombardeo del avión de guerra
+190,Gobierno,2017-04-24,Mujer,Homs,Civil,Hula: Tal Thahab,Amina Orabi,Bombardeo del avión de guerra
+191,Gobierno,2017-04-24,Hombre,Homs,Civil,Tal Thahab,Mahmoud Nawaf al-Qasem,Bombardeo del avión de guerra
+192,Kurdistan Sirio,2017-04-07,Mujer,Hama,Civil,Halfaya,Taleen Basel al-Merei,Bombardeo del avión de guerra
+193,Kurdistan Sirio,2017-04-06,Mujer,Aleppo,Civil,Hur village,Dalal Ajo,Bombardeo del avión de guerra
+194,Kurdistan Sirio,2017-04-14,Mujer,Idlib,Civil,Sukarieh,Bayan Ammar al-Ali,Bombardeo del avión de guerra
+195,Gobierno,2017-04-11,Hombre,Idlib,Civil,Hambosheih,Mostafa Bakour,Bombardeo del avión de guerra
+196,Kurdistan Sirio,2017-04-14,Hombre,Daraa,Civil,Bosra al-Sham,Mohammad Khair al-Salama,Bombardeo del avión de guerra
+197,No identificado,2017-04-14,Hombre,Damasco Rural,Civil,Douma,Yaseen Salim Morjana,Desconocido
+198,No identificado,2017-04-14,Hombre,Damasco Rural,Civil,Douma,Abd al-Rahman Mahmoud Qashou,Desconocido
+199,Gobierno,2017-04-14,Hombre,Damasco Rural,Civil,Douma,Mouhammad Ismaeel al-Halabi,Desconocido
+200,Kurdistan Sirio,2017-04-05,Hombre,Raqqa,Civil,Kadiran,Khalil al-Afaidli,Bombardeo
+201,Gobierno,2017-04-05,Hombre,Damasco Rural,No Civil,Shabaa,Osama Tarek Elaiwi,Disparo
+202,Oposición,2017-04-12,Hombre,Desconocido,No Civil,,Unidentified,Disparo
+203,ISIS,2017-04-12,Hombre,Deir Ezzor,Civil,Shuhail,Wassiem al-Mahmoud al-Ismael,Detención - Ejecución
+204,Gobierno,2017-04-12,Hombre,Idlib,No Civil,Khan Subul,Abduljaleel Abdulrahman al-Masri,Disparo
+205,Gobierno,2017-04-11,Hombre,Damasco,Civil,Jobar,Khaled Abeel,Bombardeo del avión de guerra
+206,Gobierno,2017-04-11,Hombre,Idlib,Civil,Hambosheih,Ahmad al-Afandi,Bombardeo del avión de guerra
+207,Gobierno,2017-04-11,Hombre,Idlib,No Civil,Ballion,Ali Mohammad al-Ismaeil,Disparo
+208,Gobierno,2017-04-11,Hombre,Idlib,Civil,Hambosheih,Ahmad Bero,Bombardeo del avión de guerra
+209,CJTF-OIR,2017-04-18,Hombre,Otras nacionalidades,Civil,Iraq,Desconocido2,Bombardeo del avión de guerra
+210,ISIS,2017-04-18,Hombre,Aleppo,Civil,Manbej,Mahmoud al-Jasem,Explosion
+211,CJTF-OIR,2017-04-18,Hombre,Otras nacionalidades,Civil,Iraq,Desconocido1,Bombardeo del avión de guerra
+212,CJTF-OIR,2017-04-18,Mujer,Otras nacionalidades,Civil,Iraq,Unidentified,Bombardeo del avión de guerra
+213,Kurdistan Sirio,2017-04-18,Hombre,Aleppo,Civil,Hur,Unidentified,Bombardeo del avión de guerra
+214,Kurdistan Sirio,2017-03-28,Hombre,Idlib,Civil,Fatteera,Abdullah Fayez al-Satouf,Bombardeo del avión de guerra
+215,Gobierno,2017-03-28,Hombre,Idlib,No Civil,Al-Zawia Mount:Hzazeen village,Mostafa Abd al-Rahman al-Yehya,Disparo
+216,Gobierno,2017-03-25,Mujer,Idlib,Civil,Khan Sheikhoun,Dalal Abd al-Razzaq al-Merati,Bombardeo del avión de guerra
+217,Gobierno,2017-03-25,Hombre,Idlib,No Civil,Khan Sheikhoun,Abd al-Hamid Qadah,Disparo
+218,Gobierno,2017-03-25,Hombre,Idlib,No Civil,Khan Sheikhoun,Ahmad Karmo al-Khaled,Disparo
+219,No identificado,2017-03-25,Hombre,Idlib,Civil,,Desconocido1,Explosion
+220,Gobierno,2017-03-25,Hombre,Idlib,No Civil,Saraqib,Abd al-Ilah Anwar al-Awad,Disparo
+221,No identificado,2017-03-25,Hombre,Idlib,Civil,Maasran,Mohammad Khair al-Ezo,Explosion
+222,Gobierno,2017-03-25,Hombre,Aleppo,No Civil,Sheikh Moustafa village,Ahmad Mohammad al-Sultan,Disparo
+223,Gobierno,2017-03-25,Mujer,Idlib,Civil,Jisr Shagour: Kfair village,Amira Gazi Jebo,Bombardeo del avión de guerra
+224,Gobierno,2017-03-25,Hombre,Idlib,No Civil,Heesh,Mohammad al-Yousef,Disparo
+225,No identificado,2017-03-25,Hombre,Idlib,Civil,,Desconocido2,Explosion
+226,Gobierno,2017-03-25,Hombre,Idlib,Civil,Khan Sheikhoun,Hasan Hisham al-Merati,Bombardeo del avión de guerra
+227,Gobierno,2017-03-25,Hombre,Idlib,Civil,Khan Sheikhoun,Jamal Abd al-Razzaq al-Merati,Bombardeo del avión de guerra
+228,Gobierno,2017-03-25,Hombre,Idlib,Civil,Khan Sheikhoun,Ahmad Walid al-Merati,Bombardeo del avión de guerra
+229,Gobierno,2017-03-22,Hombre,Damasco Rural,No Civil,Zabdeen,Adnan Muslim Mutawe'e,Disparo
+230,Gobierno,2017-03-23,Hombre,Aleppo,No Civil,Aleppo Countryside,Mouhammad Khaled Nu'aimi,Disparo
+231,Oposición,2017-03-15,Hombre,Damasco,Civil,,Taleb Mahmoud al-Mhaimeed,Explosion
+232,Oposición,2017-03-15,Hombre,Damasco,Civil,,Ahmad Yousef Masseesi,Explosion
+233,CJTF-OIR,2017-03-22,Hombre,Raqqa,Civil,,Mostafa Mansour,Bombardeo del avión de guerra
+234,Gobierno,2017-03-22,Hombre,Damasco Rural,No Civil,Jesreen,Jihad Omar al-Diabi,Disparo
+235,Gobierno,2017-03-21,Mujer,Idlib,Civil,Khan Sheikhoun,Wafae Sobhi al-Taean,Bombardeo del avión de guerra
+236,No identificado,2017-03-21,Mujer,Aleppo,Civil,Bab,Alaa Ahmad al-Ayoubi,Otro
+237,No identificado,2017-03-21,Mujer,Aleppo,Civil,Bab,Nour Ahmad al-Ayoubi,Otro
+238,Kurdistan Sirio,2017-03-22,Mujer,Hama,Civil,Halfaya,Amina Jamil Fares al-Hamoud,Bombardeo del avión de guerra
+239,Kurdistan Sirio,2017-03-22,Mujer,Hama,Civil,Kaferzita,"Khaldia al-Faraj ""al-Khawadi""",Bombardeo del avión de guerra
+240,Gobierno,2017-03-20,Hombre,Damasco,No Civil,Barzeh,Abu Omeir al-Nasef,Disparo
+241,Gobierno,2017-03-22,Hombre,Daraa,No Civil,Dara Al-Balad,Khaled Mohammad al-Masalme,Bombardeo del avión de guerra
+242,CJTF-OIR,2017-03-22,Mujer,Raqqa,Civil,,Wife of Ismaeil Ahmad al-Qobos,Bombardeo del avión de guerra
+243,CJTF-OIR,2017-03-22,Mujer,Raqqa,Civil,,Khadijeh al-Ibraheem al-Btoushi,Bombardeo del avión de guerra
+244,CJTF-OIR,2017-03-22,Hombre,Raqqa,Civil,,Fayez Mohammad al-Abdulla,Bombardeo del avión de guerra
+245,CJTF-OIR,2017-03-22,Mujer,Raqqa,Civil,,Daed Mansour,Bombardeo del avión de guerra
+246,ISIS,2017-03-03,Hombre,Aleppo,Civil,Bab,Ali Mohammad Birawi,Explosion
+247,CJTF-OIR,2017-03-22,Hombre,Raqqa,Civil,,Abdulla Mohammad al-Mdakhar,Bombardeo del avión de guerra
+248,CJTF-OIR,2017-03-22,Mujer,Raqqa,Civil,,Leena Hsain Najjar,Bombardeo del avión de guerra
+249,CJTF-OIR,2017-03-22,Hombre,Raqqa,Civil,,Eisa Mohammad al-Madkher,Bombardeo del avión de guerra
+250,Gobierno,2017-03-06,Mujer,Aleppo,Civil,Anjareh: Bashkhanin,Amina Yousef al-Majari,Bombardeo
+251,CJTF-OIR,2017-03-06,Hombre,Raqqa,Civil,Kadiran,Mouhammad al-Hussein,Bombardeo del avión de guerra
+252,CJTF-OIR,2017-03-06,Hombre,Raqqa,Civil,Kadiran,Mahemid al-Mustafa,Bombardeo del avión de guerra
+253,ISIS,2017-03-06,Hombre,Raqqa,Civil,,Jomea Ismaeil al-Ahmad,Explosion
+254,ISIS,2017-03-06,Hombre,Raqqa,Civil,,Son of Ibraheem Ismaeil al-Ahmad,Explosion
+255,ISIS,2017-03-06,Hombre,Raqqa,Civil,,Ibraheem Ismaeil al-Ahmad,Explosion
+256,ISIS,2017-03-06,Hombre,Aleppo,Civil,Maskaneh,Desconocido5,Explosion
+257,ISIS,2017-03-05,Hombre,Aleppo,Civil,Izaz,Hosain Najem Barho,Explosion
+258,ISIS,2017-03-05,Mujer,Deir Ezzor,Civil,Al-Buomar,Yusra Mohammad al-Joudiye,Explosion
+259,Kurdistan Sirio,2017-03-04,Hombre,Hama,Civil,Halfaya,Tarek Muaz al-Sayadi,Bombardeo del avión de guerra
+260,Gobierno,2017-03-04,Hombre,Damasco Rural,No Civil,Harasta,Ibrahim Haj Hammoud,Disparo
+261,Gobierno,2017-03-03,Hombre,Aleppo,No Civil,Maarat Artik,Dibo al-Haj Omer,Disparo
+262,Gobierno,2017-03-03,Hombre,Aleppo,Civil,Bab: Abu Taltal village,Tarek Mohammad Arrab,Ejecución de campo
+263,Gobierno,2017-03-06,Hombre,Aleppo,Civil,Anjareh: Bashkhanin,Yousef al-Majari,Bombardeo
+264,ISIS,2017-03-07,Hombre,Aleppo,Civil,Bab,Mouhammad Mustafa al-Haj Fouad,Explosion
+265,Gobierno,2017-03-07,Hombre,Aleppo,Civil,Deir Hafir,Desconocido7,Bombardeo del avión de guerra
+266,Gobierno,2017-03-07,Hombre,Aleppo,Civil,Deir Hafir,Desconocido6,Bombardeo del avión de guerra
+267,Gobierno,2017-03-07,Hombre,Aleppo,Civil,Deir Hafir,Desconocido5,Bombardeo del avión de guerra
+268,Gobierno,2017-03-07,Hombre,Aleppo,Civil,Deir Hafir,Desconocido4,Bombardeo del avión de guerra
+269,Gobierno,2017-03-07,Hombre,Aleppo,Civil,Deir Hafir,Desconocido3,Bombardeo del avión de guerra
+270,Gobierno,2017-03-07,Hombre,Aleppo,Civil,Deir Hafir,Desconocido2,Bombardeo del avión de guerra
+271,Gobierno,2017-03-07,Hombre,Aleppo,Civil,Deir Hafir,Desconocido1,Bombardeo
+272,Gobierno,2017-03-03,Hombre,Aleppo,Civil,Bab: Abu Taltal village,Mahmoud Jomea Hazouri,Ejecución de campo
+273,Gobierno,2017-03-03,Hombre,Aleppo,Civil,Bab: Abu Taltal village,Ahmad Jomea Hazouri,Ejecución de campo
+274,Gobierno,2017-03-03,Hombre,Aleppo,Civil,Bab: Abu Taltal village,Yousef Ahmad Hazouri,Ejecución de campo
+275,No identificado,2017-03-04,Mujer,Idlib,Civil,Kansaefreh,Fatima Mostafa al-Mostafa,Disparo
+276,Gobierno,2017-03-04,Hombre,Idlib,Civil,Kafrsijneh,Khaled Mohammad al-Eisa,Bombardeo del avión de guerra
+277,Gobierno,2017-03-04,Hombre,Damasco Rural,No Civil,Harasta,Abu Mouhammad Kharzoum,Disparo
+278,Gobierno,2017-03-07,Hombre,Aleppo,Civil,Kafrkar,Sultan al-Jomaa,Bombardeo del avión de guerra
+279,Gobierno,2017-03-07,Mujer,Aleppo,Civil,Atshana,Abd al-Ramadan Family 4,Bombardeo del avión de guerra
+280,Gobierno,2017-03-07,Mujer,Aleppo,Civil,Atshana,Abd al-Ramadan Family 3,Bombardeo del avión de guerra
+281,Gobierno,2017-03-07,Mujer,Aleppo,Civil,Atshana,Abd al-Ramadan Family 2,Bombardeo del avión de guerra
+282,Gobierno,2017-03-07,Mujer,Aleppo,Civil,Atshana,Abd al-Ramadan Family 1,Bombardeo del avión de guerra
+283,Gobierno,2017-03-07,Hombre,Daraa,Civil,Sahwa,Hamze Jomaa al-Mraished,Bombardeo del avión de guerra
+284,No identificado,2017-03-07,Hombre,Daraa,No Civil,Nawa,Omar Khaldoun Abo al-Sell,Explosion
+285,ISIS,2017-03-07,Hombre,Daraa,No Civil,Tseel,Obaida al-Muqadam,Disparo
+286,Oposición,2017-02-25,Hombre,Damasco Rural,Civil,Assad Suorround,Hamzah Ahmad Darwish,Bombardeo
+287,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Abdullah Ahmad al-Hajjar,Explosion
+288,Gobierno,2017-02-26,Hombre,Damasco Rural,No Civil,Misraba,Mohammad al-Khule,Disparo
+289,No identificado,2017-02-24,Hombre,Damasco Rural,No Civil,Sheikh Mountain,Abo al-Taab,Bombardeo
+290,ISIS,2017-02-26,Hombre,Aleppo,Civil,Bab,Mosaab al-Amoura,Explosion
+291,ISIS,2017-02-26,Hombre,Aleppo,Civil,Bab,Hamdo Hajo Abdul Rahman,Explosion
+292,Oposición,2017-02-25,Hombre,Homs,No Civil,,Dured Abu Ali,Explosion
+293,Oposición,2017-02-25,Hombre,Homs,No Civil,,Salman Abboud,Explosion
+294,Oposición,2017-02-25,Hombre,Homs,No Civil,,Zuheir Ibrahim,Explosion
+295,ISIS,2017-02-25,Hombre,Aleppo,Civil,Bab,Khaled al-Brokshouah,Explosion
+296,Oposición,2017-02-25,Hombre,Sweida,No Civil,,Qusai Munir Abu Sarhan,Explosion
+297,Oposición,2017-02-25,Hombre,Homs,No Civil,Masyaf: Baareen,Ghadeer Zaazou',Explosion
+298,Gobierno,2017-02-27,Hombre,Idlib,Civil,Ariha,Anas Sarmini,Bombardeo del avión de guerra
+299,ISIS,2017-02-25,Hombre,Daraa,Civil,Tseel,Tayseer Abo Sedeq,Explosion
+300,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Safwan Hussein al-Badi,Explosion
+301,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Mouhammad Mustafa Abdo Na'aous,Explosion
+302,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Abdulraheem al-Boushi,Explosion
+303,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Mouhammad Ali Kashkoush,Explosion
+304,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Mahmoud Sami al-Sheikh,Explosion
+305,ISIS,2017-02-27,Hombre,Daraa,No Civil,Jassim,Muhammad Ahmad al-Haji,Disparo
+306,ISIS,2017-02-27,Hombre,Aleppo,Civil,Afrin,Mohammad Mostafa Khalo,Explosion
+307,Gobierno,2017-02-27,Mujer,Idlib,Civil,Ariha,Leen Bilal Soliman,Bombardeo del avión de guerra
+308,No identificado,2017-02-27,Hombre,Idlib,No Civil,,Qasem Ali al-Hamidi,Explosion
+309,Gobierno,2017-02-27,Hombre,Idlib,No Civil,Maarat Nassan,Mohammad Khaled al-Ahmad,Disparo
+310,ISIS,2017-02-27,Hombre,Daraa,No Civil,,Shadi Sael al-Reabi,Disparo
+311,ISIS,2017-02-27,Hombre,Daraa,No Civil,Nawa,Muhammad Ahmad al-Soah,Disparo
+312,ISIS,2017-02-27,Mujer,Aleppo,Civil,Afrin,Zainab Hamoto,Explosion
+313,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Hasan Na'eemi,Explosion
+314,ISIS,2017-02-27,Hombre,Aleppo,Civil,Afrin,Haji Mostafa Khelo,Explosion
+315,ISIS,2017-02-27,Hombre,Daraa,No Civil,Tseel,Ashraf Muhammad al-Amer,Disparo
+316,ISIS,2017-02-27,Hombre,Daraa,No Civil,Tseel,Yaser al-Balile,Disparo
+317,ISIS,2017-02-27,Hombre,Daraa,No Civil,Tseel,Omar Nedal Abo Hosene,Disparo
+318,ISIS,2017-02-27,Hombre,Daraa,No Civil,Tseel,Anas Othman Kaddah,Disparo
+319,ISIS,2017-02-27,Hombre,Daraa,No Civil,Nawa,Nader Issa al-Soah,Disparo
+320,ISIS,2017-02-27,Hombre,Daraa,No Civil,Tafas,Nedal Muhammad Bardan,Disparo
+321,ISIS,2017-02-27,Hombre,Aleppo,Civil,,son of Mesto al-Shabaa,Explosion
+322,ISIS,2017-02-27,Hombre,Daraa,No Civil,Tseel,Zaher Khaled al-Kaddah,Disparo
+323,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Majed Najeeb al-Shehabi,Explosion
+324,Gobierno,2017-02-27,Hombre,Idlib,Civil,Ariha,Tamer al-Jasem,Bombardeo del avión de guerra
+325,No identificado,2017-02-24,Hombre,Damasco Rural,No Civil,Sheikh Mountain,Abdo Ibraheem,Bombardeo
+326,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Ibraheem Abdo al-Faraj,Explosion
+327,No identificado,2017-02-27,Hombre,Idlib,No Civil,Maasran,Mowaffaq Ali Assaf,Explosion
+328,No identificado,2017-02-24,Hombre,Damasco Rural,No Civil,Sheikh Mountain,Emad Moro,Bombardeo
+329,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Abdo Ibraheem al-Faraj,Explosion
+330,ISIS,2017-02-27,Mujer,Aleppo,Civil,,wife of Mesto al-Shabaa,Explosion
+331,ISIS,2017-02-27,Hombre,Aleppo,Civil,,Emad Maamo,Explosion
+332,ISIS,2017-02-27,Hombre,Aleppo,Civil,,Sameer al-Sabbagh,Explosion
+333,ISIS,2017-02-27,Hombre,Aleppo,Civil,,Abdo al-Taleb,Explosion
+334,ISIS,2017-02-27,Hombre,Aleppo,Civil,Hayyan,Mansour Mahmoud Auso,Explosion
+335,Kurdistan Sirio,2017-02-27,Mujer,Aleppo,Civil,al-Houss mountain,Watfe Ramadhan al-Ekle,Bombardeo del avión de guerra
+336,Kurdistan Sirio,2017-02-27,Hombre,Aleppo,Civil,al-Houss mountain,Faisal Ahmad al-Hamad,Bombardeo del avión de guerra
+337,ISIS,2017-02-27,Hombre,Aleppo,Civil,,Mohammad Khair al-Sayed,Explosion
+338,Kurdistan Sirio,2017-02-27,Hombre,Aleppo,Civil,Deir Hafir,Unidentified,Bombardeo del avión de guerra
+339,ISIS,2017-02-27,Hombre,Aleppo,Civil,Bab,Ahmad Omar Kahhat,Explosion
+340,Gobierno,2017-02-27,Hombre,Damasco Rural,No Civil,Douma,Abo Ziyad,Disparo
+341,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Jamal Mouhammad Jasem al-Abboud,Explosion
+342,Gobierno,2017-02-24,Hombre,Damasco Rural,No Civil,Erbeen,Unidentified,Bombardeo
+343,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Abdo Zakkour al-Shafe'ee,Explosion
+344,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Mouhammad Ibraheem al-Boushi,Explosion
+345,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Omar Mouhammad al-Boushi,Explosion
+346,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Abdo Razouk,Explosion
+347,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Ahmad Arbeeq,Explosion
+348,No identificado,2017-02-27,Mujer,Aleppo,Civil,Bab,Unidentified,Bombardeo del avión de guerra
+349,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Saeed Mustafa al-Kamian,Explosion
+350,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Qusai Mouhammad al-Abbas,Explosion
+351,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Mouhammad Haj Ahmad al-Abbas,Explosion
+352,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Kamel Jamal Homad,Explosion
+353,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Mouhammad Bakri Kashkoush,Explosion
+354,ISIS,2017-02-24,Hombre,Aleppo,Civil,Sosian,Abdulkader Jahjah,Explosion
+355,Gobierno,2017-02-27,Hombre,Damasco Rural,No Civil,Zmania town,Mohammad al-Naser,Disparo
+356,ISIS,2017-02-14,Hombre,Idlib,No Civil,Marzita,Ahmad Khaled al-Hamid,Disparo
+357,No identificado,2017-02-13,Hombre,Aleppo,Civil,Bab,Abdulmu'ti al-Waki,Bombardeo del avión de guerra
+358,Oposición,2017-02-13,Hombre,Hama,No Civil,Darabla,Jameel al-Omar,Detención - Ejecución
+359,Gobierno,2017-02-27,Hombre,Damasco Rural,No Civil,Jarba village,Riadh Hmoud,Disparo
+360,Oposición,2017-02-13,Hombre,Hama,No Civil,Taibet Al-Imam,Fouad Jihad Alloush,Detención - Ejecución
+361,Oposición,2017-02-13,Hombre,Hama,No Civil,Taibet Al-Imam,Mouhammad Abdulkareem Khattab,Detención - Ejecución
+362,Oposición,2017-02-13,Hombre,Hama,No Civil,Hama city,Abdullah al-Deiri,Detención - Ejecución
+363,Oposición,2017-02-13,Hombre,Hama,No Civil,Hama city,Mahmoud Arrouk,Detención - Ejecución
+364,Oposición,2017-02-13,Hombre,Hama,No Civil,Hama city,Mouhammad Mahmoud al-Masri,Detención - Ejecución
+365,Gobierno,2017-02-13,Hombre,Damasco Rural,No Civil,Erbeen,Noor Eddin al-Tan,Disparo
+366,Oposición,2017-02-13,Hombre,Hama,No Civil,Hama city,Yaseen Khaled al-Naser,Detención - Ejecución
+367,Oposición,2017-02-13,Hombre,Hama,No Civil,Hama city,Abu Faysal al-Hamwi,Disparo
+368,Oposición,2017-02-13,Hombre,Hama,No Civil,Hama city,Abu A'ysha al-Hamwi,Disparo
+369,Oposición,2017-02-13,Hombre,Hama,No Civil,Hama city,Abu Awad al-Hamwi,Disparo
+370,No identificado,2017-02-12,Mujer,Aleppo,Civil,Bab,wife of Abdul Kader Yousef Waki,Bombardeo del avión de guerra
+371,No identificado,2017-02-12,Hombre,Aleppo,Civil,Bab,Abdul Kader Yousef Waki,Bombardeo del avión de guerra
+372,Gobierno,2017-02-12,Hombre,Idlib,No Civil,Kafryhmoul,Amir Hussein,Explosion
+373,ISIS,2017-02-14,Hombre,Idlib,No Civil,Marzita,Suleiman Ahmad al-Suleiman,Disparo
+374,ISIS,2017-02-14,Hombre,Idlib,No Civil,Marzita,Ahmad Ibrahim Quteish,Disparo
+375,ISIS,2017-02-14,Hombre,Idlib,No Civil,Marzita,Abd al-Abbas,Disparo
+376,ISIS,2017-02-14,Hombre,Idlib,No Civil,Marzita,Mustafa al-Hussein,Disparo
+377,ISIS,2017-02-14,Hombre,Idlib,No Civil,Marzita,Hussein al Ammouri,Disparo
+378,Oposición,2017-02-14,Hombre,Idlib,No Civil,Epleen,Yahya Turki Dukmak,Disparo
+379,Gobierno,2017-02-12,Hombre,Daraa,Civil,Mzaireeb,Hasan Fares Okla al-Tellawi,Bombardeo
+380,Oposición,2017-02-14,Hombre,Idlib,No Civil,Epleen,Abdullatif Abdulkareem Harmoush,Disparo
+381,ISIS,2017-02-14,Hombre,Hama,No Civil,Hwash village,Suleiman Jamal al-Suleiman,Disparo
+382,Gobierno,2017-02-14,Hombre,Aleppo,No Civil,Absmo,Yousef Ahmad Hamdo,Disparo
+383,Gobierno,2017-02-14,Hombre,Aleppo,No Civil,Absmo,Mostafa Ibraheem Zaloukh,Disparo
+384,Gobierno,2017-02-14,Hombre,Aleppo,Civil,,Abd al-Rahman al-Mosa,Detención - Tortura
+385,Gobierno,2017-02-14,Hombre,Aleppo,No Civil,,Hasan Abo Abdo,Explosion
+386,No identificado,2017-02-14,Mujer,Aleppo,Civil,Great Orme,From al-Wasel family,Disparo
+387,No identificado,2017-02-14,Hombre,Aleppo,Civil,Bab,Mohammad Ahmad al-Obaid Jamal,Bombardeo del avión de guerra
+388,No identificado,2017-02-14,Hombre,Aleppo,Civil,Bab,Ahmad Mahmoud Hashem,Bombardeo del avión de guerra
+389,No identificado,2017-02-14,Hombre,Aleppo,Civil,Bab,Obaida Mohammad Jamal,Bombardeo del avión de guerra
+390,No identificado,2017-02-14,Hombre,Aleppo,Civil,Bab,Ahmad Mohammad Jamal,Bombardeo del avión de guerra
+391,Oposición,2017-02-14,Hombre,Idlib,No Civil,,Abdo Mustafa Qattini,Disparo
+392,No identificado,2017-02-14,Hombre,Aleppo,Civil,Bab,Hozaifa Mohammad Jamal,Bombardeo del avión de guerra
+393,Oposición,2017-02-14,Hombre,Idlib,No Civil,,Bakr Ameed Dayoub,Disparo
+394,Gobierno,2017-02-14,Mujer,Daraa,Civil,Umm Al-Mayathin,Shukriye Mohammad al-Masri,Bombardeo
+395,Gobierno,2017-02-14,Hombre,Daraa,No Civil,Sheikh Miskeen,Hashem Hamdi al-Aqaele,Disparo
+396,Gobierno,2017-02-14,Mujer,Daraa,Civil,Dara Al-Balad,Rawan Muhammad Zotaemah,Bombardeo
+397,Oposición,2017-01-31,Hombre,Idlib,No Civil,Mstomeh,Alaa Bakour,Disparo
+398,Gobierno,2017-02-15,Hombre,Idlib,Civil,,Jasem Fawaz al-Mosa,Bombardeo del avión de guerra
+399,Gobierno,2017-02-15,Mujer,Idlib,Civil,,Nada Ahmad al-Mohammad,Explosion
+400,Gobierno,2017-02-15,Hombre,Aleppo,Civil,,Abdulrahman al-Mousa,Detención - Tortura
+401,ISIS,2017-01-31,Hombre,Quneitra,No Civil,Malaka village,Nader al-Hosain,Disparo
+402,ISIS,2017-01-31,Hombre,Daraa,No Civil,Enkhel,Ahmad Damen al-Saedi,Disparo
+403,ISIS,2017-01-28,Hombre,Aleppo,Civil,,Ahmad Zedan,Explosion
+404,ISIS,2017-01-28,Hombre,Aleppo,Civil,Meng,Ahmad al-Dakk,Explosion
+405,Gobierno,2017-01-28,Hombre,Homs,No Civil,Qusair,Hani Muhammad Amer,Disparo
+406,Oposición,2017-01-27,Hombre,Idlib,Civil,Jarjanaz,Abd al-Kafi Ahmad al-Ali,Secuestro-Ejecución
+407,No identificado,2017-01-28,Hombre,Idlib,Civil,Maart Numan,Taher al-Sageer,Disparo
+408,No identificado,2017-01-28,Hombre,Idlib,Civil,Maart Numan,Mostafa Soker,Disparo
+409,No identificado,2017-01-28,Hombre,Idlib,Civil,Maart Numan,Basel al-Kord,Disparo
+410,Gobierno,2017-01-28,Hombre,Daraa,Civil,Lajat,Maher Faisal al-Shahen,Explosion
+411,Gobierno,2017-01-28,Hombre,Damasco Rural,No Civil,Zabadany,Abo Abdulrahman Zabadany,Disparo
+412,No identificado,2017-01-28,Hombre,Damasco Rural,Civil,Douma,Jamal Abdul Kareem Abo Aysha,Desconocido
+413,No identificado,2017-01-28,Mujer,Aleppo,Civil,Bab,Faten Ahmad al-Shehabi al-Shehabi,Bombardeo
+414,Gobierno,2017-01-28,Hombre,Idlib,Civil,Ballion,Ali Ismaeil al-Alloush,Detención - Tortura
+415,No identificado,2017-01-28,Mujer,Aleppo,Civil,Bab,Manar Ahmad al-Shehabi al-Shehabi,Bombardeo
+416,Gobierno,2017-01-28,Hombre,Idlib,Civil,Ballion,Hassan Ahmad al-Alloush,Detención - Tortura
+417,Kurdistan Sirio,2017-01-28,Hombre,Aleppo,Civil,Tadif,Desconocido2,Bombardeo del avión de guerra
+418,Kurdistan Sirio,2017-01-28,Hombre,Aleppo,Civil,Tadif,Desconocido1,Bombardeo del avión de guerra
+419,No identificado,2017-01-22,Hombre,Aleppo,Civil,Bab,Son of Mahmoud Rasoul al-Othman,Bombardeo del avión de guerra
+420,No identificado,2017-01-28,Hombre,Aleppo,Civil,Bab,Mouhammad Ahmad al-Shehabi al-Shehabi,Bombardeo
+421,No identificado,2017-01-22,Hombre,Aleppo,Civil,Bab,Abu Nouri Family,Bombardeo del avión de guerra
+422,No identificado,2017-01-22,Mujer,Aleppo,Civil,Bab,Daughter of Mahmoud Rasoul al-Othman,Bombardeo del avión de guerra
+423,ISIS,2017-01-21,Hombre,Deir Ezzor,Civil,Joura Neighborhood,Abdullah Kamel al-Hussein,Bombardeo
+424,ISIS,2017-01-21,Hombre,Deir Ezzor,Civil,Joura Neighborhood,Son Of Abdullah Kamel Al-housen 3,Bombardeo
+425,ISIS,2017-01-21,Hombre,Deir Ezzor,Civil,Joura Neighborhood,Son Of Abdullah Kamel Al-housen 2,Bombardeo
+426,ISIS,2017-01-21,Hombre,Daraa,No Civil,Lajat,Muhammad Ahmad al-Alewai,Disparo
+427,Gobierno,2017-01-12,Mujer,Damasco Rural,Civil,Wadi Barada: Deir Qanoon,Unidentified,Disparo
+428,Gobierno,2017-01-18,Mujer,Idlib,Civil,Saraqib,Amana Abd al-Salam al-Khateeb,Bombardeo del avión de guerra
+429,Gobierno,2017-01-18,Hombre,Deir Ezzor,No Civil,,Desconocido1,Disparo
+430,Gobierno,2017-01-15,Hombre,Damasco Rural,Civil,Wadi Barada: Deir Qanoon,Desconocido8,Bombardeo
+431,Gobierno,2017-01-15,Hombre,Damasco Rural,Civil,Wadi Barada: Deir Qanoon,Desconocido7,Bombardeo
+432,ISIS,2017-01-18,Hombre,Daraa,Civil,Nawa,Taher Faisal al-Shqran,Explosion
+433,Gobierno,2017-01-15,Hombre,Damasco Rural,Civil,Wadi Barada: Deir Qanoon,Desconocido6,Bombardeo
+434,Gobierno,2017-01-18,Hombre,Damasco Rural,No Civil,Der Salman,Abo Ali Ataot,Disparo
+435,Gobierno,2017-01-15,Hombre,Damasco Rural,Civil,Wadi Barada: Deir Qanoon,Desconocido5,Bombardeo
+436,Gobierno,2017-01-14,Hombre,Aleppo,Civil,Jeb Gebsheh,Mouhammad Abdulrahman al-Hasan,Bombardeo del avión de guerra
+437,Gobierno,2017-01-15,Hombre,Damasco Rural,No Civil,Zabadany,Monaf Shihadeh,Disparo
+438,Gobierno,2017-01-15,Hombre,Damasco Rural,Civil,Wadi Barada: Deir Qanoon,Desconocido12,Bombardeo
+439,Gobierno,2017-01-15,Hombre,Damasco Rural,Civil,Wadi Barada: Deir Qanoon,Desconocido11,Ejecución de campo
+440,Gobierno,2017-01-15,Hombre,Damasco Rural,Civil,Wadi Barada: Deir Qanoon,Desconocido10,Bombardeo
+441,Gobierno,2017-01-15,Hombre,Damasco Rural,Civil,Wadi Barada: Deir Qanoon,Desconocido9,Bombardeo
+442,Gobierno,2017-01-15,Hombre,Damasco Rural,Civil,Wadi Barada: Deir Qanoon,Desconocido4,Bombardeo
+443,Gobierno,2017-01-15,Hombre,Damasco Rural,Civil,Wadi Barada: Deir Qanoon,Desconocido3,Bombardeo
+444,Gobierno,2017-01-15,Hombre,Damasco Rural,Civil,Wadi Barada: Deir Qanoon,Desconocido2,Bombardeo
+445,Gobierno,2017-01-15,Hombre,Damasco Rural,Civil,Wadi Barada: Deir Qanoon,Desconocido1,Bombardeo
+446,Gobierno,2017-01-15,Hombre,Damasco,Civil,Qaboun,Khaled Halbouni,Disparo
+447,Gobierno,2017-01-15,Hombre,Damasco Rural,Civil,Douma,Hamzeh Ameen Diab,Bombardeo
+448,Gobierno,2016-12-25,Hombre,Aleppo,Civil,Jibreen,Farouk al-Bushi,Ejecución de campo
+449,Gobierno,2016-12-25,Mujer,Damasco Rural,Civil,Douma,Marwa Eyoun,Bombardeo
+450,Gobierno,2016-12-25,Mujer,Damasco Rural,Civil,Wadi Barada: Bassima,Loeloea Aysar al-Ajlani,Bombardeo
+451,Kurdistan Sirio,2016-12-24,Hombre,Aleppo,Civil,Atarib,Son of Hasan Saeid Hamdo 2,Bombardeo del avión de guerra
+452,Kurdistan Sirio,2016-12-24,Hombre,Aleppo,Civil,Atarib,Son of Hasan Saeid Hamdo 1,Bombardeo del avión de guerra
+453,No identificado,2016-12-22,Hombre,Aleppo,Civil,Bab,From Asfour family 13,Bombardeo del avión de guerra
+454,No identificado,2016-12-22,Mujer,Aleppo,Civil,Bab,Wife of Jaefar Omer Nemeh,Bombardeo del avión de guerra
+455,No identificado,2016-12-22,Hombre,Aleppo,Civil,Bab,Jaefar Omer Nemeh,Bombardeo del avión de guerra
+456,No identificado,2016-12-22,Mujer,Aleppo,Civil,Bab,Daughter of Ahmad Hasan al-Asfour 4,Bombardeo del avión de guerra
+457,No identificado,2016-12-22,Mujer,Aleppo,Civil,Bab,Daughter of Ahmad Hasan al-Asfour 3,Bombardeo del avión de guerra
+458,No identificado,2016-12-22,Hombre,Aleppo,Civil,Bab,Son of Jaefar Omer Nemeh 1,Bombardeo del avión de guerra
+459,No identificado,2016-12-22,Hombre,Aleppo,Civil,Bab,Son of Ahmad Hasan al-Asfour 2,Bombardeo del avión de guerra
+460,Gobierno,2016-12-22,Hombre,Damasco Rural,No Civil,East Ghota,Abo Mohammad al-Hout,Disparo
+461,No identificado,2016-12-22,Hombre,Aleppo,Civil,Bab,From Fadel Sabbag family 2,Bombardeo del avión de guerra
+462,No identificado,2016-12-22,Hombre,Aleppo,Civil,Bab,From Fadel Sabbag family 1,Bombardeo del avión de guerra
+463,No identificado,2016-12-22,Hombre,Aleppo,Civil,Bab,From Abo family 6,Bombardeo del avión de guerra
+464,No identificado,2016-12-22,Hombre,Aleppo,Civil,Bab,Mahmoud al-Nemeh,Bombardeo del avión de guerra
+465,CJTF-OIR,2016-12-17,Hombre,Aleppo,Civil,Bab,Desconocido1,Bombardeo del avión de guerra
+466,CJTF-OIR,2016-12-17,Hombre,Damasco Rural,No Civil,Dumair,Talal Hamad,Bombardeo del avión de guerra
+467,Gobierno,2016-12-21,Hombre,Damasco Rural,Civil,Douma,Bashar Sobhi al-Sheikh Bakri,Bombardeo
+468,Gobierno,2016-12-18,Hombre,Damasco Rural,No Civil,Zabdeen,Ahmad al-Aqraa,Disparo
+469,Gobierno,2016-12-18,Hombre,Damasco Rural,No Civil,Madyara,Abdul Jaleel Ahmad Abdul Jaleel,Disparo
+470,CJTF-OIR,2016-12-17,Hombre,Aleppo,Civil,Bab,Desconocido2,Bombardeo del avión de guerra
+471,CJTF-OIR,2016-12-17,Hombre,Aleppo,Civil,Bab,Desconocido3,Bombardeo del avión de guerra
+472,Oposición,2016-12-17,Hombre,Daraa,Civil,Shajara,Aref Shihadeh al-Eid,Bombardeo
+473,Gobierno,2016-12-17,Hombre,Damasco Rural,Civil,Zamalka,Mohammad Hasan Fakhri,Bombardeo del avión de guerra
+474,Gobierno,2016-12-17,Hombre,Daraa,Civil,Tafas,Mohammad Mansour al-Rifei,Detención - Tortura
+475,Gobierno,2016-12-18,Mujer,Hama,Civil,Lattamna,Radhiye Abdul Baset Jnaid,Bombardeo
+476,Gobierno,2016-12-18,Hombre,Damasco Rural,Civil,Sayeda Zainab,Basem Ammash,Detención - Tortura
+477,Kurdistan Sirio,2016-12-10,Mujer,Aleppo,Civil,Jarablus: Qarata village,Unidentified,Disparo
+478,Gobierno,2016-12-18,Hombre,Damasco Rural,No Civil,Mleha,Maher al-Harastani,Disparo
+479,Gobierno,2016-12-16,Hombre,Homs,Civil,Rastan,Moaz Abbas,Bombardeo
+480,Kurdistan Sirio,2016-12-07,Hombre,Aleppo,Civil,,son of Mohammad Waleed Khsaim 2,Bombardeo del avión de guerra
+481,Gobierno,2016-12-16,Hombre,Homs,Civil,Rastan,Adnan Abd al-Razzaq Bakour,Bombardeo
+482,Gobierno,2016-12-16,Hombre,Damasco Rural,No Civil,Kafr Batna,Bilal Shakeer,Disparo
+483,No identificado,2016-12-17,Hombre,Idlib,Civil,Taftanaz,Mohammad Abdulla al-Selea,Disparo
+484,Gobierno,2016-12-17,Hombre,Idlib,No Civil,Maarat Hirmeh,Dhiaa al-Shamaa,Disparo
+485,Gobierno,2016-12-17,Hombre,Idlib,No Civil,Kansaefreh,Zaki Fawaz al-Khaleel,Disparo
+486,Kurdistan Sirio,2016-12-07,Hombre,Aleppo,Civil,Anadan,Mohammad Abdul Razaq Koraj,Bombardeo del avión de guerra
+487,Gobierno,2016-12-07,Mujer,Aleppo,Civil,,Sabah Mohammad,Cerco
+488,Kurdistan Sirio,2016-12-07,Hombre,Aleppo,Civil,Anadan,Hasan Mansour,Bombardeo del avión de guerra
+489,CJTF-OIR,2016-12-07,Hombre,Aleppo,Civil,Bazzaa,Hlal Aboud al-Abbas,Bombardeo del avión de guerra
+490,CJTF-OIR,2016-12-07,Mujer,Aleppo,Civil,Bazzaa,Walaa Aboud al-Abbas,Bombardeo del avión de guerra
+491,CJTF-OIR,2016-12-07,Mujer,Aleppo,Civil,Bazzaa,Fatme Aboud al-Abbas,Bombardeo del avión de guerra
+492,CJTF-OIR,2016-12-07,Hombre,Aleppo,Civil,Bazzaa,Hasan Aboud al-Abbas,Bombardeo del avión de guerra
+493,Gobierno,2016-12-06,Hombre,Aleppo,No Civil,,Mohammad Omar Shamta,Disparo
+494,Gobierno,2016-12-05,Hombre,Homs,Civil,Ghantto,Wael Sadeq Tokatly,Bombardeo
+495,Gobierno,2016-12-05,Hombre,Homs,Civil,Ghantto,Naser Osama al-Obaid,Bombardeo
+496,Gobierno,2016-12-04,Mujer,Idlib,Civil,Kafrenbil,Sobhia Abd al-Hadi,Bombardeo del avión de guerra
+497,Gobierno,2016-12-04,Hombre,Idlib,Civil,Kafrenbil,Basim Walid al-Hnini,Bombardeo del avión de guerra
+498,Gobierno,2016-12-04,Hombre,Idlib,Civil,Kafrenbil,Hamdo Khaled Shaheen al-Hakoum,Bombardeo del avión de guerra
+499,Gobierno,2016-12-04,Hombre,Idlib,Civil,Kafrenbil,Mohammad Abd al-Salam al-Hnaini,Bombardeo del avión de guerra
+500,Gobierno,2016-12-04,Hombre,Idlib,Civil,Kafrenbil,Faysal Ahmad al-Bayoush,Bombardeo del avión de guerra
+501,Gobierno,2016-12-04,Hombre,Hama,Civil,,Abo Abdo,Bombardeo del avión de guerra
+502,Gobierno,2016-12-04,Hombre,Hama,Civil,Hawija,Mohammad Ali al-Jasem,Bombardeo del avión de guerra
+503,Gobierno,2016-12-04,Hombre,Hama,Civil,Hawija,Nazih Ahmad Jaradi,Bombardeo del avión de guerra
+504,Gobierno,2016-12-04,Hombre,Damasco Rural,Civil,Madaya,Samer Zaidan Shibli,Disparo
+505,Oposición,2016-12-05,Hombre,Daraa,Civil,Shajara,son of Ahmad al-Eqle,Bombardeo
+506,ISIS,2016-12-05,Hombre,Daraa,No Civil,Tseel,Abdul Nour al-Naasan,Explosion
+507,Gobierno,2016-12-05,Mujer,Damasco Rural,Civil,Otaya,Israe Mohammad al-Raqad,Bombardeo
+508,Gobierno,2016-12-05,Hombre,Damasco Rural,Civil,Otaya,Malek Tamer al-Rokad,Bombardeo
+509,Gobierno,2016-12-05,Hombre,Damasco Rural,Civil,Otaya,Merei Tamer al-Raqad,Bombardeo
+510,Gobierno,2016-12-05,Hombre,Damasco Rural,Civil,Douma,Mohammad Abd al-Majeed Sraiwel,Detención - Tortura
+511,Gobierno,2016-12-05,Hombre,Damasco Rural,Civil,Douma,Ibraheem al-Bagdadi,Bombardeo
+512,Gobierno,2016-12-05,Mujer,Damasco Rural,Civil,Douma,Om Hasan al-Jaje,Bombardeo
+513,Oposición,2016-12-05,Mujer,Aleppo,Civil,,Dadhia Mohammad Hameede,Bombardeo
+514,Oposición,2016-12-05,Hombre,Aleppo,Civil,,Ayhamd Esam al-Shami,Bombardeo
+515,Oposición,2016-12-05,Hombre,Aleppo,Civil,Masharq,Esam Mustafa al-Shami,Bombardeo
+516,ISIS,2016-12-05,Hombre,Aleppo,No Civil,,Majed Abdul Razak,Disparo
+517,Gobierno,2016-12-05,Hombre,Aleppo,No Civil,Dabik,Abdul Sattar Samman,Disparo
+518,Gobierno,2016-12-05,Hombre,Aleppo,No Civil,Hayyan,Mahmoud Mohammad atouf Auso,Disparo
+519,No identificado,2016-12-05,Hombre,Aleppo,No Civil,Tal Jibreen,Hasan Hamdo Abo Tammam,Disparo
+520,Gobierno,2016-12-05,Hombre,Homs,Civil,Telbeiseh,Ali al-Mosa,Bombardeo
+521,Kurdistan Sirio,2016-11-26,Hombre,Aleppo,Civil,Yakid al-Adas,Alaa Ahmad SNoo,Bombardeo del avión de guerra
+522,Gobierno,2016-11-26,Mujer,Homs,Civil,Hwareen,Rana Amer al-Sekhni,Bombardeo del avión de guerra
+523,Gobierno,2016-11-25,Hombre,Aleppo,No Civil,Bab,Saeid Shihabi,Disparo
+524,ISIS,2016-11-25,Hombre,Aleppo,Civil,Bab,Redhwan al-Hamad,Explosion
+525,No identificado,2016-11-24,Hombre,Idlib,No Civil,Telminis,Rodwan Khateeb,Disparo
+526,No identificado,2016-11-24,Hombre,Idlib,No Civil,Marshurin,Hamoud al-Abrash,Disparo
+527,Oposición,2016-12-05,Mujer,Aleppo,Civil,,Rula Mohammad Hameede,Bombardeo
+528,Oposición,2016-12-05,Mujer,Aleppo,Civil,,Rawaa Hsain Hameede,Bombardeo
+529,No identificado,2016-11-24,Hombre,Idlib,No Civil,Marshurin,Suliman Habous,Disparo
+530,Gobierno,2016-11-24,Hombre,Aleppo,No Civil,,Ghandi Sabha,Disparo
+531,No identificado,2016-11-24,Hombre,Idlib,No Civil,Marshurin,Mohammad Jadean,Disparo
+532,No identificado,2016-11-24,Hombre,Idlib,No Civil,Marshurin,Jaefar Habous,Disparo
+533,No identificado,2016-11-24,Hombre,Idlib,No Civil,Marshurin,Mohammad Abd al-Al,Disparo
+534,Gobierno,2016-11-24,Mujer,Aleppo,Civil,Furqan,Eliaf al-Omran,Bombardeo
+535,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Kensia,Ahmad Ibrahem al-Sheekho,Disparo
+536,CJTF-OIR,2016-11-24,Hombre,Aleppo,Civil,Sfaireh: Abu Jreen,Ahmad al-Najeeb,Bombardeo del avión de guerra
+537,CJTF-OIR,2016-11-24,Hombre,Aleppo,Civil,Sfaireh: Abu Jreen,Houssien al-Khames al-Najeb al-Hadede,Bombardeo del avión de guerra
+538,Gobierno,2016-11-24,Mujer,Aleppo,Civil,Shahnasah village,Rajeha al-Ahmad,Bombardeo del avión de guerra
+539,Kurdistan Sirio,2016-11-24,Mujer,Idlib,Civil,Binnish,Maysan Bajan,Bombardeo del avión de guerra
+540,Kurdistan Sirio,2016-11-24,Hombre,Idlib,Civil,Binnish,Mostafa Ibraheem Hajar,Bombardeo del avión de guerra
+541,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Abu Souseh village,Ali Ahmad al-Mousa al-Damalkhe,Bombardeo
+542,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Old Mowasalat,Muhammad Salem Dali,Bombardeo del avión de guerra
+543,Kurdistan Sirio,2016-11-18,Hombre,Aleppo,Civil,Bab Road neighborhood,Mohammad Haboudh,Bombardeo del avión de guerra
+544,Gobierno,2016-11-23,Hombre,Aleppo,No Civil,,Mustafa Fajal,Disparo
+545,No identificado,2016-11-23,Hombre,Aleppo,Civil,Bab,Mustafa Darwish,Bombardeo
+546,Gobierno,2016-11-23,Hombre,Aleppo,Civil,Karam el-Baik neighborhood,Mahmoud Azeezi,Bombardeo del avión de guerra
+547,Gobierno,2016-11-23,Hombre,Aleppo,Civil,Old Aleppo,Feras Flaro,Bombardeo
+548,Gobierno,2016-11-23,Hombre,Aleppo,Civil,Karam Qaterji,Ismael Tadefi,Bombardeo
+549,Gobierno,2016-11-21,Mujer,Idlib,Civil,Saraqib,Fatima Mamish,Explosion
+550,Gobierno,2016-11-23,Hombre,Aleppo,Civil,Masakin Hanano,Yousef Safawi,Bombardeo
+551,Gobierno,2016-11-23,Mujer,Damasco Rural,Civil,Beit Jen,Aysha al-Samman,Bombardeo
+552,ISIS,2016-11-22,Hombre,Damasco Rural,No Civil,Jeroud,Abo Hamzah Shami,Disparo
+553,ISIS,2016-11-22,Hombre,Damasco Rural,No Civil,Yalda,Mohanad Saad,Disparo
+554,Gobierno,2016-11-22,Hombre,Aleppo,Civil,Sukkari neighborhood,Desconocido6,Bombardeo del avión de guerra
+555,Gobierno,2016-11-22,Hombre,Aleppo,Civil,Sukkari neighborhood,Desconocido5,Bombardeo del avión de guerra
+556,Gobierno,2016-11-22,Hombre,Aleppo,Civil,Sukkari neighborhood,Desconocido4,Bombardeo del avión de guerra
+557,Gobierno,2016-11-21,Hombre,Aleppo,Civil,Maadi neighborhood,Ibraheem Mohammad Katlo,Bombardeo
+558,Gobierno,2016-11-21,Mujer,Idlib,Civil,Saraqib,Hajar Elaiwi,Explosion
+559,Gobierno,2016-11-21,Hombre,Idlib,Civil,Idlib city,Abo Khaled al-Lazqani,Explosion
+560,Gobierno,2016-11-21,Hombre,Idlib,Civil,Idlib city,Yousef Shahoud,Explosion
+561,Gobierno,2016-11-21,Hombre,Damasco Rural,Civil,Hosh Dawahra,Jamal Khaled Hamdan,Bombardeo
+562,Kurdistan Sirio,2016-11-20,Hombre,Idlib,Civil,Idlib city,Abd al-Rahman Jaroukh,Bombardeo del avión de guerra
+563,Gobierno,2016-11-23,Hombre,Aleppo,No Civil,,Mohammad Fares,Disparo
+564,Gobierno,2016-11-21,Mujer,Homs,Civil,Waar,Shahed al-Attar,Bombardeo
+565,Gobierno,2016-11-21,Hombre,Homs,Civil,Waar,Mohammad Gazoul,Bombardeo
+566,Gobierno,2016-11-21,Hombre,Homs,Civil,Waar,Ahmad Karazoun,Bombardeo
+567,Gobierno,2016-11-21,Hombre,Homs,Civil,Waar,Khaled Saheeb al-Bokaei,Bombardeo
+568,Gobierno,2016-11-21,Hombre,Homs,No Civil,Qaryatain,Moetaz Fahim al-Daeas,Disparo
+569,Gobierno,2016-11-21,Hombre,Aleppo,Civil,Old Aleppo,Ayman Sheikha,Bombardeo del avión de guerra
+570,Kurdistan Sirio,2016-11-21,Hombre,Aleppo,Civil,Kafrahamreh,Mustafa Abdul Samea al-Khateeb,Bombardeo del avión de guerra
+571,Gobierno,2016-11-21,Hombre,Aleppo,Civil,Anadan,Usama Arour,Bombardeo
+572,Gobierno,2016-11-21,Hombre,Aleppo,Civil,Maadi neighborhood,Desconocido2,Bombardeo
+573,Gobierno,2016-11-21,Hombre,Aleppo,Civil,Maadi neighborhood,Desconocido1,Bombardeo
+574,Gobierno,2016-11-21,Hombre,Aleppo,Civil,Maadi neighborhood,Abdulla Mohammad Katlo,Bombardeo
+575,Gobierno,2016-11-21,Hombre,Homs,Civil,Waar,Raheeb al-Mahmoud,Bombardeo del avión de guerra
+576,No identificado,2016-11-21,Mujer,Aleppo,Civil,Bab: Aeryma,wife of Ahmad al-Bakkar al-Hell,Disparo
+577,Gobierno,2016-11-21,Hombre,Aleppo,No Civil,,Abdulla Ahmad al-Aswad,Disparo
+578,Gobierno,2016-11-21,Hombre,Aleppo,No Civil,Sheikh Najjar,Mustafa Jaasi,Disparo
+579,Gobierno,2016-11-21,Hombre,Damasco,Civil,,Qasem Amjad Ibraheem,Detención - Tortura
+580,Gobierno,2016-11-21,Hombre,Damasco Rural,No Civil,Douma,Samer al-Sotari,Disparo
+581,Gobierno,2016-11-21,Hombre,Damasco Rural,Civil,Saqba,Mohammad al-Bashash,Bombardeo
+582,Gobierno,2016-11-21,Hombre,Damasco Rural,Civil,Harasta,Yaser Fareoun,Bombardeo del avión de guerra
+583,Gobierno,2016-11-21,Mujer,Damasco Rural,Civil,Harasta,Marwa al-Shaikh Hasan,Bombardeo
+584,Gobierno,2016-11-21,Hombre,Damasco Rural,No Civil,Douma,Ameen Noaaman Rihan,Disparo
+585,No identificado,2016-11-22,Hombre,Damasco Rural,Civil,Douma,Jamal Muhi Eddin Sheikh al-Dhaiaa,Disparo
+586,Gobierno,2016-11-22,Hombre,Hama,No Civil,,Abo Nabil al-Hamwi,Bombardeo
+587,Kurdistan Sirio,2016-11-22,Hombre,Hama,Civil,Lattamna,Taha Mohammad al-Khlaif,Bombardeo del avión de guerra
+588,Gobierno,2016-11-22,Mujer,Homs,Civil,Waar,Gazia Kanean,Bombardeo del avión de guerra
+589,No identificado,2016-11-22,Hombre,Idlib,No Civil,Khan Sheikhoun,Muhammad Khaled Tallawi,Desconocido
+590,Oposición,2016-11-21,Hombre,Aleppo,Civil,Sfaireh,Mohammad Mustafa al-Raheem,Disparo
+591,ISIS,2016-11-22,Hombre,Aleppo,Civil,Manbej,Sattof Saeead,Explosion
+592,ISIS,2016-11-22,Hombre,Aleppo,Civil,Manbej,Ahmad Muhammad Saeead,Explosion
+593,Kurdistan Sirio,2016-11-22,Hombre,Raqqa,Civil,Abbareh,Muhammad Jommah Jaddoah,Bombardeo del avión de guerra
+594,Gobierno,2016-11-22,Hombre,Hama,Civil,Hialin,Qusai Mazhor,Explosion
+595,Kurdistan Sirio,2016-11-22,Hombre,Hama,Civil,Lattmin,"Mostafa Hasan Naasan ""Aishani""",Bombardeo del avión de guerra
+596,Kurdistan Sirio,2016-11-22,Hombre,Hama,Civil,Lattamna,Rafik Ahmad Harosh,Bombardeo del avión de guerra
+597,Kurdistan Sirio,2016-11-22,Hombre,Hama,Civil,Lattamna,Khalief Muhammad Khaleif,Bombardeo del avión de guerra
+598,Gobierno,2016-11-22,Hombre,Aleppo,Civil,Sukkari neighborhood,Desconocido7,Bombardeo del avión de guerra
+599,Kurdistan Sirio,2016-11-22,Hombre,Hama,Civil,Lattamna,"Barra Mahmoud Hoeo ""Dabbos""",Bombardeo del avión de guerra
+600,Kurdistan Sirio,2016-11-22,Hombre,Hama,Civil,Lattamna,"Muhammad Mahmoud Shamali ""Eid""",Bombardeo del avión de guerra
+601,Kurdistan Sirio,2016-11-22,Hombre,Hama,Civil,Lattamna,Ahmad Abdulkarim Abbas,Bombardeo del avión de guerra
+602,Kurdistan Sirio,2016-11-22,Hombre,Hama,Civil,Lattamna,"Abdulrahman Muhammad Hoeo ""Dabbos""",Bombardeo del avión de guerra
+603,Gobierno,2016-11-22,Hombre,Aleppo,Civil,Sukkari neighborhood,Desconocido3,Bombardeo del avión de guerra
+604,ISIS,2016-11-22,Hombre,Aleppo,Civil,Izaz,Abdul Khaleq Saeed Najjar,Explosion
+605,ISIS,2016-11-22,Hombre,Aleppo,Civil,Maskaneh,Yehya Ibraheem,Secuestro-Ejecución
+606,Gobierno,2016-11-22,Hombre,Aleppo,Civil,Sukkari neighborhood,Abdul Baset Zaidan,Bombardeo del avión de guerra
+607,Gobierno,2016-11-22,Hombre,Aleppo,Civil,Sukkari neighborhood,Desconocido1,Bombardeo del avión de guerra
+608,Gobierno,2016-11-22,Hombre,Aleppo,No Civil,Qubtan el-Jabal,Omar al-Haji,Disparo
+609,Gobierno,2016-11-22,Hombre,Aleppo,No Civil,,Ahmad Fares,Disparo
+610,ISIS,2016-11-22,Hombre,Damasco Rural,No Civil,Jeroud,Abo Sham,Disparo
+611,Gobierno,2016-11-22,Hombre,Aleppo,Civil,Sukkari neighborhood,Desconocido2,Bombardeo del avión de guerra
+612,No identificado,2016-11-22,Hombre,Idlib,No Civil,Al-Tih town,Hamze al-Hwaije,Explosion
+613,ISIS,2016-11-22,Hombre,Damasco Rural,No Civil,Jeroud,Abo Abdulmalek,Disparo
+614,Kurdistan Sirio,2016-11-22,Hombre,Idlib,Civil,Binnish,Mostafa Gheath Obaied,Bombardeo del avión de guerra
+615,Kurdistan Sirio,2016-11-22,Hombre,Idlib,Civil,Binnish,Basel Bashir Shoaeeb,Bombardeo del avión de guerra
+616,Gobierno,2016-11-22,Hombre,Aleppo,No Civil,,Abo Lhareth,Disparo
+617,Gobierno,2016-11-23,Hombre,Damasco Rural,Civil,Al-Tal,Ahmad Hasan al-Arnous,Bombardeo
+618,No identificado,2016-11-22,Hombre,Idlib,No Civil,Marshurin,Muhammad Kahled Hasan Obaied,Explosion
+619,Gobierno,2016-11-20,Hombre,Damasco Rural,No Civil,Hush Dawahra,Sharaf Muhammad Sharaf,Disparo
+620,Gobierno,2016-11-20,Hombre,Aleppo,Civil,Fardous,Ahmad al-Fares,Bombardeo del avión de guerra
+621,Gobierno,2016-11-23,Mujer,Damasco Rural,Civil,Beit Jen,Baraea al-Samman,Bombardeo
+622,Gobierno,2016-11-20,Mujer,Damasco Rural,Civil,Misraba,Khawla Tawfieq Abdulrahim,Bombardeo
+623,ISIS,2016-11-20,Hombre,Aleppo,Civil,Kabbasin,Hamze Mustafa al-Ghazal,Explosion
+624,Gobierno,2016-11-20,Hombre,Damasco Rural,Civil,Misraba,Wesam Moner Hamadah,Detención - Tortura
+625,Gobierno,2016-11-20,Hombre,Aleppo,Civil,Fardous,Mohammad al-Fares,Bombardeo del avión de guerra
+626,Gobierno,2016-11-20,Hombre,Aleppo,No Civil,Bab Road neighborhood,Jasem al-Musa,Disparo
+627,Gobierno,2016-11-23,Hombre,Homs,Civil,Qaryatain,"Hisham Khaled al-Obaid ""al-Sawan""",Detención - Tortura
+628,ISIS,2016-11-23,Hombre,Aleppo,Civil,Manbej,Unidentified,Secuestro-Ejecución
+629,ISIS,2016-11-23,Hombre,Aleppo,Civil,Manbej,Bashar Arkam al-Shahoud,Secuestro-Ejecución
+630,CJTF-OIR,2016-11-23,Mujer,Aleppo,Civil,Manbej,wife of Mahmoud al-Yaseen al-Delek,Bombardeo
+631,Gobierno,2016-11-23,Hombre,Aleppo,No Civil,Karam el-Jabal,Abdul Azeez Khantomani,Disparo
+632,Gobierno,2016-11-23,Hombre,Aleppo,No Civil,,Abo Udai,Disparo
+633,ISIS,2016-11-23,Hombre,Aleppo,Civil,Manbej,Abdulla Amouri al-Ismael,Secuestro-Ejecución
+634,Gobierno,2016-11-23,Hombre,Aleppo,No Civil,,Mustafa al-Mohammad,Disparo
+635,Gobierno,2016-11-23,Hombre,Aleppo,No Civil,,Ammar Wafaei,Disparo
+636,Gobierno,2016-11-23,Hombre,Aleppo,Civil,Hamdania,Mustafa Ayan,Bombardeo
+637,Gobierno,2016-11-20,Hombre,Damasco Rural,No Civil,Misraba,Ahmad Takklah,Disparo
+638,Gobierno,2016-11-20,Hombre,Aleppo,No Civil,Atarib,Omar Qazoa,Disparo
+639,Kurdistan Sirio,2016-11-20,Hombre,Damasco Rural,Civil,Douma,Saeed Marjan Abdul Azeez Folfol,Bombardeo del avión de guerra
+640,Gobierno,2016-11-20,Hombre,Aleppo,No Civil,,Musa al-Dawor al-Batoushi,Disparo
+641,Gobierno,2016-11-20,Hombre,Aleppo,No Civil,,Ammar Yaser Haj Ali,Disparo
+642,Gobierno,2016-11-20,Hombre,Damasco Rural,Civil,Douma,Ibrahim Ali Ibrahim,Bombardeo
+643,Gobierno,2016-11-20,Hombre,Aleppo,No Civil,Karam el-Jabal,Hasan Kerdi,Disparo
+644,Gobierno,2016-11-20,Hombre,Deir Ezzor,Civil,,Maamoun Hamood Joaeefes,Bombardeo
+645,Gobierno,2016-11-20,Hombre,Damasco Rural,Civil,Douma,Ziad Muhammad Toaamah,Bombardeo
+646,Gobierno,2016-11-20,Hombre,Damasco Rural,Civil,Douma,Ziad Maaekah,Bombardeo
+647,Gobierno,2016-11-20,Hombre,Damasco Rural,Civil,Hosh Dawahra,Fahd Faysal al-Hosien,Bombardeo del avión de guerra
+648,Gobierno,2016-11-20,Hombre,Deir Ezzor,No Civil,Bulial,Saher Jasem Yousef,Bombardeo del avión de guerra
+649,Gobierno,2016-11-20,Mujer,Damasco Rural,Civil,Jesreen,Someah Farah,Bombardeo
+650,Gobierno,2016-11-20,Hombre,Damasco Rural,Civil,Jesreen,Omar Fayez Darwish,Bombardeo
+651,Gobierno,2016-11-20,Mujer,Damasco Rural,Civil,Jesreen,Jana Samer Masri,Bombardeo
+652,Gobierno,2016-11-20,Mujer,Damasco Rural,Civil,Abbada,Remas Dawish,Bombardeo
+653,Gobierno,2016-11-20,Mujer,Damasco Rural,Civil,Jesreen,Tasneem Darwish,Bombardeo
+654,Gobierno,2016-11-20,Hombre,Damasco Rural,Civil,Jesreen,Emad Darwish,Bombardeo
+655,Gobierno,2016-11-20,Mujer,Damasco Rural,Civil,Jesreen,Boshra Makkawi,Bombardeo
+656,No identificado,2016-11-20,Hombre,Deir Ezzor,Civil,Mayadeen,Sarhan al-ALash,Disparo
+657,Gobierno,2016-11-20,Hombre,Homs,No Civil,Maheen,Ahmad Nazem al-Aetar,Disparo
+658,Gobierno,2016-11-20,Hombre,Homs,Civil,Waar,Bassam Qrei,Bombardeo
+659,Kurdistan Sirio,2016-11-20,Hombre,Idlib,Civil,,Desconocido2,Bombardeo del avión de guerra
+660,Kurdistan Sirio,2016-11-20,Hombre,Idlib,Civil,,Desconocido1,Bombardeo del avión de guerra
+661,Kurdistan Sirio,2016-11-20,Hombre,Idlib,Civil,Idlib city,Morshed Amino,Bombardeo del avión de guerra
+662,Kurdistan Sirio,2016-11-20,Hombre,Idlib,Civil,Idlib city,Ahmad Rodwan Obaid,Bombardeo del avión de guerra
+663,Kurdistan Sirio,2016-11-20,Hombre,Idlib,Civil,Kafrenbil,Abd al-Fattah Ammar al-Hallak,Bombardeo del avión de guerra
+664,Kurdistan Sirio,2016-11-20,Mujer,Idlib,Civil,Kafrenbil,Rahma Sadeq al-Hazzae,Bombardeo del avión de guerra
+665,Gobierno,2016-11-20,Hombre,Idlib,No Civil,Al-Tih town,Kamal Hosain al-Jameel,Disparo
+666,Kurdistan Sirio,2016-11-20,Hombre,Idlib,Civil,Killi,Mohammad Shaher Hamzeh,Bombardeo del avión de guerra
+667,Gobierno,2016-11-20,Mujer,Damasco Rural,Civil,Hazrama,Ahlam Matroud,Bombardeo del avión de guerra
+668,Kurdistan Sirio,2016-11-20,Mujer,Idlib,Civil,Killi,Sawsan Mostafa Mosa,Bombardeo del avión de guerra
+669,Gobierno,2016-11-20,Hombre,Aleppo,Civil,Masaken al-Sabeel,Ahmad Darwish Darwish,Bombardeo
+670,Gobierno,2016-11-20,Hombre,Aleppo,Civil,Masaken al-Sabeel,Hasan Hamdoun Naaso,Bombardeo
+671,Gobierno,2016-11-20,Mujer,Aleppo,Civil,Furqan,Sabah Jamal Abo Ras,Bombardeo
+672,Gobierno,2016-11-20,Mujer,Aleppo,Civil,Furqan,Sedra Mohammad Taher,Bombardeo
+673,Gobierno,2016-11-20,Mujer,Aleppo,Civil,Furqan,Aya Zakariya al-Sakani,Bombardeo
+674,Gobierno,2016-11-20,Hombre,Damasco Rural,Civil,Douma,Abd al-Rahaman Mohammad Khair Shaikh al-Qsair,Bombardeo del avión de guerra
+675,Gobierno,2016-11-20,Hombre,Damasco Rural,Civil,Erbeen,Ali Omer Arafeh,Bombardeo del avión de guerra
+676,No identificado,2016-11-20,Mujer,Aleppo,Civil,Masakin Hanano,Aysha Kousa,Bombardeo
+677,Gobierno,2016-11-20,Mujer,Damasco Rural,Civil,Nashabia,Sidra Sbainati,Bombardeo del avión de guerra
+678,Gobierno,2016-11-20,Hombre,Aleppo,Civil,Sakhour,Desconocido10,Bombardeo del avión de guerra
+679,Gobierno,2016-11-20,Hombre,Damasco Rural,Civil,Erbeen,Samer Ataya,Bombardeo del avión de guerra
+680,Gobierno,2016-11-20,Hombre,Aleppo,Civil,Sakhour,Desconocido9,Bombardeo del avión de guerra
+681,Gobierno,2016-11-20,Hombre,Damasco Rural,Civil,Douma,Mohammad Saeed Dawoud,Bombardeo del avión de guerra
+682,Gobierno,2016-11-20,Hombre,Aleppo,Civil,Sakhour,Desconocido8,Bombardeo del avión de guerra
+683,Gobierno,2016-11-20,Hombre,Damasco Rural,Civil,Saqba,Khaled Bader,Bombardeo del avión de guerra
+684,Gobierno,2016-11-20,Hombre,Aleppo,Civil,Sakhour,Desconocido6,Bombardeo del avión de guerra
+685,Gobierno,2016-11-20,Hombre,Aleppo,Civil,Sakhour,Desconocido5,Bombardeo del avión de guerra
+686,Gobierno,2016-11-20,Hombre,Aleppo,Civil,Sakhour,Desconocido4,Bombardeo del avión de guerra
+687,Gobierno,2016-11-20,Hombre,Aleppo,Civil,Sakhour,Desconocido3,Bombardeo del avión de guerra
+688,Gobierno,2016-11-20,Mujer,Aleppo,Civil,Sakhour,Desconocido2,Bombardeo del avión de guerra
+689,Gobierno,2016-11-20,Hombre,Aleppo,Civil,Sakhour,Desconocido1,Bombardeo del avión de guerra
+690,Gobierno,2016-11-20,Hombre,Aleppo,Civil,Sakhour,Desconocido7,Bombardeo del avión de guerra
+691,No identificado,2016-11-20,Hombre,Aleppo,Civil,Sfaireh,Suhayb Abdul Hameed al-Abdul Wahhab,Bombardeo
+692,No identificado,2016-11-20,Hombre,Aleppo,Civil,Hayyan,Abdul Hadi Daaboul,Bombardeo
+693,Kurdistan Sirio,2016-11-20,Hombre,Damasco Rural,Civil,Jobar,Samer Abo Sallah,Bombardeo del avión de guerra
+694,Kurdistan Sirio,2016-11-20,Hombre,Damasco Rural,Civil,Saqba,Ahmad Shekh,Bombardeo del avión de guerra
+695,Gobierno,2016-11-20,Mujer,Aleppo,Civil,Hader village,Fatme al-Sfoak,Bombardeo del avión de guerra
+696,Kurdistan Sirio,2016-11-20,Hombre,Damasco Rural,Civil,Saqba,Muhammad Badr,Bombardeo del avión de guerra
+697,Kurdistan Sirio,2016-11-21,Mujer,Idlib,Civil,Idlib city,Amineh al-Her,Bombardeo del avión de guerra
+698,No identificado,2016-11-21,Hombre,Idlib,Civil,Abu Zohour,Abdo Walid al-Aboud,Bombardeo del avión de guerra
+699,Gobierno,2016-11-21,Hombre,Idlib,No Civil,Has,Abdullah Najeeb al-Shaikh Najeeb,Disparo
+700,Gobierno,2016-11-21,Mujer,Idlib,Civil,Saraqib,Khetmeh al-Ayesh,Explosion
+701,Gobierno,2016-11-23,Hombre,Hama,No Civil,Hama city,Abo Darwish al-Hamwi,Disparo
+702,Gobierno,2016-11-21,Mujer,Idlib,Civil,Kafroumeh,Samar Abdo Hamadi al-Ibraheem,Bombardeo del avión de guerra
+703,CJTF-OIR,2016-11-23,Hombre,Raqqa,Civil,Kelli village,Hussien al-Abd al-Hussien al-Hatem,Bombardeo del avión de guerra
+704,Gobierno,2016-11-23,Hombre,Hama,No Civil,Zaqom,Ali Mostafa Hamwra,Disparo
+705,Gobierno,2016-11-23,Hombre,Hama,No Civil,Hama city,Abo al-Safi al-Hamwi,Disparo
+706,Gobierno,2016-11-23,Hombre,Hama,No Civil,Khirbet el-Naqous,Ahmad Abdulnaser Ramadan,Disparo
+707,Gobierno,2016-11-23,Hombre,Hama,Civil,Khirbet el-Naqous,Nehad Khaled Hamwra,Disparo
+708,Gobierno,2016-11-23,Hombre,Hama,No Civil,Tel Wasit,Stev al-Tamr,Disparo
+709,Kurdistan Sirio,2016-11-23,Hombre,Damasco Rural,Civil,Daraya,Mahmoud Nabiel Fathi,Bombardeo del avión de guerra
+710,Gobierno,2016-11-23,Hombre,Daraa,Civil,Jassim,Muhammad Khier Ismail al-Naseer,Bombardeo del avión de guerra
+711,Gobierno,2016-11-23,Hombre,Daraa,Civil,Jassim,Hamzah Ismaiel al-Hajjaj,Bombardeo del avión de guerra
+712,Gobierno,2016-11-23,Hombre,Daraa,Civil,Jassim,Hisham Muhammad Khier Khaled al-Hajji,Bombardeo del avión de guerra
+713,CJTF-OIR,2016-11-23,Hombre,Raqqa,Civil,Kelli village,Anwar al-Abd al-Housien al-Hatem,Bombardeo del avión de guerra
+714,Gobierno,2016-11-23,Hombre,Idlib,No Civil,Corin,Odai Ahamd Jomea al-Ibraheem,Disparo
+715,Gobierno,2016-11-23,Hombre,Idlib,No Civil,Kafrenbil,Nizar Haboush al-Bayoush,Disparo
+716,Gobierno,2016-11-23,Hombre,Idlib,No Civil,Joseph village,Ahmad Taha Wahbi,Disparo
+717,Gobierno,2016-11-23,Hombre,Idlib,Civil,Khan Sheikhoun,Abdullah Jihad Rahmoun,Bombardeo del avión de guerra
+718,Gobierno,2016-11-23,Hombre,Idlib,Civil,Khan Sheikhoun,Mohammad Ali Dayoub,Bombardeo del avión de guerra
+719,Gobierno,2016-11-23,Hombre,Idlib,Civil,Khan Sheikhoun,Abd al-Aziz Ali Dayoub,Bombardeo del avión de guerra
+720,Gobierno,2016-11-23,Mujer,Aleppo,Civil,,Unidentified,Gases químicos y tóxicos
+721,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Karam el-Baik neighborhood,Desconocido1,Bombardeo del avión de guerra
+722,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Bab Road neighborhood,Desconocido3,Bombardeo del avión de guerra
+723,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Bab Road neighborhood,Desconocido2,Bombardeo del avión de guerra
+724,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Bab Road neighborhood,Desconocido1,Bombardeo del avión de guerra
+725,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Mashad,Desconocido13,Bombardeo del avión de guerra
+726,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Mashad,Desconocido12,Bombardeo del avión de guerra
+727,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Mashad,Desconocido10,Bombardeo del avión de guerra
+728,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Mashad,Desconocido9,Bombardeo del avión de guerra
+729,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Mashad,Desconocido8,Bombardeo del avión de guerra
+730,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Mashad,Desconocido7,Bombardeo del avión de guerra
+731,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Mashad,Desconocido5,Bombardeo del avión de guerra
+732,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Mashad,Desconocido4,Bombardeo del avión de guerra
+733,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Mashad,Desconocido3,Bombardeo del avión de guerra
+734,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Mashad,Desconocido2,Bombardeo del avión de guerra
+735,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Mashad,Desconocido1,Bombardeo
+736,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Bab Neirab,Desconocido7,Bombardeo del avión de guerra
+737,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Bab Neirab,Desconocido6,Bombardeo del avión de guerra
+738,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Bab Neirab,Desconocido5,Bombardeo del avión de guerra
+739,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Bab Neirab,Desconocido4,Bombardeo del avión de guerra
+740,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Bab Neirab,Desconocido3,Bombardeo del avión de guerra
+741,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Bab Neirab,Desconocido2,Bombardeo del avión de guerra
+742,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Bab Neirab,Desconocido1,Bombardeo del avión de guerra
+743,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Muyassar neighborhood,Muhammad Aaoerah,Bombardeo del avión de guerra
+744,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Muyassar neighborhood,Ahmad al-Mamah,Bombardeo del avión de guerra
+745,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Muyassar neighborhood,Firas al-Jabooli,Bombardeo del avión de guerra
+746,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Muyassar neighborhood,Firas Abuljood,Bombardeo del avión de guerra
+747,Gobierno,2016-11-24,Hombre,Aleppo,Civil,Mashad,Desconocido11,Bombardeo del avión de guerra
+748,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Muyassar neighborhood,Qasem Khalelo's child,Bombardeo del avión de guerra
+749,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Muyassar neighborhood,Unborn child of Qasem Khalelo's wife,Bombardeo del avión de guerra
+750,Kurdistan Sirio,2016-11-24,Mujer,Aleppo,Civil,Muyassar neighborhood,Qasem Khalelo's wife,Bombardeo del avión de guerra
+751,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Muyassar neighborhood,Qasem Khalelo,Bombardeo del avión de guerra
+752,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Muyassar neighborhood,Mahmoud Khalelo,Bombardeo del avión de guerra
+753,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Muyassar neighborhood,Yaser Khalelo,Bombardeo del avión de guerra
+754,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Muyassar neighborhood,Hussam Khalelo,Bombardeo del avión de guerra
+755,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Muyassar neighborhood,Hasan Abdulrahman Assaf,Bombardeo del avión de guerra
+756,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Muyassar neighborhood,Khaled Sandafi,Bombardeo del avión de guerra
+757,Gobierno,2016-11-24,Hombre,Hama,No Civil,Lattamna,Abd al-Baset Adnan al-Dahrouj,Disparo
+758,Gobierno,2016-11-24,Hombre,Hama,Civil,Kafrhood,Fahed Raed al-Seoud,Bombardeo del avión de guerra
+759,Gobierno,2016-11-24,Hombre,Hama,Civil,Kafrhood,Daed Mahmoud al-Abd,Bombardeo del avión de guerra
+760,Kurdistan Sirio,2016-11-24,Hombre,Aleppo,Civil,Muyassar neighborhood,Muhammad Mahmoud Abdulaziz,Bombardeo del avión de guerra
+761,ISIS,2016-11-24,Hombre,Daraa,No Civil,Tseel,Basel Ameen al-Muqadam,Disparo
+762,ISIS,2016-11-24,Hombre,Daraa,No Civil,Akraba,Mohammad Najm al-Haj,Disparo
+763,ISIS,2016-11-24,Hombre,Daraa,No Civil,Nawa,Abdul Mohsen Ziyad Debbo,Disparo
+764,ISIS,2016-11-24,Hombre,Daraa,No Civil,Akraba,Mohammad Musa al-Haj,Disparo
+765,ISIS,2016-11-24,Hombre,Daraa,No Civil,Akraba,Ahmad Ibraheem al-Haj,Disparo
+766,ISIS,2016-11-24,Hombre,Daraa,No Civil,Akraba,Suhayb Ziyad al-Haj,Disparo
+767,ISIS,2016-11-24,Hombre,Daraa,No Civil,Akraba,Alaa Mohammad al-Haj,Disparo
+768,ISIS,2016-11-24,Hombre,Daraa,No Civil,Akraba,Zaidan Ziyad al-Haj,Disparo
+769,ISIS,2016-11-24,Hombre,Daraa,No Civil,Akraba,Mohammad Ahmad Awedat,Disparo
+770,Gobierno,2016-11-24,Hombre,Idlib,No Civil,Jisr Shagour,Mohammad Haj Ahmad,Disparo
+771,Gobierno,2016-11-24,Hombre,Idlib,Civil,Binnish,Nader Ibraheem Hajar,Bombardeo del avión de guerra
+772,Gobierno,2016-11-24,Mujer,Idlib,Civil,Binnish,Nour Jadoe,Bombardeo del avión de guerra
+773,Kurdistan Sirio,2016-11-24,Mujer,Idlib,Civil,Binnish,Walae Mohammad al-Hamed,Bombardeo del avión de guerra
+774,Gobierno,2016-11-24,Hombre,Idlib,Civil,Binnish,Barae Imad Khorsheed,Bombardeo del avión de guerra
+775,Gobierno,2016-11-24,Hombre,Idlib,Civil,Binnish,Ahmad Imad Khorsheed,Bombardeo del avión de guerra
+776,Gobierno,2016-11-24,Hombre,Damasco Rural,No Civil,Saqba,Ammar Qawoq,Disparo
+777,Gobierno,2016-11-24,Hombre,Damasco Rural,Civil,Kafr Batna,Alaa al-Bahsh,Bombardeo del avión de guerra
+778,Gobierno,2016-11-24,Hombre,Damasco Rural,Civil,Douma,Ahmad Mohammad Zrara,Bombardeo del avión de guerra
+779,Gobierno,2016-11-24,Mujer,Hama,Civil,Kafrhood,Tasneem Raed al-Seoud,Bombardeo del avión de guerra
+780,Gobierno,2016-11-24,Mujer,Damasco Rural,Civil,Beit Sawa,Haneen,Bombardeo del avión de guerra
+781,Gobierno,2016-11-24,Mujer,Damasco Rural,Civil,Beit Sawa,Tasneem,Bombardeo del avión de guerra
+782,Gobierno,2016-11-24,Hombre,Idlib,No Civil,Khan Sheikhoun,Abo Laith al-Bakor,Disparo
+783,Gobierno,2016-11-24,Hombre,Idlib,No Civil,Khan Sheikhoun,Maher Sarmani,Disparo
+784,Gobierno,2016-11-24,Hombre,Idlib,No Civil,Khan Sheikhoun,Abduallah Ibrahim al-Mrrai,Disparo
+785,No identificado,2016-11-24,Hombre,Idlib,No Civil,Telminis,Ramez Khaled Borhan Omer,Disparo
+786,No identificado,2016-11-24,Hombre,Idlib,No Civil,Telminis,Abdullah Bader al-Hasoun,Disparo
+787,No identificado,2016-11-24,Hombre,Idlib,No Civil,Telminis,Zaid Ibraheem al-Yousef,Disparo
+788,Kurdistan Sirio,2016-11-18,Hombre,Aleppo,Civil,Bab Road neighborhood,Mohammad Ahmad Aboush,Bombardeo del avión de guerra
+789,Kurdistan Sirio,2016-11-18,Hombre,Aleppo,Civil,Bab Road neighborhood,Emad Hak,Bombardeo del avión de guerra
+790,Kurdistan Sirio,2016-11-18,Hombre,Aleppo,Civil,Hayyan,Hasan Mohammad Mahmoud Hayek,Bombardeo del avión de guerra
+791,Kurdistan Sirio,2016-11-18,Mujer,Aleppo,Civil,Hayyan,Layla Mohammad Dabbah Hayek,Bombardeo del avión de guerra
+792,Gobierno,2016-11-18,Mujer,Aleppo,Civil,Qubtan el-Jabal,Warde Mohammad Hamdo Fahoush,Bombardeo del avión de guerra
+793,Gobierno,2016-11-18,Hombre,Aleppo,Civil,Qubtan el-Jabal,Abdo Mohammad Hamdo Fahoush,Bombardeo del avión de guerra
+794,Kurdistan Sirio,2016-11-18,Hombre,Aleppo,Civil,Arada,son of Ali Tabbash 5,Bombardeo del avión de guerra
+795,Kurdistan Sirio,2016-11-18,Hombre,Aleppo,Civil,Arada,wife of Ali Tabbash,Bombardeo del avión de guerra
+796,Kurdistan Sirio,2016-11-18,Hombre,Aleppo,Civil,Arada,son of Ali Tabbash 4,Bombardeo del avión de guerra
+797,Kurdistan Sirio,2016-11-18,Hombre,Aleppo,Civil,Arada,son of Ali Tabbash 3,Bombardeo del avión de guerra
+798,Kurdistan Sirio,2016-11-18,Hombre,Aleppo,Civil,Arada,son of Ali Tabbash 2,Bombardeo del avión de guerra
+799,Kurdistan Sirio,2016-11-18,Hombre,Aleppo,Civil,Arada,son of Ali Tabbash 1,Bombardeo del avión de guerra
+800,Gobierno,2016-11-18,Hombre,Aleppo,Civil,Misakan,Ata Ali Kareem,Bombardeo del avión de guerra
+801,No identificado,2016-11-18,Hombre,Aleppo,Civil,Masakin Hanano,Abdul Rahman Mohammad Ghasheem,Bombardeo
+802,Gobierno,2016-11-16,Hombre,Idlib,Civil,Habeet,Bakoor Ahmad Hallak,Bombardeo del avión de guerra
+803,Kurdistan Sirio,2016-11-18,Hombre,Aleppo,Civil,Arada,Ali Tabbash,Bombardeo del avión de guerra
+804,Gobierno,2016-11-18,Hombre,Aleppo,Civil,Shaar,Shadi Najjar,Bombardeo del avión de guerra
+805,Gobierno,2016-11-18,Hombre,Homs,Civil,Hula: Western Taybeh,Mahmoud Deab,Disparo
+806,CJTF-OIR,2016-11-09,Mujer,Raqqa,Civil,Haisha village,Aaied Ali Habood's daughter,Bombardeo del avión de guerra
+807,Gobierno,2016-11-08,Hombre,Daraa,No Civil,Nawa,Yaseen Fakhri al-Refaei,Disparo
+808,Oposición,2016-11-09,Hombre,Aleppo,Civil,New Aleppo,Sameh Hameed Qojo,Bombardeo
+809,Gobierno,2016-11-09,Hombre,Aleppo,No Civil,Hritan,Alaa Khashab,Disparo
+810,Gobierno,2016-11-09,Hombre,Aleppo,No Civil,,Omar Maikle,Disparo
+811,Gobierno,2016-11-09,Hombre,Aleppo,No Civil,Kafrahamreh,Ghaith Shihade Kraf,Disparo
+812,Gobierno,2016-11-09,Hombre,Aleppo,No Civil,Gadfeh,Mohammad al-Rahmoun,Disparo
+813,ISIS,2016-11-09,Hombre,Aleppo,Civil,Izaz: Keljebrin Village,Unidentified,Explosion
+814,Gobierno,2016-11-09,Hombre,Idlib,Civil,Jisr Shagour: Mashmashan,Jomaa Taher Anoush,Bombardeo del avión de guerra
+815,Gobierno,2016-11-09,Mujer,Idlib,Civil,Jisr Shagour: Mashmashan,Khadeeje Mohammad Jomaa Anoush,Bombardeo del avión de guerra
+816,Gobierno,2016-11-08,Hombre,Damasco Rural,Civil,Douma,Mohammad Ali Kassab,Bombardeo
+817,Gobierno,2016-11-08,Hombre,Damasco Rural,No Civil,Douma,Ahmad Akram al-Saidawi,Bombardeo
+818,Gobierno,2016-11-08,Hombre,Damasco Rural,Civil,Douma,Adnan Khalil al-Wazeer,Bombardeo del avión de guerra
+819,Gobierno,2016-11-08,Hombre,Damasco,No Civil,Jobar,Abo Waleed Shabab,Disparo
+820,Gobierno,2016-11-08,Mujer,Damasco Rural,Civil,Hazrama,Safa Kareem,Bombardeo del avión de guerra
+821,Gobierno,2016-11-08,Hombre,Damasco Rural,Civil,Hazrama,Abdul Hameed al-Kareem,Bombardeo del avión de guerra
+822,Gobierno,2016-11-15,Hombre,Aleppo,No Civil,,Turky Jomea al-Abdullah,Disparo
+823,Gobierno,2016-11-15,Hombre,Aleppo,No Civil,Kafrnoran,Abd al-Hakeem Abdullah Shaikh Khaled,Disparo
+824,Gobierno,2016-11-15,Hombre,Aleppo,No Civil,Kafrnoran,Ali Mohammad Abdullah Shaikh Khaled,Disparo
+825,Gobierno,2016-11-15,Hombre,Aleppo,No Civil,Kafrnoran,Salah Mohammad al-Qaseer,Disparo
+826,Gobierno,2016-11-12,Hombre,Aleppo,No Civil,,Mohammad Mustafa Jarrah,Disparo
+827,Gobierno,2016-11-12,Hombre,Aleppo,No Civil,,Ibraheem Isa al-Isa,Disparo
+828,CJTF-OIR,2016-11-09,Hombre,Raqqa,Civil,Haisha village,Asfor's son,Bombardeo del avión de guerra
+829,CJTF-OIR,2016-11-09,Mujer,Raqqa,Civil,Haisha village,Asfor's wife,Bombardeo del avión de guerra
+830,CJTF-OIR,2016-11-09,Hombre,Raqqa,Civil,Haisha village,Asfor,Bombardeo del avión de guerra
+831,CJTF-OIR,2016-11-09,Mujer,Raqqa,Civil,Haisha village,Wife of Ali Khalaf's son's,Bombardeo del avión de guerra
+832,CJTF-OIR,2016-11-09,Hombre,Raqqa,Civil,Haisha village,Ali Khalaf's son,Bombardeo del avión de guerra
+833,Gobierno,2016-11-15,Hombre,Aleppo,No Civil,Kafrnoran,Mahmoud Mohammad Jomea Barakat,Disparo
+834,Gobierno,2016-11-15,Hombre,Aleppo,No Civil,Kafrnoran,Khattab Hamzeh Khattab,Disparo
+835,Gobierno,2016-11-15,Hombre,Aleppo,No Civil,Atarib,Haytham Omer Shaker,Disparo
+836,Gobierno,2016-11-15,Hombre,Aleppo,No Civil,Atarib,Omer Hosain al-Shoun,Disparo
+837,Gobierno,2016-11-15,Hombre,Aleppo,No Civil,Atarib,Mohammad Hasan Maksour,Disparo
+838,Gobierno,2016-11-15,Hombre,Aleppo,No Civil,Atarib,Ahmad Foad Eisa,Disparo
+839,Gobierno,2016-11-15,Hombre,Aleppo,No Civil,Atarib,Abd al-Razzaq Akoush,Disparo
+840,Gobierno,2016-11-15,Hombre,Aleppo,No Civil,,Abdal-Monem Ararb,Disparo
+841,ISIS,2016-11-15,Hombre,Aleppo,No Civil,,Ismaeil Arab,Explosion
+842,ISIS,2016-11-15,Hombre,Aleppo,No Civil,,Abo Ibraheem Maskana,Explosion
+843,Gobierno,2016-11-12,Hombre,Idlib,Civil,Binnish,Ahmad Mosaab Sadeq,Bombardeo del avión de guerra
+844,Gobierno,2016-11-15,Mujer,Aleppo,Civil,Bab,From al-Hashem family,Bombardeo
+845,Gobierno,2016-11-12,Hombre,Aleppo,No Civil,,Saleh Mohammad al-Hmaidi,Disparo
+846,Gobierno,2016-11-12,Mujer,Aleppo,Civil,Atarib,Fatme Mohammad Hmaidi,Bombardeo
+847,Gobierno,2016-11-12,Hombre,Aleppo,Civil,Atarib,Ahmad Hmaidi,Bombardeo
+848,Kurdistan Sirio,2016-11-15,Hombre,Aleppo,Civil,Anadan,Imad Mohammad Zaitoun,Bombardeo del avión de guerra
+849,Gobierno,2016-11-13,Hombre,Damasco Rural,Civil,Douma,Ameen Khaled al-Qaseer,Bombardeo
+850,Kurdistan Sirio,2016-11-13,Hombre,Aleppo,Civil,,Desconocido6,Bombardeo del avión de guerra
+851,Gobierno,2016-11-12,Mujer,Idlib,Civil,Armanaz,Nada Salah al-Sari,Bombardeo del avión de guerra
+852,No identificado,2016-11-13,Hombre,Homs,Civil,Qaryatain,Ayman Omar Abdul Kareem,Desconocido
+853,Kurdistan Sirio,2016-11-13,Hombre,Aleppo,Civil,,Desconocido4,Bombardeo del avión de guerra
+854,ISIS,2016-11-15,Hombre,Aleppo,Civil,,Haji Shokri Ahmad,Explosion
+855,Kurdistan Sirio,2016-11-13,Hombre,Aleppo,Civil,,Desconocido3,Bombardeo del avión de guerra
+856,Kurdistan Sirio,2016-11-13,Hombre,Aleppo,Civil,,Desconocido2,Bombardeo del avión de guerra
+857,Kurdistan Sirio,2016-11-13,Hombre,Aleppo,Civil,,Desconocido5,Bombardeo del avión de guerra
+858,CJTF-OIR,2016-11-09,Mujer,Raqqa,Civil,Haisha village,Salha,Bombardeo del avión de guerra
+859,CJTF-OIR,2016-11-09,Mujer,Raqqa,Civil,Haisha village,Fedah,Bombardeo del avión de guerra
+860,CJTF-OIR,2016-11-09,Hombre,Raqqa,Civil,Haisha village,Ammar Aied Hood's son,Bombardeo del avión de guerra
+861,Kurdistan Sirio,2016-11-09,Mujer,Raqqa,Civil,Haisha village,Ali Muhammad Habbod,Bombardeo del avión de guerra
+862,CJTF-OIR,2016-11-09,Mujer,Raqqa,Civil,Haisha village,Amonah Ali Habbod,Bombardeo del avión de guerra
+863,Oposición,2016-11-10,Hombre,Damasco Rural,No Civil,,Hmoud al-Quatli,Disparo
+864,Oposición,2016-11-10,Hombre,Damasco Rural,No Civil,Saqba,Malek al-Redha,Disparo
+865,CJTF-OIR,2016-11-09,Hombre,Raqqa,Civil,Haisha village,Lotfi Ali Hussien,Bombardeo del avión de guerra
+866,Gobierno,2016-11-10,Hombre,Damasco Rural,Civil,Douma,Abdul Rahman Mohammad Jomaa al-Esh,Bombardeo del avión de guerra
+867,Gobierno,2016-11-10,Hombre,Damasco Rural,Civil,Al-Tal,Nour al-Refaei,Detención - Tortura
+868,ISIS,2016-11-10,Hombre,Damasco Rural,No Civil,Beit Sahm,Muhannad al-Hendi,Disparo
+869,CJTF-OIR,2016-11-09,Hombre,Raqqa,Civil,Haisha village,Ali Jabali,Bombardeo del avión de guerra
+870,Gobierno,2016-11-08,Hombre,Idlib,No Civil,Marzita,Ibraheem Muneer al-Ali,Disparo
+871,Gobierno,2016-11-08,Hombre,Idlib,No Civil,Jarjanaz,Waseem Ramadhan al-Hamedh,Disparo
+872,Kurdistan Sirio,2016-11-08,Mujer,Idlib,Civil,Maarat Misreen,Leena Meshhel,Bombardeo del avión de guerra
+873,Gobierno,2016-11-15,Hombre,Aleppo,Civil,,Desconocido2,Bombardeo del avión de guerra
+874,Gobierno,2016-11-15,Hombre,Aleppo,Civil,,Desconocido1,Bombardeo del avión de guerra
+875,ISIS,2016-11-15,Hombre,Aleppo,Civil,Kafra,Son of Asad Khairo Ez al-Deen,Explosion
+876,Gobierno,2016-11-15,Hombre,Homs,Civil,Waar,Samer al-Bisklaitati,Bombardeo del avión de guerra
+877,Gobierno,2016-11-15,Hombre,Aleppo,Civil,,Desconocido3,Bombardeo del avión de guerra
+878,Gobierno,2016-11-15,Hombre,Homs,Civil,Waar,Waleed Maghmumeh,Bombardeo del avión de guerra
+879,Gobierno,2016-11-15,Mujer,Homs,Civil,Makramieh,Aya Shafeeq al-Sibaii,Bombardeo del avión de guerra
+880,Gobierno,2016-11-15,Hombre,Homs,No Civil,Dweir,Mohammad al-Rhayel,Disparo
+881,Kurdistan Sirio,2016-11-13,Hombre,Aleppo,Civil,,Desconocido1,Bombardeo del avión de guerra
+882,Gobierno,2016-11-13,Hombre,Aleppo,Civil,Bab Road neighborhood,Mostafa Ali Haj Hasan,Explosion
+883,ISIS,2016-11-13,Hombre,Aleppo,Civil,Mare: Um Hosh village,Hasan Abdullah al-Naesan,Explosion
+884,ISIS,2016-11-13,Hombre,Aleppo,No Civil,Manbej,Shaikh Nabhan,Disparo
+885,ISIS,2016-11-13,Hombre,Aleppo,No Civil,Manbej,Jomea Ali al-Sayed,Disparo
+886,ISIS,2016-11-13,Hombre,Aleppo,No Civil,Bab,Omer Mahmoud Hamdi,Disparo
+887,ISIS,2016-11-13,Hombre,Aleppo,No Civil,Tel Rifaat,Hasan Samir al-Jamal,Disparo
+888,ISIS,2016-11-13,Hombre,Aleppo,No Civil,Tel Rifaat,Mohammad Adnan Homed,Disparo
+889,Gobierno,2016-11-13,Hombre,Aleppo,No Civil,Sfaireh,Bilal Mohammad al-Rodwan,Disparo
+890,Gobierno,2016-11-13,Hombre,Aleppo,Civil,Salheen,Son of Ahmad al-Ti 4,Bombardeo
+891,Gobierno,2016-11-13,Hombre,Aleppo,Civil,Salheen,Son of Ahmad al-Ti 3,Bombardeo
+892,Gobierno,2016-11-13,Hombre,Aleppo,Civil,Salheen,Son of Ahmad al-Ti 2,Bombardeo
+893,Gobierno,2016-11-13,Hombre,Aleppo,Civil,Salheen,Son of Ahmad al-Ti 1,Bombardeo
+894,Gobierno,2016-11-13,Mujer,Aleppo,Civil,Salheen,Wife Ahmad al-Ti,Bombardeo
+895,Gobierno,2016-11-10,Mujer,Damasco Rural,Civil,Mleha,Ghufran Shaker,Bombardeo del avión de guerra
+896,Gobierno,2016-11-10,Mujer,Damasco Rural,Civil,Mleha,Rihab Awad,Bombardeo del avión de guerra
+897,Gobierno,2016-11-10,Hombre,Damasco Rural,Civil,Douma,Abdul Rahman Sheikh Orabi,Bombardeo del avión de guerra
+898,Gobierno,2016-11-10,Mujer,Damasco Rural,Civil,Douma,Taghreed Anwar al-Muhbani,Bombardeo del avión de guerra
+899,Gobierno,2016-11-10,Hombre,Damasco Rural,Civil,Douma,Samar Ahmad al-Ghazawi,Bombardeo del avión de guerra
+900,Gobierno,2016-11-10,Hombre,Damasco Rural,Civil,Douma,Mohammad Anwar al-Muhbani,Bombardeo del avión de guerra
+901,ISIS,2016-11-10,Mujer,Aleppo,Civil,Tadif,wife of Taha Hasan al-Hamdo al-Hasan,Explosion
+902,ISIS,2016-11-10,Hombre,Aleppo,Civil,Tadif,Taha Hasan al-Hamdo al-Hasan,Explosion
+903,ISIS,2016-11-10,Hombre,Aleppo,No Civil,,Saleh Mohammad Hasan al-Hmaidi al-Damallakhi,Disparo
+904,No identificado,2016-11-10,Hombre,Aleppo,Civil,Talaarn,Omar Haj Habo,Bombardeo
+905,No identificado,2016-11-10,Mujer,Aleppo,Civil,Kabbasin,Beeski family,Bombardeo
+906,Kurdistan Sirio,2016-11-10,Hombre,Aleppo,Civil,Jeb Abyad village,Mohammad al-Hamad,Bombardeo del avión de guerra
+907,Gobierno,2016-11-08,Hombre,Hama,No Civil,,Anas Maarati,Disparo
+908,Gobierno,2016-11-08,Mujer,Homs,Civil,Ghantto,Houriye Abdul Azeez Nabhan,Bombardeo del avión de guerra
+909,Gobierno,2016-11-08,Mujer,Homs,Civil,Ghantto,Shamse Nabhan,Bombardeo del avión de guerra
+910,Gobierno,2016-11-08,Hombre,Damasco Rural,Civil,Eftrees,Desconocido2,Bombardeo del avión de guerra
+911,Gobierno,2016-11-08,Hombre,Damasco Rural,Civil,Eftrees,Desconocido1,Bombardeo del avión de guerra
+912,Gobierno,2016-11-08,Mujer,Damasco Rural,Civil,Hamouria,Ameera Isa,Bombardeo
+913,Gobierno,2016-11-08,Hombre,Damasco Rural,Civil,Douma,Qutaiba Saleh Kheeti,Bombardeo
+914,Gobierno,2016-11-08,Hombre,Damasco Rural,Civil,Douma,Mohammad Subhi Ameen,Cerco
+915,Gobierno,2016-11-08,Hombre,Damasco Rural,Civil,Douma,Basheer Ahmad Qashoa,Bombardeo del avión de guerra
+916,Gobierno,2016-11-08,Hombre,Damasco Rural,Civil,Douma,Ali Rageb al-Sabbagh,Bombardeo del avión de guerra
+917,ISIS,2016-11-15,Hombre,Aleppo,Civil,Kafra,Son of Mohammad Ibraheem Ez al-Deen 2,Explosion
+918,Gobierno,2016-11-15,Hombre,Homs,No Civil,Dweir,Samer Fawaz al-Rhayel,Disparo
+919,ISIS,2016-11-15,Hombre,Aleppo,Civil,Kafra,Son of Mohammad Ibraheem Ez al-Deen 1,Explosion
+920,Kurdistan Sirio,2016-11-15,Hombre,Aleppo,Civil,,Unidentified,Bombardeo del avión de guerra
+921,Kurdistan Sirio,2016-11-15,Mujer,Aleppo,Civil,,Desconocido2,Bombardeo del avión de guerra
+922,Kurdistan Sirio,2016-11-15,Hombre,Aleppo,Civil,,Desconocido1,Bombardeo del avión de guerra
+923,Gobierno,2016-11-15,Hombre,Damasco Rural,No Civil,Rihan,Ziad al-Rihani,Disparo
+924,Gobierno,2016-11-15,Mujer,Aleppo,Civil,,Desconocido2,Bombardeo del avión de guerra
+925,Gobierno,2016-11-15,Mujer,Aleppo,Civil,,Desconocido1,Bombardeo del avión de guerra
+926,Gobierno,2016-11-15,Mujer,Aleppo,Civil,Masakin Hanano,Ilas Qasem,Bombardeo del avión de guerra
+927,Kurdistan Sirio,2016-11-15,Mujer,Aleppo,Civil,Hritan,Jamileh Abdullah Sido,Bombardeo del avión de guerra
+928,Gobierno,2016-11-15,Hombre,Idlib,No Civil,Dana,Mohammad Ahmad Sabri al-Hallaj,Disparo
+929,Kurdistan Sirio,2016-11-15,Mujer,Idlib,Civil,KaferJales,Desconocido2,Bombardeo del avión de guerra
+930,Gobierno,2016-11-13,Mujer,Idlib,Civil,Khan Sheikhoun,Meriam Ammar Sayadi,Bombardeo del avión de guerra
+931,Gobierno,2016-11-13,Mujer,Idlib,Civil,Khan Sheikhoun,Nour Ammar Sayadi,Bombardeo del avión de guerra
+932,Gobierno,2016-11-13,Hombre,Idlib,Civil,Khan Sheikhoun,Ziyad Ammar Sayadi,Bombardeo del avión de guerra
+933,Gobierno,2016-11-13,Mujer,Idlib,Civil,Khan Sheikhoun,Zahraa Ammar Sayadi,Bombardeo del avión de guerra
+934,Gobierno,2016-11-13,Mujer,Idlib,Civil,Khan Sheikhoun,Muna Saboura,Bombardeo del avión de guerra
+935,Gobierno,2016-11-13,Hombre,Aleppo,Civil,Salheen,Ahmad al-Ti,Bombardeo
+936,Gobierno,2016-11-13,Hombre,Aleppo,Civil,,Mohammad Jomea al-Shihada,Detención - Tortura
+937,Gobierno,2016-11-13,Mujer,Idlib,Civil,Tel Mardikh,Aysha Hamandoush,Bombardeo del avión de guerra
+938,Gobierno,2016-11-13,Hombre,Idlib,Civil,Tel Mardikh,Ahmad Waleed al-Abdo,Bombardeo del avión de guerra
+939,Kurdistan Sirio,2016-11-13,Hombre,Aleppo,Civil,,Yasin Khlil,Bombardeo del avión de guerra
+940,Kurdistan Sirio,2016-11-13,Mujer,Aleppo,Civil,,Naz Gazal,Bombardeo del avión de guerra
+941,Gobierno,2016-11-13,Hombre,Idlib,No Civil,Kafrenbil,Ahmad Abdul Fatah al-Hallaq,Disparo
+942,Kurdistan Sirio,2016-11-13,Hombre,Hama,Civil,Kaferzita,Marwan Deeb al-Mostafa,Bombardeo del avión de guerra
+943,Gobierno,2016-11-10,Mujer,Homs,Civil,Rastan,Layla Ghazi Warde,Bombardeo del avión de guerra
+944,Gobierno,2016-11-10,Mujer,Homs,Civil,Rastan,Sidra Ahmad Mesleh,Bombardeo del avión de guerra
+945,Gobierno,2016-11-10,Mujer,Homs,Civil,Rastan,Haleeme Ghazi Warde,Bombardeo del avión de guerra
+946,Gobierno,2016-11-10,Hombre,Idlib,No Civil,Ain Larose,Ali al-Hsain,Disparo
+947,Gobierno,2016-11-10,Hombre,Idlib,No Civil,Ain Larose,Jamal al-Hsain,Disparo
+948,Gobierno,2016-11-10,Hombre,Idlib,No Civil,Ain Larose,Ali Abdul Hakeem al-Hsain,Disparo
+949,Gobierno,2016-11-10,Hombre,Idlib,No Civil,Maarat Mater,Ahmad Nizar Najjar,Disparo
+950,Gobierno,2016-11-10,Hombre,Idlib,No Civil,Kafrauaid,Mahmoud Mansour Allo,Disparo
+951,Kurdistan Sirio,2016-11-10,Hombre,Aleppo,Civil,Atarib,Marsail Abdul Jabbar Saleh,Bombardeo del avión de guerra
+952,Gobierno,2016-11-08,Hombre,Idlib,Civil,Baarbo village,Desconocido2,Bombardeo del avión de guerra
+953,Kurdistan Sirio,2016-11-10,Mujer,Aleppo,Civil,Rasm al-Ees,Unidentified,Bombardeo del avión de guerra
+954,Gobierno,2016-11-08,Hombre,Idlib,Civil,Baarbo village,Ali Mohammad al-Ibraheem,Bombardeo del avión de guerra
+955,Gobierno,2016-11-08,Hombre,Idlib,Civil,Baarbo village,Khaled Ahmad al-Ibraheem,Bombardeo del avión de guerra
+956,No identificado,2016-11-08,Hombre,Damasco Rural,Civil,Otaya,Muhannad Raheel,Bombardeo del avión de guerra
+957,Gobierno,2016-11-08,Hombre,Idlib,Civil,Baarbo village,Desconocido1,Bombardeo del avión de guerra
+958,Gobierno,2016-11-08,Hombre,Idlib,Civil,Baarbo village,Ahmad al-Ibraheem,Bombardeo del avión de guerra
+959,Kurdistan Sirio,2016-11-15,Hombre,Idlib,Civil,KaferJales,Desconocido2,Bombardeo del avión de guerra
+960,Kurdistan Sirio,2016-11-15,Hombre,Idlib,Civil,KaferJales,Mohammad Hilal,Bombardeo del avión de guerra
+961,Gobierno,2016-11-08,Hombre,Damasco Rural,Civil,Otaya,Abdulla Jamal,Bombardeo del avión de guerra
+962,Kurdistan Sirio,2016-11-15,Hombre,Idlib,Civil,KaferJales,Mohammad Qaq,Bombardeo del avión de guerra
+963,Kurdistan Sirio,2016-11-15,Hombre,Idlib,Civil,KaferJales,Yaser Harmoush,Bombardeo del avión de guerra
+964,Kurdistan Sirio,2016-11-15,Hombre,Idlib,Civil,KaferJales,Abdo Morjan,Bombardeo del avión de guerra
+965,ISIS,2016-11-16,Hombre,Aleppo,No Civil,Jarablus,Mousa Jasem Mousa,Disparo
+966,No identificado,2016-11-16,Hombre,Aleppo,Civil,New Aleppo,Muhammad Kattnajis son 2,Bombardeo
+967,Gobierno,2016-10-28,Hombre,Hama,Civil,Lattamna,Mustafa Abdul Rahman Mustafa,Bombardeo del avión de guerra
+968,No identificado,2016-10-28,Hombre,Aleppo,Civil,,Omar Mohammad Dairi,Bombardeo
+969,Gobierno,2016-10-28,Hombre,Idlib,No Civil,Kafrenbil,Mohammad Khamis al-Shaheen,Disparo
+970,Gobierno,2016-11-03,Hombre,Damasco Rural,No Civil,Khan al-Sheih Camp,Abo Yazan,Disparo
+971,Gobierno,2016-10-27,Hombre,Homs,No Civil,Der Baalba,Soulieman Muhammad Reda Msheaal,Disparo
+972,Kurdistan Sirio,2016-11-06,Mujer,Aleppo,Civil,Darat Azza,Jinan Ahmad Hamdo,Bombardeo del avión de guerra
+973,Kurdistan Sirio,2016-11-06,Mujer,Aleppo,Civil,Darat Azza,Jameele Ahmad Hamdo,Bombardeo del avión de guerra
+974,Gobierno,2016-11-06,Hombre,Damasco Rural,Civil,Harasta,Omar Mahrous Dahdouh,Bombardeo
+975,Gobierno,2016-11-06,Hombre,Damasco Rural,Civil,Harasta,Jihad Qadado,Bombardeo
+976,Gobierno,2016-11-06,Hombre,Aleppo,Civil,Bshentreh village,Abdo Salame,Bombardeo
+977,Kurdistan Sirio,2016-11-04,Hombre,Aleppo,Civil,Kafarnaha,Abbas Ismael al-Khabbaz,Bombardeo del avión de guerra
+978,Gobierno,2016-11-02,Hombre,Idlib,Civil,Saraqib,Redab Khaled Darwish,Bombardeo del avión de guerra
+979,Kurdistan Sirio,2016-11-06,Mujer,Aleppo,Civil,Darat Azza,Jumana Mohammad Hamdo,Bombardeo del avión de guerra
+980,Gobierno,2016-11-05,Hombre,Damasco Rural,No Civil,Douma,Mohammad Rateb Yehya al-Soufi,Disparo
+981,Gobierno,2016-11-05,Mujer,Damasco Rural,Civil,Beit Saber,Desconocido2,Bombardeo
+982,Gobierno,2016-11-05,Hombre,Damasco Rural,Civil,Beit Saber,Desconocido1,Bombardeo
+983,Gobierno,2016-11-05,Hombre,Damasco Rural,Civil,Beit Jen,Unidentified,Bombardeo
+984,Kurdistan Sirio,2016-11-05,Hombre,Aleppo,Civil,Abyan,son of Hsain Jarkas,Bombardeo del avión de guerra
+985,Kurdistan Sirio,2016-11-05,Mujer,Aleppo,Civil,Abyan,daughter of Abdulla Qasem Qrunful,Bombardeo del avión de guerra
+986,Kurdistan Sirio,2016-11-05,Hombre,Aleppo,Civil,Abyan,Mohammad Abdul Hameed al-Sheikh Ahmad,Bombardeo del avión de guerra
+987,Kurdistan Sirio,2016-11-05,Hombre,Aleppo,Civil,Abyan,Mustafa Jomaa Hameedo,Bombardeo del avión de guerra
+988,Gobierno,2016-11-05,Hombre,Hama,No Civil,Aleppo Road neighborhood,Hasan al-Masri,Disparo
+989,Gobierno,2016-11-05,Hombre,Hama,Civil,Qusour neighborhood,Samer al-Hayek,Bombardeo
+990,Gobierno,2016-11-05,Hombre,Hama,No Civil,Lattamna,Basam Nasr al-Saleh,Disparo
+991,Kurdistan Sirio,2016-11-04,Mujer,Aleppo,Civil,Kafarnaha,Shadia Waleed al-Jrad,Bombardeo del avión de guerra
+992,Kurdistan Sirio,2016-11-04,Hombre,Aleppo,Civil,Kafarnaha,Hsain Abbas al-Khabbaz,Bombardeo del avión de guerra
+993,Kurdistan Sirio,2016-11-04,Hombre,Aleppo,Civil,Kafarnaha,Abbas Abbas al-Khabbaz,Bombardeo del avión de guerra
+994,Kurdistan Sirio,2016-11-04,Mujer,Aleppo,Civil,Kafarnaha,Dalal Yaseen Arman,Bombardeo del avión de guerra
+995,Kurdistan Sirio,2016-11-04,Mujer,Aleppo,Civil,Kafarnaha,Ahd Abbas al-Khabbaz,Bombardeo del avión de guerra
+996,Gobierno,2016-11-03,Hombre,Idlib,No Civil,Hafserjeh,Asadullah Hamze,Disparo
+997,Gobierno,2016-11-03,Hombre,Idlib,No Civil,Serjeh,Abdul Raheem Mjallawi,Disparo
+998,Gobierno,2016-11-03,Hombre,Damasco Rural,Civil,Douma,Moustafa Ali Haalaj,No se le permite buscar ayuda médica
+999,Gobierno,2016-11-03,Hombre,Idlib,No Civil,Binnish,Mohammad Naser Taalab,Disparo
+1000,Gobierno,2016-11-03,Hombre,Idlib,No Civil,Orme al-Jouz,Abdul Raheem al-Sheikh,Disparo
+1001,Gobierno,2016-11-03,Hombre,Idlib,No Civil,Merten,Basel Seelo,Disparo
+1002,Gobierno,2016-11-03,Hombre,Idlib,No Civil,Kafrauaid,Mohammad Adnan al-Mahmoud,Disparo
+1003,Gobierno,2016-11-03,Hombre,Idlib,No Civil,Maart Numan,Mahmoud Abdul Moneim Zakra,Disparo
+1004,Gobierno,2016-11-03,Hombre,Idlib,No Civil,Serjeh,Mohammad Adnan Meghlaj,Disparo

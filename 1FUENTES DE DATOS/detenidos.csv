@@ -1,0 +1,999 @@
+id,sexo,fecha_detencion,provincia_detencion,lugar_nacimiento,nombre,causa_detencion
+1,Hombre,2016-08-24,Deir Ezzor,,Salem Altaweta,Desconocido
+2,Hombre,2016-08-30,Hasakeh,,T haber Aljawaher,Desconocido
+3,Hombre,2016-09-02,Daraa,Jasem,Ebraheem Bade Alhalke,Desconocido
+4,Hombre,2016-10-20,Aleppo,,Naeel Yahya Abd Alrahim,Desconocido
+5,Hombre,2016-10-18,Hasakeh,,Mohameed Zaal Alale,Desconocido
+6,Hombre,2016-10-13,Damasco Rural,Kanalsheh,Ahmed Heyder Ali,Desconocido
+7,Hombre,2016-10-23,Idlib,Taftanaz,Mahmoud Zayden,Desconocido
+8,Hombre,2016-10-25,Deir Ezzor,Shahel,Kalid Alajda Alfarhan,Desconocido
+9,Hombre,2016-10-24,Damasco Rural,Kanalsheh,Ahmed Mohameed Ali,Desconocido
+10,Hombre,2016-07-08,Aleppo,,Abd AlMardoud,Desconocido
+11,Hombre,2016-07-08,Aleppo,,Ahmed Alsaeed,Desconocido
+12,Hombre,2016-07-12,Desconocido,,Ahmad Sabri Shabaan,Desconocido
+13,Hombre,2016-07-08,Aleppo,,Amer Abed Al-Jaleel,Desconocido
+14,Hombre,2016-11-06,Daraa,,Basel Ahmed Alfarrouh,Desconocido
+15,Hombre,2015-05-21,Aleppo,Afrin,Ahmed Gamal Eddin Seydou,Desconocido
+16,Hombre,2015-05-21,Aleppo,Afrin,Jamal al-Din Seydou,Desconocido
+17,Hombre,2015-05-22,Damasco Rural,,Abbas Darsana,Desconocido
+18,Hombre,2015-05-23,Desconocido,,Motasem Bellah Muhaimad,Desconocido
+19,Hombre,2015-05-23,Desconocido,,Muhammad Mahmoud Al-Masri,Desconocido
+20,Hombre,2016-01-26,Desconocido,,Rafat Jarjus Razzouk,Desconocido
+21,Hombre,2016-01-26,Hama,,Ali Ebrahem Alshayh Osman,Desconocido
+22,Hombre,2015-07-31,Daraa,Bosra al-Sham,Khaled Al-Dous,Desconocido
+23,Hombre,2016-01-26,Homs,,Madean Mohameed Haydar,Desconocido
+24,Mujer,2015-04-07,Damasco Rural,Nabk,Asmaa Mohammad Reza Ghazali,Desconocido
+25,Hombre,2015-07-31,Daraa,Lajat: Boraq village,Omar Al-Qedis,Desconocido
+26,Hombre,2015-04-08,Daraa,Busra,Abd Aelah Yahya Adel AlHarere,Desconocido
+27,Hombre,2015-04-08,Damasco Rural,tel,Emad Guesh,Desconocido
+28,Hombre,2015-04-08,Deir Ezzor,,Amgad Kanber,Desconocido
+29,Hombre,2015-04-08,Idlib,,Mohammed Ata Alla,Desconocido
+30,Hombre,2015-04-08,Idlib,idlib: Al-Zawia Mount,Abdulrahman Hameed Asali,Desconocido
+31,Hombre,2015-04-08,Daraa,Tafas,Fares Sleman Abo Nukta,Desconocido
+32,Hombre,2015-04-08,Idlib,,Samer Makoune,Desconocido
+33,Hombre,2015-04-08,Daraa,Sheikh Miskeen,Fahed Rashed Al haswane,Desconocido
+34,Hombre,2015-04-08,Damasco Rural,Haran Al-Awameed,Abd Al Rahman Kesanea,Desconocido
+35,Hombre,2015-01-01,Daraa,Enkhel,Fayez Zamel,Desconocido
+36,Hombre,2015-01-01,Desconocido,,Sahl Adnan Al-Nakdale,Desconocido
+37,Hombre,2015-02-15,Damasco Rural,Damasco Suburb: Mouadamiyeh,Muhammad Zaher Abdulazeem Sawan,Desconocido
+38,Hombre,2015-02-16,Damasco Rural,Taebaa,Belal Hashem Hendeea,Desconocido
+39,Hombre,2015-01-14,Damasco Rural,Hazrama,Yaser Rshad Hashish,Desconocido
+40,Hombre,2015-01-14,Damasco Rural,Harasta,Hesham Muhammad Shlleh,Desconocido
+41,Hombre,2015-01-01,Desconocido,,Ahmad Muhammad Jaes,Desconocido
+42,Hombre,2015-01-01,Lattakia,,Shadi Mahmoud Ali,Desconocido
+43,Hombre,2015-01-01,Desconocido,,Ahmad Muhhammad Jesri,Desconocido
+44,Hombre,2015-01-01,Homs,,Loay Saeb Barazi,Desconocido
+45,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Maher Anbiri,Desconocido
+46,Hombre,2014-11-28,Aleppo,Anadan,Yaser Abd Alhalik,Desconocido
+47,Hombre,2015-01-01,Damasco Rural,Douma,Muhammad Abdulrazzaq,Desconocido
+48,Hombre,2014-11-17,Daraa,Camp,Bilal Nabil Faouri,Desconocido
+49,Hombre,2014-11-17,Daraa,,Qasem Muhammad al-Slamat,Desconocido
+50,Hombre,2014-11-17,Damasco Rural,Harasta,Jamal Muhammad Khir Jumaa,Desconocido
+51,Hombre,2014-11-17,Daraa,,Alaa Muhammad Slim Brmo,Desconocido
+52,Hombre,2014-11-13,Damasco,doumar,Alı Alateea,Desconocido
+53,Hombre,2014-11-17,Daraa,,Muhammad Qsim al-Brdan,Desconocido
+54,Hombre,2014-11-17,Damasco Rural,Harasta,Bder Muhammad Yasin al-Hamwi,Desconocido
+55,Hombre,2015-01-01,Desconocido,,Maamoun Muhammad Al-Qrm,Desconocido
+56,Hombre,2015-01-01,Desconocido,,Muhammad Haddad,Desconocido
+57,Hombre,2015-01-01,Tartous,Banias: Basateen village,Ahmad Shihadeh Askeef,Desconocido
+58,Hombre,2014-11-17,Daraa,,Khaled Ajaj Khamis,Desconocido
+59,Hombre,2014-11-17,Damasco Rural,Harasta,Bhaa Husin al-Haswe,Desconocido
+60,Hombre,2015-01-01,Desconocido,,Hamoud Aresh Hamdo,Desconocido
+61,Hombre,2015-01-01,Desconocido,,Hatem Muhammad Hasan Al-Nakdale,Desconocido
+62,Hombre,2015-01-01,Idlib,,Ahmad Khaled Darwesh,Desconocido
+63,Mujer,2014-11-28,Daraa,Gabageb,Zahra Kalil Alali,Desconocido
+64,Hombre,2014-11-17,Damasco Rural,Harasta,Ayman Younes Tabannaj,Desconocido
+65,Hombre,2014-11-28,Damasco Rural,,Zyad Haydar Alhajje,Desconocido
+66,Hombre,2015-01-01,Hama,Qusour,Muhammad Hashesh,Desconocido
+67,Hombre,2014-11-28,Homs,,Mohammed Ahmed Aloubaed,Desconocido
+68,Hombre,2014-11-28,Daraa,Enkhel,Ezelden Alnaser,Desconocido
+69,Hombre,2015-01-01,Desconocido,,Muhammad Adnan Giany,Desconocido
+70,Hombre,2014-11-28,Hama,Salamea,Adnan Ali Harmoush,Desconocido
+71,Hombre,2014-11-28,Desconocido,,Medal Ebraheem Al Shmalle,Desconocido
+72,Hombre,2014-12-01,Damasco Rural,Douma,Abu Subhi al-Hakim,Desconocido
+73,Hombre,2014-11-28,Daraa,,Mohammed Mousavi Alhammer,Desconocido
+74,Hombre,2015-12-13,Homs,Hamrat,Samer Mohammed AlNafra,Desconocido
+75,Hombre,2014-12-01,Hama,Halfaya,Ayman Abu Qasra,Desconocido
+76,Mujer,2014-12-02,Daraa,Msaifreh,Suad Abdo Alhelal,Desconocido
+77,Hombre,2015-09-01,Desconocido,,Unis Mohamad Ali,Desconocido
+78,Hombre,2015-09-01,Desconocido,,Mohamad Kamal Mohamad,Desconocido
+79,Hombre,2015-09-02,Raqqa,tel abyad,Ismael Fedawi Zolfi,Desconocido
+80,Hombre,2015-09-10,Damasco Rural,bassema,Bassam Nasr Alla,Desconocido
+81,Hombre,2014-12-01,Aleppo,Afrin,Jeven Ahmad,Desconocido
+82,Hombre,2015-09-01,Desconocido,,Mohamad Fakhry Hasan,Desconocido
+83,Mujer,2014-12-01,Desconocido,,Ragda Awad,Desconocido
+84,Hombre,2015-09-16,Damasco Rural,,Jamal Soud,Desconocido
+85,Mujer,2015-09-16,Damasco Rural,Yabroud,Unidentified,Desconocido
+86,Hombre,2014-12-03,Damasco Rural,Damasco Suburb : Daraya,Ektimal Fatteh,Desconocido
+87,Hombre,2015-09-21,Raqqa,tel abyad,Ahmed Ali Jaradi,Desconocido
+88,Hombre,2015-09-15,Damasco Rural,,Khaled Jamal Soud,Desconocido
+89,Hombre,2015-09-21,Raqqa,tel abyad,Abo Kamal,Desconocido
+90,Mujer,2015-09-16,Damasco Rural,Zabadany,Unidentified,Desconocido
+91,Mujer,2015-09-16,Damasco Rural,Zabadany,Unidentified,Desconocido
+92,Mujer,2015-09-16,Damasco Rural,Yabroud,Unidentified,Desconocido
+93,Hombre,2015-09-01,Desconocido,,Yazan Hamdoush,Desconocido
+94,Hombre,2015-09-21,Raqqa,tel abyad,Hassan Hussein Fallah,Desconocido
+95,Hombre,2015-09-22,Damasco Rural,Khan al-Sheih Camp,Ahmad Gazi,Desconocido
+96,Hombre,2015-09-22,Daraa,,Belal Gehad Al ammar,Desconocido
+97,Hombre,2015-09-21,Raqqa,tel abyad,Issa Mulla Hussein Al Hilal,Desconocido
+98,Hombre,2015-09-27,Raqqa,tel abyad,Tariq Mahmood Hamad,Desconocido
+99,Hombre,2015-09-14,Raqqa,Tel Abyad,Mohamad Shikh Asaad Dous,Desconocido
+100,Hombre,2015-09-24,Idlib,Kafarnbul,Mohameed Alkateb,Desconocido
+101,Hombre,2015-09-29,Quneitra,,Sulaeman zaetoun,Desconocido
+102,Hombre,2015-09-23,Daraa,,Osama Kaled AlShahat,Desconocido
+103,Hombre,2015-10-02,Hasakeh,Malkia,Wadih Lahdo,Desconocido
+104,Hombre,2015-10-02,Hasakeh,Malkia,Hasan Shanaa Mostafa,Desconocido
+105,Hombre,2015-10-02,Hasakeh,Malkia,Ahmad Behzad,Desconocido
+106,Hombre,2015-10-02,Hasakeh,Malkia,Morhaf Matory,Desconocido
+107,Hombre,2015-10-03,Raqqa,Tel Abyad,Mohamad Jasem Shekh Asad,Desconocido
+108,Hombre,2015-10-01,Daraa,,Ahmed Mahmood Kataf,Desconocido
+109,Hombre,2015-10-03,Raqqa,Ain Issa,Mostafa Maeof,Desconocido
+110,Hombre,2015-10-03,Raqqa,Ain Issa,Ezzat Hoshan,Desconocido
+111,Hombre,2015-10-05,Hasakeh,Tel Nemr,Hamady Abd Mohamad,Desconocido
+112,Hombre,2015-09-21,Raqqa,tel abyad,Khalil Al-Ayoub,Desconocido
+113,Hombre,2015-10-05,Hasakeh,Tel Nemr,Karmo Romy,Desconocido
+114,Hombre,2015-10-03,Raqqa,Ain Issa,Iibrahem Hoshan,Desconocido
+115,Hombre,2015-10-05,Hasakeh,Tel Nemr,Sakher Aawad Roumi,Desconocido
+116,Hombre,2015-10-01,Damasco Rural,douma,Zead Buedane,Desconocido
+117,Hombre,2015-10-14,Damasco Rural,Khan al-Sheih Camp,Saleh Mansour Saleeh,Desconocido
+118,Hombre,2015-09-22,Daraa,lagat,Habes Falah Aldouhe,Desconocido
+119,Hombre,2015-10-05,Damasco,Tel Nemr,Solaiman Ali Wawi,Desconocido
+120,Hombre,2015-10-15,Desconocido,,Mohannad Saed Bakkar,Desconocido
+121,Hombre,2015-10-15,Raqqa,Tel Abyad,Adel Tahary,Desconocido
+122,Hombre,2015-10-15,Daraa,Ezraa,Mamoun Mohammed Al Harroub,Desconocido
+123,Hombre,2015-10-15,Raqqa,Tel Abyad,Ayman Tahary,Desconocido
+124,Hombre,2015-10-03,Raqqa,Ain Issa,Anwar Hoshan,Desconocido
+125,Hombre,2015-10-27,Daraa,Harra,Maged Galeb Al maual,Desconocido
+126,Hombre,2015-11-11,Lattakia,Jabla,Mustafa Jameel Hamoud,Desconocido
+127,Hombre,2015-11-12,Daraa,Mahja,Mohammed Ali Ahmed Alhoushan,Desconocido
+128,Hombre,2015-11-18,Daraa,Sanamen,Belal Gaze Dyab,Desconocido
+129,Hombre,2015-11-18,Tartous,,Ali kaled Ebesh,Desconocido
+130,Hombre,2015-11-12,Daraa,Sanamen,Mohammed Faez Alzoobe,Desconocido
+131,Hombre,2015-10-22,Daraa,Tafas,Mahmoud Al Zubee,Desconocido
+132,Hombre,2015-11-18,Desconocido,,Moneef Molhem,Desconocido
+133,Hombre,2015-10-05,Hasakeh,Tel Nemr,Saleh Solaiman Wawi,Desconocido
+134,Hombre,2015-11-20,Hasakeh,,Gendar Barakat,Desconocido
+135,Mujer,2015-11-20,Hasakeh,,Fasla Ussef,Desconocido
+136,Hombre,2015-11-22,Hasakeh,Qamishli,Sewar Mahmod Khalaf,Desconocido
+137,Hombre,2015-11-22,Hasakeh,Qamishli,Taha Shamam,Desconocido
+138,Hombre,2015-11-22,Hasakeh,Qamishli,Abdalla Shamam,Desconocido
+139,Hombre,2015-11-23,Damasco,,Mohammed Ali Alzube,Desconocido
+140,Hombre,2015-11-23,Hasakeh,,Mohamad Khajo,Desconocido
+141,Hombre,2015-11-25,Damasco,,Husam Mohammed Kamal Hauare,Desconocido
+142,Hombre,2015-11-25,Daraa,,Jamal Mousa Al Karke,Desconocido
+143,Hombre,2015-11-23,Damasco,,Mahmood mohammed Alzoube,Desconocido
+144,Hombre,2015-11-25,Aleppo,,Joseph Megarbane,Desconocido
+145,Hombre,2015-11-25,Hasakeh,,Ezzat Eid Khalaf,Desconocido
+146,Hombre,2015-11-25,Hasakeh,,Mohamad Eid Khalaf,Desconocido
+147,Hombre,2015-12-13,Homs,Hamrat,Malek Rashed Alnafra,Desconocido
+148,Hombre,2015-12-02,Daraa,Sanamen,Basel ABD Alfattah Allbad,Desconocido
+149,Hombre,2015-12-13,Aleppo,,Hamada Al Gadou,Desconocido
+150,Hombre,2015-12-25,Damasco,,Tarek abu alhasan,Desconocido
+151,Hombre,2016-01-02,Damasco,Yarmuk,Ahmed mahmmud aljazary,Desconocido
+152,Hombre,2016-01-01,Idlib,Armnaz,Ahmad Nasan,Desconocido
+153,Hombre,2015-10-13,Tartous,,Mohamad Abdulhalem Abdulal,Desconocido
+154,Hombre,2015-12-15,Damasco Rural,Jeroud,Walid Ahmad al-Abdullah,Desconocido
+155,Hombre,2016-01-12,Otras Nacionalidades,Kanalsheh,Mohameed Moustafa Hammad,Desconocido
+156,Hombre,2015-11-27,Damasco Rural,Ras ALIN,Ebrahim Ahmed Albalhan,Desconocido
+157,Hombre,2015-11-26,Homs,Hula,Belal Mohameed Basher Orabi,Desconocido
+158,Hombre,2016-01-04,Desconocido,,Wael Saed Alden,Desconocido
+159,Hombre,2016-01-13,Raqqa,,Ahmed Hasan Al Hasan,Desconocido
+160,Hombre,2016-01-13,Damasco Rural,Mouadameah,Samer Sakrouja,Desconocido
+161,Hombre,2016-01-14,Homs,,Abd Alazez Hamdan,Desconocido
+162,Hombre,2016-01-14,Daraa,,Ayman mohammed rashed Alzoubey,Desconocido
+163,Hombre,2016-01-15,Aleppo,,Sadek ebrahem,Desconocido
+164,Hombre,2016-01-18,Daraa,,Hassan Hafez Alhawameda,Desconocido
+165,Hombre,2016-01-18,Damasco Rural,Tal,Mohammed Motasm Sabra,Desconocido
+166,Hombre,2016-01-15,Aleppo,,Kalil omar,Desconocido
+167,Hombre,2016-01-12,Daraa,Busra,Ali Shukri Mekdad,Desconocido
+168,Hombre,2015-10-03,Raqqa,Ain Issa,Abod Maeuf,Desconocido
+169,Hombre,2016-01-20,Aleppo,,Ahmed Totah,Desconocido
+170,Hombre,2016-01-26,Daraa,,Mohammed Saleh Mohammed Alharir,Desconocido
+171,Hombre,2014-12-03,Damasco Rural,Douma,Abu Khaldoun Seriwl,Desconocido
+172,Hombre,2014-12-03,Aleppo,Meneg,Mohammad Qasim Hamidou,Desconocido
+173,Hombre,2014-12-05,Daraa,Sanamen,Ahmed Mohammed Abou Haweya,Desconocido
+174,Hombre,2016-01-14,Desconocido,,Mohammed mahmoud alhelua,Desconocido
+175,Hombre,2014-12-05,Damasco Rural,Damasco Suburb: Zabadany,Yahia Burhan,Desconocido
+176,Hombre,2014-12-06,Damasco Rural,Damasco Suburb: Zabadany,Foaad Al-Daba,Desconocido
+177,Hombre,2014-12-08,Damasco Rural,Damasco Suburb: Zabadany,Hasan Kanaan,Desconocido
+178,Hombre,2014-12-10,Damasco Rural,,Fayez Ahmad Al-Masri,Desconocido
+179,Hombre,2014-12-11,Daraa,Gabagib,Samer omar Alhabbous,Desconocido
+180,Hombre,2016-01-04,Hasakeh,,Adnan Allagi Alanzi,Desconocido
+181,Hombre,2014-12-11,Daraa,Karfa,Manouh Hasan Eed Algazali,Desconocido
+182,Hombre,2014-12-11,Daraa,,Mohy Aldin Alnahas,Desconocido
+183,Hombre,2014-12-11,Daraa,Enkhel,Kaled Adnan Rashed Alnaser,Desconocido
+184,Hombre,2014-12-11,Daraa,Alsoura,Yakoub Yousuf Alharere,Desconocido
+185,Hombre,2014-12-11,Damasco Rural,Damasco Suburb: Zabadany,Abdulnaser Kanaan,Desconocido
+186,Hombre,2014-12-11,Daraa,,Feraset Mahmmod Şube Nabulse,Desconocido
+187,Hombre,2014-12-12,Daraa,Jasem,Abd Alrahem Mohammed Salama,Desconocido
+188,Hombre,2014-12-12,Daraa,Tsel,Yaser Mohammed Alkalaf,Desconocido
+189,Hombre,2014-12-11,Daraa,Enkhel,Kalid Adnan Alnaser,Desconocido
+190,Hombre,2014-12-07,Hama,Salameaa,Tamam Sultan Gabur,Desconocido
+191,Hombre,2014-12-15,Idlib,Jisr Shagour,Muhammad Monzer Al-Hasnawie,Desconocido
+192,Hombre,2014-12-15,Damasco Rural,Al-Tal,Bashar Bermo,Desconocido
+193,Hombre,2014-12-17,Homs,,Anas Fawaz Al-Mansour,Desconocido
+194,Hombre,2014-12-16,Damasco Rural,Damasco Suburb: Zabadany,Amjad Al-Zaza,Desconocido
+195,Hombre,2015-12-09,Damasco Rural,Jeroud,Odai Fuad Bnian,Desconocido
+196,Hombre,2014-12-18,Daraa,Enkhel,Abd Alhalem Atya Alnasef,Desconocido
+197,Hombre,2014-12-18,Hama,,Mohanna Ahmed Aljamous,Desconocido
+198,Hombre,2014-12-18,Damasco Rural,Jeroud,Ahmad Abdulkarim Helal,Desconocido
+199,Hombre,2014-12-18,Hama,Aqarib al-Safia,Mohammed Maamar,Desconocido
+200,Hombre,2014-12-18,Hama,Aqarib al-Safia,Namr Al Mashroukeh Abu Nawar,Desconocido
+201,Hombre,2014-12-18,Hama,,Abdul Aziz Zurayk,Desconocido
+202,Hombre,2014-12-19,Hama,Halfaya,Rajab karem,Desconocido
+203,Hombre,2014-12-19,Damasco Rural,Damasco Suburb: Zabadany,Bassam Samaha,Desconocido
+204,Hombre,2014-12-18,Otras Nacionalidades,,Moustafa Bakkar,Desconocido
+205,Hombre,2014-12-19,Damasco Rural,Damasco Suburb: Zabadany,Khaled Kharita,Desconocido
+206,Hombre,2014-12-19,Damasco Rural,Damasco Suburb: Zabadany,Muhammad Al-Moghrabi,Desconocido
+207,Hombre,2014-12-20,Damasco Rural,Damasco Suburb: Zabadany,Husain Awad,Desconocido
+208,Hombre,2014-12-25,Aleppo,,Omar Kalel,Desconocido
+209,Hombre,2014-12-25,Otras Nacionalidades,Han alshayh,Amin husain hamad,Desconocido
+210,Hombre,2014-12-25,Daraa,Daeel,Zaher Essa Alshdat,Desconocido
+211,Hombre,2014-12-25,Damasco Rural,Rankous,Rabee Auda,Desconocido
+212,Hombre,2014-12-25,Homs,Talbesa,Mamdouh Zayd Alnasef,Desconocido
+213,Hombre,2014-12-25,Damasco Rural,Damasco Suburb: Zabadany,Rkan Rateb Omar,Desconocido
+214,Hombre,2014-12-26,Homs,Alqusaer,Adnan Mohammed Edres,Desconocido
+215,Hombre,2014-12-18,Hama,,Mohammed Almamar,Desconocido
+216,Hombre,2014-12-23,Damasco,Damasco: Mahajreen,Muhammad Noor Shihadah,Desconocido
+217,Hombre,2014-12-26,Damasco Rural,,Mahmood Abd Alfattah,Desconocido
+218,Hombre,2014-12-21,Aleppo,,basel Muhammad Azeez Nasan,Desconocido
+219,Hombre,2014-12-26,Daraa,Mahja,Ayham sharef Albargash,Desconocido
+220,Hombre,2014-12-26,Deir Ezzor,,Ahmeed Kamal Alali,Desconocido
+221,Hombre,2014-12-26,Daraa,Sanamen,Taher Abo Haweya,Desconocido
+222,Hombre,2014-12-26,Damasco Rural,Damasco Suburb: Zabadany,Muhammad Ali Tatri,Desconocido
+223,Hombre,2014-12-25,Hama,,Abd Alrahman Almoustafa,Desconocido
+224,Hombre,2014-12-15,Damasco Rural,Jeroud,Abdulkafi Husin al-Dakkak,Desconocido
+225,Hombre,2014-12-31,Daraa,,Ayham Sharef AlAhmadh,Desconocido
+226,Hombre,2015-01-01,Daraa,Kafrshams,Mahmoud Abou Horan,Desconocido
+227,Hombre,2014-12-31,Damasco Rural,Housh Arab,Omar Ali Alsayid,Desconocido
+228,Hombre,2015-01-01,Desconocido,,Omar Ahmad Solayman Hmada,Desconocido
+229,Hombre,2015-01-01,Desconocido,,Muhammad Basel Anwar Al-Maaaz,Desconocido
+230,Hombre,2014-12-30,Homs,,Emad AlDrube,Desconocido
+231,Hombre,2015-01-01,Daraa,Kafrshams,Khaled Shuair,Desconocido
+232,Hombre,2014-12-31,Daraa,Geza,Moustafa salman Alzoube,Desconocido
+233,Hombre,2015-01-01,Desconocido,,Ahmad Amer Rbat Al-Shami,Desconocido
+234,Hombre,2015-01-01,Desconocido,,Muhammad Hatem Etmaz Al-Sebaae,Desconocido
+235,Hombre,2015-01-01,Daraa,,Gassah Masalmeh,Desconocido
+236,Hombre,2014-12-31,Otras Nacionalidades,,Yousf hassan mousleh,Desconocido
+237,Hombre,2015-01-01,Desconocido,,Abdulmaten Abdulrahman Al-Jsri,Desconocido
+238,Hombre,2015-01-01,Desconocido,,Feras Smeh Abbara,Desconocido
+239,Hombre,2015-01-01,Desconocido,,Husam Smeh Abbara,Desconocido
+240,Hombre,2015-01-01,Daraa,Enkhel,Oday Tareq Ganoum,Desconocido
+241,Hombre,2015-01-01,Desconocido,,Abdulhakim Zohre Al-Rstnawi,Desconocido
+242,Hombre,2015-01-01,Daraa,Jassim,Feras Kanaan,Desconocido
+243,Hombre,2015-01-01,Desconocido,,Muhammad Ghassan Harb,Desconocido
+244,Hombre,2015-01-01,Daraa,Enkhel,Mustafa Tahan,Desconocido
+245,Hombre,2015-01-01,Desconocido,,Anas Mukhtar Al-Hamwi,Desconocido
+246,Hombre,2015-01-01,Desconocido,,Abdulmannan Hore Al-Jeneyyat,Desconocido
+247,Hombre,2015-01-01,Desconocido,,Ahmad Sameer Quaidi,Desconocido
+248,Hombre,2015-01-01,Desconocido,,Huzayfa Safa Hmade,Desconocido
+249,Hombre,2015-01-01,Daraa,Enkhel,Diaa Saief Den Dager,Desconocido
+250,Hombre,2015-01-01,Desconocido,,Najdat Hekmat Al-Ahmad,Desconocido
+251,Hombre,2015-01-01,Damasco Rural,Douma,Ali Yousif Bouqaie Shaqra,Desconocido
+252,Hombre,2015-01-01,Desconocido,,Ahmad Makhlf Al-Turki,Desconocido
+253,Hombre,2015-01-01,Daraa,Enkhel,Rami Ali Khaleef,Desconocido
+254,Hombre,2015-01-01,Desconocido,,Ahmad Sufian Warda,Desconocido
+255,Hombre,2015-01-01,Desconocido,,Naser Darwesh Wahoud,Desconocido
+256,Hombre,2015-01-01,Idlib,Hafserjeh,Ahmad Abaas Asaad,Desconocido
+257,Hombre,2015-01-01,Desconocido,,Husam Ibrahim Hasan Ajaouj,Desconocido
+258,Hombre,2015-01-01,Desconocido,,Ahmad Sameed Zarour,Desconocido
+259,Hombre,2015-01-01,Daraa,Tafas,Nedal Fallah Rabdawi,Desconocido
+260,Hombre,2015-01-01,Desconocido,,Emad Adnan Al-Shamaa,Desconocido
+261,Hombre,2015-01-01,Homs,,Adnan Ferzat,Desconocido
+262,Hombre,2015-01-01,Desconocido,,Hussien Ferzat,Desconocido
+263,Hombre,2015-01-01,Damasco Rural,Jobar,Ahmad Eid Anwr Al-Tlle,Desconocido
+264,Hombre,2015-01-01,Desconocido,,Khaled Ferzat Sadem,Desconocido
+265,Hombre,2015-01-01,Lattakia,Jabla,Ahmad Daneen,Desconocido
+266,Hombre,2015-01-01,Desconocido,,Ahmad Zuhair Mezweq,Desconocido
+267,Hombre,2015-01-01,Desconocido,,Abdulmouaen Ghazwan Fahed,Desconocido
+268,Hombre,2015-01-01,Deir Ezzor,,Ahmad Khalaf Abed,Desconocido
+269,Hombre,2015-01-01,Otras Nacionalidades,,Adel Muhsen,Desconocido
+270,Mujer,2015-01-01,Desconocido,,Mis Muhammad Ayman Saleh Mourad,Desconocido
+271,Hombre,2015-01-01,Otras Nacionalidades,,Muhammad Turki Rami,Desconocido
+272,Hombre,2015-01-01,Lattakia,Jabla,Ahmad Deep,Desconocido
+273,Hombre,2015-01-01,Desconocido,,Ahmad Khaled Khalil,Desconocido
+274,Hombre,2015-01-01,Otras Nacionalidades,,Samer Yousif,Desconocido
+275,Hombre,2015-01-01,Desconocido,,Ahmad Khaled Khashouf,Desconocido
+276,Mujer,2015-01-01,Desconocido,,Nuzhat Husam Eid,Desconocido
+277,Hombre,2015-01-01,Otras Nacionalidades,,Muhammad Abdulsalam Kouja,Desconocido
+278,Mujer,2015-01-01,Damasco Rural,Daraya,Najwa Muhammad Abu Hemli,Desconocido
+279,Hombre,2015-01-01,Desconocido,,Samir Muhammad Al-Adib,Desconocido
+280,Hombre,2015-01-01,Desconocido,,Monef Frzat Al-As,Desconocido
+281,Hombre,2015-01-01,Desconocido,,Khaled Ibrahim Oyoun,Desconocido
+282,Hombre,2015-01-01,Desconocido,,Rami Sweed,Desconocido
+283,Hombre,2015-01-01,Desconocido,,Mahmoud Ahmad Ashour,Desconocido
+284,Hombre,2015-01-01,Damasco Rural,Zabadany,Abdulmenem Shemali,Desconocido
+285,Mujer,2015-01-01,Damasco Rural,East Ghota,Fatma Ibrahim,Desconocido
+286,Hombre,2015-01-01,Damasco Rural,Zabadany,Muhammad Hasan Kwifani,Desconocido
+287,Hombre,2015-01-01,Desconocido,,Hasan Muhammad Al-Refaae,Desconocido
+288,Mujer,2015-01-01,Desconocido,,Nadya Abd Al-Fares,Desconocido
+289,Hombre,2015-01-01,Desconocido,,Feras Nour Al-Din Al-Tabbal,Desconocido
+290,Hombre,2015-01-01,Desconocido,,Ayman Mazen Al-Loz,Desconocido
+291,Hombre,2015-01-01,Desconocido,,Muhammad Hesham Qweder,Desconocido
+292,Hombre,2015-01-01,Damasco Rural,Zabadany,Amer Hasan Ganem Al-Dabour,Desconocido
+293,Hombre,2015-01-01,Hasakeh,,Salman Hail Wakka,Desconocido
+294,Hombre,2014-11-17,Daraa,,Ous Fares al-Natour,Desconocido
+295,Hombre,2015-01-01,Desconocido,,Abdulhafez Ahmad Al-Sakka,Desconocido
+296,Hombre,2014-11-17,Damasco Rural,Harasta,Ayman Omar Feraoun,Desconocido
+297,Hombre,2015-01-01,Desconocido,,Ayham Muhammad Al-Dib,Desconocido
+298,Hombre,2014-11-17,Damasco Rural,Harasta,Anas Muhammad Shlle,Desconocido
+299,Hombre,2014-11-17,Damasco Rural,Harasta,Anas Muhammad Najib,Desconocido
+300,Hombre,2014-11-17,Damasco Rural,Harasta,Ismail Muhammad Hmad,Desconocido
+301,Hombre,2014-11-17,Damasco Rural,Harasta,Ismail Ali al-Malouli,Desconocido
+302,Hombre,2014-11-17,Damasco Rural,Harasta,Osama Husin al-Hakim,Desconocido
+303,Hombre,2014-11-17,Daraa,,Bder Ahmad al-Qodsi,Desconocido
+304,Hombre,2014-11-17,Daraa,,Yousof Muhammad al-Zobani,Desconocido
+305,Hombre,2014-11-17,Daraa,,Ibrahim Abdullah al-Zobani,Desconocido
+306,Hombre,2014-11-17,Damasco Rural,Harasta,Ahmad Muhammad Musleh,Desconocido
+307,Hombre,2014-11-17,Damasco Rural,Haran Al-Awameed,Yousof Nadim Arabi,Desconocido
+308,Hombre,2014-11-17,Daraa,,Munzer Muhammad Khnifes,Desconocido
+309,Hombre,2014-11-17,Damasco Rural,Haran Al-Awameed,Yoousof al-Louah,Desconocido
+310,Hombre,2014-11-17,Damasco Rural,Haran Al-Awameed,Walid Abdulaziz Khalaf,Desconocido
+311,Hombre,2014-11-17,Daraa,,Abdulsalam Muhammad Dandash,Desconocido
+312,Hombre,2014-11-17,Daraa,,Mhmud Frid al-Jber al-Dbaqi,Desconocido
+313,Hombre,2014-11-17,Damasco Rural,Haran Al-Awameed,Walid Khaled Mhnna,Desconocido
+314,Hombre,2014-11-17,Damasco Rural,Haran Al-Awameed,Walid Arabi,Desconocido
+315,Hombre,2014-11-17,Daraa,,Muhammad Aqel al-Diri,Desconocido
+316,Hombre,2014-11-17,Daraa,,Muhammadd Abdulghani Zrazera,Desconocido
+317,Hombre,2014-11-17,Daraa,,Muhammad Adel Kamal al-Diri,Desconocido
+318,Hombre,2014-11-17,Damasco,Masaken Barzeh,Basel Adel Khaskih,Desconocido
+319,Hombre,2014-11-17,Damasco Rural,Haran Al-Awameed,Wroud Mhmud al-Khatib,Desconocido
+320,Hombre,2014-11-17,Daraa,,Wael Ahmad Abu Sloue,Desconocido
+321,Hombre,2014-11-17,Daraa,,Muhammad Husni al-Aqaila,Desconocido
+322,Hombre,2014-11-17,Damasco,Saruja,Muhammad Dib Muhammad Ali al-Shaghouri,Desconocido
+323,Hombre,2014-11-17,Damasco,Saruja,Muhammad Omar Dib Shaghouri,Desconocido
+324,Hombre,2014-11-17,Daraa,,Muhammad Jber al-Husin,Desconocido
+325,Hombre,2014-11-17,Daraa,,Murshed Abdulghani al-Zrazera,Desconocido
+326,Hombre,2014-11-17,Daraa,,Fadi Awad al-Hsan,Desconocido
+327,Hombre,2014-11-17,Daraa,,Qasem Muhammad al-Ghezzawi,Desconocido
+328,Hombre,2014-11-17,Daraa,,Mhmud Hamdi al-Skran,Desconocido
+329,Hombre,2014-11-17,Daraa,,Ghassan Hsan al-Faouri,Desconocido
+330,Hombre,2014-11-17,Daraa,,Muhammad Belal Hamed al-Husin,Desconocido
+331,Hombre,2014-11-17,Daraa,,Maher Turki al-Moustafa,Desconocido
+332,Hombre,2014-11-17,Daraa,,Omar Khalil al-Ali,Desconocido
+333,Hombre,2014-11-18,Otras Nacionalidades,,Salah alahmed,Desconocido
+334,Hombre,2014-11-19,Hama,Teldereh,Mohammed Ahmed Amin,Desconocido
+335,Hombre,2014-11-19,Damasco Rural,Yarmuk Camp,Souhaeb Mahmoud Al Abd Alla,Desconocido
+336,Hombre,2014-11-19,Lattakia,Jabla,Suhaib Mawaheb Al-Agha,Desconocido
+337,Hombre,2014-11-17,Daraa,,Eisa Khalil al-Julm,Desconocido
+338,Hombre,2014-11-20,Lattakia,Jabla,Foaad Al-Nabulsi,Desconocido
+339,Hombre,2014-11-20,Desconocido,,Maher Ahmad Shanan,Desconocido
+340,Hombre,2014-11-20,Lattakia,Jabla,Ammar Ebrahim Bulbul,Desconocido
+341,Hombre,2014-11-23,Homs,Homs: Tairmaaleh,Muhammad Saied Al-Asaad,Desconocido
+342,Hombre,2014-11-21,Lattakia,Jabla,Alaa Khaled Taifour,Desconocido
+343,Hombre,2014-11-24,Damasco Rural,Taybeh,Walid Hassan al-Dakhil,Desconocido
+344,Hombre,2014-11-26,Otras Nacionalidades,,Abdul Rahman Al Khadra,Desconocido
+345,Hombre,2014-11-27,Daraa,Sanamen,Feras galeeb Algabbawe,Desconocido
+346,Hombre,2014-11-27,Otras Nacionalidades,,Ramadan Ahmed Shuaeke,Desconocido
+347,Hombre,2014-11-27,Deir Ezzor,,Ahmed Red AlSaleh,Desconocido
+348,Hombre,2014-11-17,Daraa,,Fuad Abdulltif alBdiwi,Desconocido
+349,Hombre,2014-11-27,Damasco Rural,,Amme Basher Habib,Desconocido
+350,Hombre,2014-11-27,Desconocido,,Emad Alhaj Ali,Desconocido
+351,Hombre,2014-11-27,Desconocido,,Mohammed Basher Koushfa,Desconocido
+352,Hombre,2014-11-17,Damasco Rural,Harasta,Mhmuf Rodwan al-Dabbas,Desconocido
+353,Hombre,2014-11-22,Daraa,,Omar Mttlag,Desconocido
+354,Hombre,2014-11-17,Damasco Rural,Harasta,Mhmud Hamdi Shle,Desconocido
+355,Hombre,2014-11-28,Daraa,,Abdullah Nader Abu Zard,Desconocido
+356,Hombre,2014-11-17,Damasco Rural,Harasta,Mhmud Ahmad Froun,Desconocido
+357,Hombre,2014-11-17,Damasco Rural,Harasta,Mhmud Bassam al-Shikh Darwish,Desconocido
+358,Hombre,2014-11-17,Damasco Rural,Harasta,Mhmud Husin Qdado,Desconocido
+359,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Ahmad al-Laboun,Desconocido
+360,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Yaser Kusa,Desconocido
+361,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Majed al-Rujole,Desconocido
+362,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Nabil Afouf,Desconocido
+363,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Feras Ziad al-Halbuni,Desconocido
+364,Hombre,2014-11-17,Damasco Rural,Harasta,Mhmud Khalil al-Es,Desconocido
+365,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Ali al-Es,Desconocido
+366,Hombre,2014-11-28,Raqqa,,Hasan Mousa Alabbas,Desconocido
+367,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Abdulghani al-Jallad,Desconocido
+368,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Saleh Qasem,Desconocido
+369,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Abdo Klawi,Desconocido
+370,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Khir al-Mdani,Desconocido
+371,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Khalil Hamze,Desconocido
+372,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Khir Slilo,Desconocido
+373,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Khir Eid al-Horani,Desconocido
+374,Mujer,2014-11-17,Daraa,,Njmeh Shafiq Eisa al-Refaee,Desconocido
+375,Hombre,2014-11-17,Daraa,,Abdulrahman Husin al-Refaee,Desconocido
+376,Hombre,2014-11-17,Daraa,,Anwar Mhmud al-Shuli,Desconocido
+377,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Emad al-Shikha,Desconocido
+378,Hombre,2014-11-17,Daraa,Ezraa,Adham Qasem Abdulfattah,Desconocido
+379,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Bassam Bahra,Desconocido
+380,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Amin al-Jbah Ji,Desconocido
+381,Hombre,2014-11-17,Daraa,,Abdullah Ahmad Othman,Desconocido
+382,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Eqbal Bakira,Desconocido
+383,Hombre,2014-11-17,Daraa,,Muhammad Jamal al-Bdiwi,Desconocido
+384,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Ismail Sami Shamia,Desconocido
+385,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Ahmad Arabi,Desconocido
+386,Hombre,2014-11-17,Damasco Rural,Harasta,Mazen Yasin al-Sida,Desconocido
+387,Hombre,2014-11-17,Damasco Rural,Harasta,Mazen Ali Hub Allah,Desconocido
+388,Hombre,2014-11-17,Damasco Rural,Harasta,Kenan Emad Jumaa,Desconocido
+389,Hombre,2014-11-17,Damasco Rural,Harasta,Faiz Muhammad Numan,Desconocido
+390,Hombre,2014-11-17,Damasco Rural,Harasta,Omar Kamel al-Shaar,Desconocido
+391,Hombre,2014-11-17,Damasco Rural,Harasta,Ghassan Mhmud Shle,Desconocido
+392,Hombre,2014-11-17,Damasco Rural,Harasta,Omar Abdulaziz Dib,Desconocido
+393,Hombre,2014-11-17,Damasco Rural,Harasta,Omar Khaled al-Kaka,Desconocido
+394,Hombre,2014-11-17,Damasco Rural,Harasta,Muhammad Husin al-Mannaa,Desconocido
+395,Hombre,2014-11-17,Damasco Rural,Harasta,Omar Ahmad Shle,Desconocido
+396,Hombre,2014-11-17,Damasco Rural,Harasta,Emad Mhmud al-Jabah Ji,Desconocido
+397,Hombre,2014-11-17,Damasco Rural,Harasta,Emad Muhammad Shuman,Desconocido
+398,Hombre,2014-11-17,Daraa,,Hazem Smer al-qasem,Desconocido
+399,Hombre,2014-11-17,Daraa,,Hazem Ahmad al-Baridi,Desconocido
+400,Hombre,2014-11-17,Daraa,,Muhammad Ismail al-Bulakkhi,Desconocido
+401,Hombre,2014-11-17,Daraa,,Ghassan Adnan al-Rishan al-Zobi,Desconocido
+402,Hombre,2014-11-17,Daraa,,Adnan Muhammad al-Suliman,Desconocido
+403,Hombre,2014-11-17,Daraa,Gileen,Mhmud Faiz al-Baisani,Desconocido
+404,Hombre,2014-11-17,Daraa,,Ater Musa Yousof,Desconocido
+405,Hombre,2014-11-17,Daraa,Bassr Al-Hareer,Ali Salem al-Tarshan al-Hariri,Desconocido
+406,Hombre,2014-11-17,Damasco Rural,Harasta,Emad Muhammad Abu Zaitoun,Desconocido
+407,Hombre,2014-11-17,Damasco Rural,Harasta,Ali Fhed al-Masri,Desconocido
+408,Hombre,2014-11-17,Damasco Rural,Harasta,Esam Muhammad Bkira,Desconocido
+409,Hombre,2014-11-17,Daraa,,Fadi Khaled al-Shree,Desconocido
+410,Hombre,2014-11-17,Daraa,,Abdo Nayef al-Abid,Desconocido
+411,Hombre,2014-11-17,Damasco Rural,Harasta,Adnan Muhammad al-Qadi,Desconocido
+412,Hombre,2014-11-17,Damasco Rural,Harasta,Ali Muwaffaq Dughim,Desconocido
+413,Hombre,2014-11-17,Daraa,,Muhammad Faiz al-Abdullah,Desconocido
+414,Hombre,2014-11-17,Daraa,,Muhammad Ahmad al-Jbbarin,Desconocido
+415,Hombre,2014-11-17,Damasco Rural,Harasta,Adnan Khaled Abdulrazzaq,Desconocido
+416,Hombre,2014-11-17,Daraa,,Thaer Omar al-Shuha,Desconocido
+417,Hombre,2014-11-17,Damasco Rural,Harasta,Ali Muwaffaq al-Es,Desconocido
+418,Hombre,2014-11-17,Damasco Rural,Harasta,Abdo Hsan Sadqa,Desconocido
+419,Hombre,2014-11-17,Damasco Rural,Harasta,Abdulqader Ez al-Din al-Qfeh Fi,Desconocido
+420,Hombre,2014-11-17,Damasco Rural,Harasta,Ali Suliman Jumaa,Desconocido
+421,Hombre,2014-11-17,Daraa,,Muhammad Jumaa Mhmud,Desconocido
+422,Hombre,2014-11-17,Damasco Rural,Harasta,Abdulrazzaq Abdulghani al-Qadi,Desconocido
+423,Hombre,2014-11-17,Damasco Rural,Harasta,Abdulghani Muhammad Eid Qrbaia,Desconocido
+424,Hombre,2014-11-17,Daraa,,Muhammad Yousof al-Kakuni,Desconocido
+425,Hombre,2014-11-17,Damasco Rural,Harasta,Adnan Mhmud all-Drkazli,Desconocido
+426,Hombre,2014-11-17,Daraa,,Khaled Jber al-Hroub,Desconocido
+427,Hombre,2014-11-17,Daraa,,Muhammad Abdullah Basbus,Desconocido
+428,Hombre,2014-11-17,Damasco Rural,Harasta,Shadi Diab al-Artuzi,Desconocido
+429,Hombre,2014-11-17,Damasco Rural,Harasta,Tareq Zuhir al-Khrej,Desconocido
+430,Hombre,2014-11-17,Daraa,,Samr Sobhi al-Hmad,Desconocido
+431,Hombre,2014-11-17,Daraa,,Ahmad Muhammad al-Turkmani,Desconocido
+432,Hombre,2014-11-17,Daraa,,Bahjat Ahmad al-Qasem,Desconocido
+433,Hombre,2014-11-17,Daraa,,Abdulmunaf Slim al-Hariri,Desconocido
+434,Hombre,2014-11-17,Damasco Rural,Harasta,Tareq Ziad Kammashe,Desconocido
+435,Hombre,2014-11-17,Daraa,,Wale Khaled Qtaf,Desconocido
+436,Hombre,2014-11-17,Damasco Rural,Harasta,Adel Muhammad Salem Husin,Desconocido
+437,Hombre,2014-11-17,Daraa,,Khaled Jamil Qtaf,Desconocido
+438,Mujer,2014-11-17,Daraa,,Yusra Khaled Qtaf,Desconocido
+439,Hombre,2014-11-17,Daraa,,Walid Khalled Qtaf,Desconocido
+440,Hombre,2014-11-17,Daraa,,Nedal Abdulwahhab al-Hariri,Desconocido
+441,Hombre,2014-11-17,Damasco Rural,Harasta,Ziad Muhammad Ghabour,Desconocido
+442,Mujer,2014-11-17,Daraa,,Jamila Khaled Qtaf,Desconocido
+443,Hombre,2014-11-17,Damasco Rural,Harasta,Samer Muhammad Ali al-Trek,Desconocido
+444,Hombre,2014-11-17,Damasco Rural,Harasta,Ziad Khaled Kmmashe,Desconocido
+445,Hombre,2014-11-17,Damasco Rural,Harasta,Khaled Omar Ghabour,Desconocido
+446,Hombre,2014-11-17,Damasco Rural,Harasta,Samer Abdulghani Jumaa,Desconocido
+447,Hombre,2014-11-17,Damasco Rural,Harasta,Hsan Ibrahim al-Khabbaz,Desconocido
+448,Hombre,2014-11-17,Damasco Rural,Harasta,Husin Esam al-Ghabra,Desconocido
+449,Hombre,2014-11-17,Damasco Rural,Harasta,Khalil Khaled al-Ris,Desconocido
+450,Hombre,2014-11-03,Homs,,Ismail Slmaa Ismail,Desconocido
+451,Hombre,2014-11-17,Damasco Rural,Harasta,Samer Abdulaziz Alawia,Desconocido
+452,Hombre,2014-11-17,Damasco Rural,Harasta,Hsan Muhammad al-Shikh Saleh,Desconocido
+453,Hombre,2014-11-03,Hama,,Samer Haer Alla Al Kalaa,Desconocido
+454,Hombre,2014-11-03,Aleppo,,Ahmed Nasr Bazaar,Desconocido
+455,Hombre,2014-11-04,Damasco Rural,Douma,Mohammed Yasser Nadam,Desconocido
+456,Hombre,2014-11-04,Idlib,,Ayman halloum,Desconocido
+457,Hombre,2014-11-05,Damasco Rural,doumar,Kaled Badran,Desconocido
+458,Hombre,2014-11-05,Damasco Rural,Jeroud,Kaled Abd Alraouf Kateba,Desconocido
+459,Hombre,2014-11-05,Hama,,Hasan Abo Baed,Desconocido
+460,Hombre,2014-11-04,Otras Nacionalidades,,Hayyam Ahmed Sharkas,Desconocido
+461,Hombre,2014-11-06,Idlib,,Bahar alturk,Desconocido
+462,Hombre,2014-11-07,Idlib,,Ahmed Dhnin,Desconocido
+463,Hombre,2014-11-09,Damasco Rural,Damasco Suburb: Zabadany,Ali Burhan,Desconocido
+464,Hombre,2014-11-10,Homs,talkalah,Khaled Hussein Mahla,Desconocido
+465,Hombre,2014-11-17,Damasco Rural,Harasta,Hsan Ahmad al-Atrash,Desconocido
+466,Hombre,2014-11-10,Aleppo,,Perm Khaled Bash,Desconocido
+467,Hombre,2014-11-11,Idlib,,Safe mohammed said zaedou,Desconocido
+468,Hombre,2014-11-03,Daraa,Tafas,Nasser Mohammed Abu Noukth,Desconocido
+469,Hombre,2014-11-10,Aleppo,,Fayez Ahmad Al-Abdullah,Desconocido
+470,Hombre,2014-11-11,Daraa,Sanamain,Kasem Mohammed Souaed,Desconocido
+471,Hombre,2014-11-11,Desconocido,,Abd Alsattar Kalef Alhamdan,Desconocido
+472,Hombre,2014-11-11,Damasco Rural,Alzyabeea,Mohammed husaen Albaker Al bouhture,Desconocido
+473,Hombre,2014-11-11,Damasco Rural,Yarmuk Camp,Nedal Alhag Alı,Desconocido
+474,Hombre,2014-11-11,Damasco,doumar,Wasem Alessa,Desconocido
+475,Hombre,2014-11-12,Homs,,Mohammed dahama kayal,Desconocido
+476,Hombre,2014-11-11,Daraa,Enkhel,Abd Al azez esa,Desconocido
+477,Hombre,2014-11-08,Damasco Rural,Douma,Yazan Taim,Desconocido
+478,Hombre,2014-11-17,Daraa,,Omar Jumaa Shbat,Desconocido
+479,Hombre,2014-11-16,Aleppo,,Ayham Mustafa Najjar,Desconocido
+480,Hombre,2014-07-14,Hama,,Ahmmad Alagage,Desconocido
+481,Hombre,2014-07-02,Damasco Rural,Jeroud,Hane Abd Alsalam,Desconocido
+482,Hombre,2014-08-01,Idlib,,Anas Muhammad Jaber,Desconocido
+483,Hombre,2014-08-01,Damasco Rural,Daraya,Jameel Gezzy,Desconocido
+484,Hombre,2014-08-01,Daraa,Enkhel,Ahmad Yaseen Elalowa,Desconocido
+485,Hombre,2014-11-14,Quneitra,Quneitra: Golan,Hayel Hamad Al-Tahhan,Desconocido
+486,Hombre,2014-11-16,Damasco Rural,Douma,Waher al-Saied Mahmud,Desconocido
+487,Hombre,2014-08-01,Tartous,Banias,Ali Halema,Desconocido
+488,Hombre,2014-08-01,Idlib,,Ibrahem Adnan Kaddah,Desconocido
+489,Hombre,2014-08-01,Lattakia,Jableh,Salem Zorayk,Desconocido
+490,Hombre,2014-08-01,Daraa,,Yakob Abdulkarem Hariri,Desconocido
+491,Hombre,2014-08-01,Tartous,Banias,Ibrahem Ali Bayasi,Desconocido
+492,Hombre,2014-08-01,Tartous,Banyas,Mohamad Abdulrahman Jomaa,Desconocido
+493,Hombre,2014-08-01,Damasco Rural,,Khaled Zyade,Desconocido
+494,Hombre,2014-07-14,Damasco Rural,Damasco Suburb : Madyara,Zaher Ahmad Zain,Desconocido
+495,Hombre,2014-08-01,Desconocido,,Tarek Muhammad Danora,Desconocido
+496,Hombre,2014-07-14,Hama,,Omar Abd Albaset Roukayya,Desconocido
+497,Hombre,2014-08-01,Damasco Rural,,Ayman Abdalla,Desconocido
+498,Mujer,2014-10-01,Damasco,Yarmouk Camp,Yara Salman,Desconocido
+499,Mujer,2014-08-29,Damasco Rural,Douma,Eman Daas,Desconocido
+500,Mujer,2014-08-01,Desconocido,,Hend Ahmed,Desconocido
+501,Hombre,2014-10-01,Hama,,Abdulrahman Awad Sabsaby,Desconocido
+502,Hombre,2014-08-01,Tartous,Banias,Husam Shaban,Desconocido
+503,Hombre,2014-10-01,Deir Ezzor,,Hassan Qallab,Desconocido
+504,Hombre,2014-10-05,Hama,Halfaya,Abdulrazzaq Kalo,Desconocido
+505,Hombre,2014-10-01,Lattakia,,Yasser Saed,Desconocido
+506,Hombre,2014-10-01,Hama,Hader,Shady Ammar Jady,Desconocido
+507,Hombre,2014-10-01,Daraa,,Hussam Al-Shawali,Desconocido
+508,Hombre,2014-10-01,Daraa,,Omar Hariri,Desconocido
+509,Hombre,2014-10-01,Homs,Rastan,Ahmad Soliman Warda,Desconocido
+510,Hombre,2014-10-01,Daraa,Sanamain,Ahmad Abokleb,Desconocido
+511,Hombre,2014-10-01,Homs,Palmyra,Zeyad Jarawan,Desconocido
+512,Hombre,2014-10-01,Hama,Huribnefseh,Osama Shami,Desconocido
+513,Hombre,2014-10-01,Damasco Rural,Saqba,Mohamad Ammar Aboljoud,Desconocido
+514,Hombre,2014-10-01,Homs,Rastan,Mostafa Taybany,Desconocido
+515,Hombre,2014-10-01,Homs,Doumir,Maher Ramadan,Desconocido
+516,Mujer,2014-10-01,Damasco,Yarmouk camp,Baheah Aydy,Desconocido
+517,Hombre,2014-10-01,Deir Ezzor,,Saleh Mosa,Desconocido
+518,Hombre,2014-10-01,Homs,Rastan,Hazem Mohamad Yahya Darwish,Desconocido
+519,Hombre,2014-10-02,Lattakia,Jabla,Mustafa Kafth,Desconocido
+520,Hombre,2014-10-01,Damasco Rural,,Khaled Oyoun,Desconocido
+521,Hombre,2014-10-02,Damasco Rural,,Muhammad Shekhlha,Desconocido
+522,Hombre,2014-10-02,Daraa,jasem,Mouaz Esmaeel Al quaedr,Desconocido
+523,Hombre,2014-10-02,Homs,,Amer Kanjo,Desconocido
+524,Hombre,2014-10-04,Hama,Hama Suburb : Khattab,Mustafa Al-Omar,Desconocido
+525,Hombre,2014-10-05,Hama,,Mohammed Mustafa Razzouk Saleh,Desconocido
+526,Hombre,2014-10-05,Homs,,Hossam Ahmed Bases,Desconocido
+527,Hombre,2014-10-05,Damasco,,Hassan Ahmed Aljbban,Desconocido
+528,Hombre,2014-10-05,Damasco,,Mohamed Fouad Lutfi Junaidi,Desconocido
+529,Hombre,2014-10-05,Daraa,,Ahmed Mousa Abu Hawa,Desconocido
+530,Hombre,2014-10-05,Damasco,,Nedal Abdul Wahab Sheikh Qasim,Desconocido
+531,Hombre,2014-10-05,Homs,,Anas Mohammed Ali Abdel Mawla,Desconocido
+532,Hombre,2014-10-05,Damasco,,Zakaria Amin Mohammed,Desconocido
+533,Hombre,2014-10-05,Homs,,Obaida Muhammad Ali,Desconocido
+534,Hombre,2014-10-02,Hama,Halfaya,Salah Al-Hamoud,Desconocido
+535,Hombre,2014-10-04,Hama,Halfaya,Ali Hamid Krmo,Desconocido
+536,Hombre,2014-10-05,Otras Nacionalidades,,Sayf al-Din Ali Alian,Desconocido
+537,Hombre,2014-10-05,Homs,,Hazem Abdel Zaher Aiyon Alswod,Desconocido
+538,Hombre,2014-10-05,Homs,,Khalid Adnan Ajeeh,Desconocido
+539,Hombre,2014-10-05,Homs,Tadmour,Zakaria Nadir Almrouh,Desconocido
+540,Hombre,2014-10-05,Damasco,,Ghassan Mahmoud Barghouti,Desconocido
+541,Hombre,2014-10-05,Damasco,Yarmuk Camp,Flak Freij,Desconocido
+542,Hombre,2014-10-05,Damasco Rural,yabroud,Marwan Mustafa Marwa,Desconocido
+543,Hombre,2014-10-05,Damasco,Yarmuk Camp,Njuod Amira,Desconocido
+544,Hombre,2014-10-06,Hama,,Hassan Mohamed Haji Abdullah,Desconocido
+545,Hombre,2014-10-06,Hama,,Mohammed Khalid Razzouk Saleh,Desconocido
+546,Hombre,2014-10-06,Hama,,Razzouk Khaled ِِRazzouk Saleh,Desconocido
+547,Hombre,2014-10-06,Hama,,Ahmed Abdel Wahab Hassani,Desconocido
+548,Hombre,2014-10-06,Damasco,,Yasser Khaled Al Hassani,Desconocido
+549,Hombre,2014-10-06,Damasco,,Farhan Nayef Nabhan,Desconocido
+550,Hombre,2014-10-06,Damasco,,Amer Hussein Nabhan,Desconocido
+551,Hombre,2014-10-06,Hama,,Ammar Hussein Nabhan,Desconocido
+552,Hombre,2014-10-06,Hama,,Mamoun Musbbah Al-Mahmoud,Desconocido
+553,Hombre,2014-10-06,Hama,,Mohamed Ahmed Bakkor,Desconocido
+554,Mujer,2014-10-01,Desconocido,,Dania Mostafa Satle,Desconocido
+555,Hombre,2014-10-05,Aleppo,,Muhammad Noah Ali WaZahn,Desconocido
+556,Hombre,2014-10-06,Hama,,Mohannad Ali Sheih,Desconocido
+557,Hombre,2014-10-06,Hama,,Mohammed Ahmed Abdel Aziz,Desconocido
+558,Hombre,2014-10-06,Hama,,Mahmoud Wahba Othman,Desconocido
+559,Hombre,2014-10-06,Hama,,Rpie Hassan Bkour,Desconocido
+560,Hombre,2014-10-06,Hama,,Mohamed Ibrahim Sheih,Desconocido
+561,Hombre,2014-10-06,Hama,,Mohammed Yousef Al-Assaad,Desconocido
+562,Hombre,2014-10-06,Hama,,Abdul Aziz Abdul Fattah Ahmed Hamadeh Alsgier,Desconocido
+563,Hombre,2014-10-06,Hama,,Mahmoud Mustafa Mahmoud,Desconocido
+564,Hombre,2014-10-06,Hama,,Abdul Rahman Mohammed Haji Abdullah,Desconocido
+565,Hombre,2014-10-06,Hama,,Abdul Majid Faisal Al Sheikh,Desconocido
+566,Hombre,2014-10-06,Hama,,Mohammed Mustafa Melhem,Desconocido
+567,Hombre,2014-10-06,Hama,,Muhammad Hafiz Sheikh,Desconocido
+568,Hombre,2014-10-06,Hama,,Khaled Moussa al-Abdullah,Desconocido
+569,Hombre,2014-10-06,Hama,,Qasim Khalid Abdul Ghani,Desconocido
+570,Hombre,2014-10-06,Hama,,Naseem Abdul Qader Al-Ali,Desconocido
+571,Hombre,2014-10-06,Homs,,Issa Ameen Ajnad,Desconocido
+572,Hombre,2014-10-06,Homs,,Mashal Kaled Hamdan,Desconocido
+573,Hombre,2014-10-06,Homs,,Mahmoud Adnan Makhzoom,Desconocido
+574,Hombre,2014-10-06,Hama,,Ramiz Abdul Qader Al-Ali,Desconocido
+575,Hombre,2014-10-06,Hama,,Abdulaziz Mohammed Al-Assad,Desconocido
+576,Hombre,2014-10-06,Homs,,Anas Omar Rifai,Desconocido
+577,Hombre,2014-10-06,Daraa,Maaraba,Saad Eddin Khalid Mahmood,Desconocido
+578,Mujer,2014-10-06,Damasco,Yarmuk Camp,Suhar mohammed Saadi,Desconocido
+579,Hombre,2014-10-06,Homs,,Ahmed Hassan Guine,Desconocido
+580,Hombre,2014-10-06,Idlib,,Hussein Al-Ahmad,Desconocido
+581,Hombre,2014-10-06,Otras Nacionalidades,,Abdul Rahman Rashid Khadr,Desconocido
+582,Hombre,2014-10-06,Damasco,,Mohamed Ahmed Zainab,Desconocido
+583,Hombre,2014-10-06,Damasco,Douma,Ayman Ibrahim Almasre,Desconocido
+584,Hombre,2014-10-06,Damasco Rural,,Mahmoud Ahmed Yassin,Desconocido
+585,Hombre,2014-10-06,Damasco,,Ahmed Mohammed Almajl,Desconocido
+586,Hombre,2014-10-06,Otras Nacionalidades,,Raed Mohammed Vadey,Desconocido
+587,Hombre,2014-10-06,Damasco,Yarmuk Camp,Christine Youssef,Desconocido
+588,Hombre,2014-10-06,Damasco,,Mohammed Jamal Gbbn,Desconocido
+589,Hombre,2014-10-06,Hama,,Mohammed Hassan Bkour,Desconocido
+590,Hombre,2014-10-06,Otras Nacionalidades,,Firas Al Khatib,Desconocido
+591,Hombre,2014-10-07,Damasco,,Safwan Abdul Fattah Ahmed Hamadeh Alsgier,Desconocido
+592,Hombre,2014-10-07,Hama,Halfaya,Imad Hassoba,Desconocido
+593,Hombre,2014-10-06,Quneitra,Khan Arnabeh,Abdullah Al-Assad,Desconocido
+594,Hombre,2014-10-07,Hama,Halfaya,Bassam Hassan Abu Zeid,Desconocido
+595,Hombre,2014-08-31,Damasco Rural,Jeroud,Muhammad Hsan Jamous,Desconocido
+596,Hombre,2014-09-01,Homs,,Bilal Mustafa Alloush,Desconocido
+597,Hombre,2014-08-31,Damasco Rural,Damasco Suburb : Qudsaya,Mahmoud Ahmad Dyab Rezmeh,Desconocido
+598,Hombre,2014-09-01,Damasco Rural,Daraya,Mahmoud Taleb,Desconocido
+599,Hombre,2014-09-01,Hama,mourak,Bassam al-Qasim,Desconocido
+600,Hombre,2014-10-06,Damasco,,Wael Fouad al-Saadi,Desconocido
+601,Hombre,2014-09-01,Deir Ezzor,Bukmal,Anas Mahmoud Al-Jasem,Desconocido
+602,Mujer,2014-09-02,Damasco Rural,yabrud,Hla Haaj Hussein,Desconocido
+603,Hombre,2014-09-03,Damasco Rural,Moadameah,Mouaz kalel Mansour,Desconocido
+604,Hombre,2014-10-07,Hama,Halfaya,Ahmed Abdul Karim Azaator,Desconocido
+605,Hombre,2014-10-07,Homs,,Haitham Suleiman Hassoun,Desconocido
+606,Hombre,2014-09-05,Damasco Rural,Damasco Suburb : Al-Tal,Muhammad Jamal Basheer,Desconocido
+607,Hombre,2014-09-03,Damasco Rural,Rihan,Maher Tayseer Maslamani,Desconocido
+608,Hombre,2014-09-05,Daraa,Ebttaa,Sami Saleh Abu Hlaweh,Desconocido
+609,Hombre,2014-09-07,Hama,Aqarib al-Safia,Manhal Gabur,Desconocido
+610,Hombre,2014-09-08,Hama,,Omar Mohamed Hassan,Desconocido
+611,Hombre,2014-09-08,Hama,,Ahmed Mohamed Ayoub,Desconocido
+612,Hombre,2014-09-01,Hama,mourak,Ali al-Abdullah,Desconocido
+613,Hombre,2014-09-08,Quneitra,,Ala Shteiwi,Desconocido
+614,Hombre,2014-09-08,Daraa,Sheikh Miskeen,Abdul-Hadi Mohammed Ali Hariri,Desconocido
+615,Hombre,2014-09-10,Damasco,Rukneddin,Husin Suid,Desconocido
+616,Hombre,2014-09-10,Aleppo,Aleppo: Meskana,Mustafa Saee Al-Deri,Desconocido
+617,Hombre,2014-09-10,Idlib,Idlib : Kafrsijneh,Bilal Al-Mousa,Desconocido
+618,Hombre,2014-09-13,Homs,Homs: Inshaat,Samer Abdulhameed Al-Hosni,Desconocido
+619,Hombre,2014-09-14,Hama,Taibet Al-Imam,Person Of Al-Elewi Family,Desconocido
+620,Hombre,2014-09-14,Hama,Taibet Al-Imam,Mukhles Merzaq,Desconocido
+621,Hombre,2014-09-14,Hama,Taibet Al-Imam,Mosaab Merzaq,Desconocido
+622,Hombre,2014-09-14,Hama,Taibet Al-Imam,Adnan Katmesh,Desconocido
+623,Hombre,2014-09-14,Hama,Taibet Al-Imam,Abdullah Katmesh,Desconocido
+624,Hombre,2014-09-14,Hama,Taibet Al-Imam,Ahmad Katmesh,Desconocido
+625,Hombre,2014-09-14,Hama,Taibet Al-Imam,Huzaifa Katmesh,Desconocido
+626,Hombre,2014-09-14,Hama,Taibet Al-Imam,Moaz Katmesh,Desconocido
+627,Hombre,2014-09-14,Damasco,Taibet Al-Imam,Ramez Al-Abdullah,Desconocido
+628,Hombre,2014-09-14,Hama,Taibet Al-Imam,Maen Maksour,Desconocido
+629,Hombre,2014-09-14,Hama,Taibet Al-Imam,Moneer Al-Aswad,Desconocido
+630,Hombre,2014-09-02,Hama,mourak,Yazan Al Baker,Desconocido
+631,Hombre,2014-09-14,Hama,Taibet Al-Imam,Adel Al-Toum,Desconocido
+632,Hombre,2014-09-14,Hama,Taibet Al-Imam,Ahmad Al-Solaiman,Desconocido
+633,Hombre,2014-09-11,Damasco Rural,,Ahmed Al-Naassan,Desconocido
+634,Hombre,2014-09-14,Hama,Taibet Al-Imam,Abdulrahman Al-Hawari,Desconocido
+635,Hombre,2014-09-14,Aleppo,Manbic,Maslat Ahmed Mouftah,Desconocido
+636,Hombre,2014-09-13,Hama,Kaferzita,Muhammad Adnan Shehada,Desconocido
+637,Hombre,2014-09-14,Hama,Taibet Al-Imam,Ahmad Al-Taleb,Desconocido
+638,Hombre,2014-09-15,Daraa,Saeda,Mohamed Abdulkadir Najim,Desconocido
+639,Hombre,2014-09-15,Damasco Rural,Harasta,Amer Abdulaziz Mahfouz,Desconocido
+640,Hombre,2014-09-15,Hama,Taibet Al-Imam,Ahmed Abed Alkarem,Desconocido
+641,Hombre,2014-09-19,Hama,Halfaya,Khalid Mahmood Da'pol,Desconocido
+642,Mujer,2014-09-21,Damasco,Rukneddin,Unidentified,Desconocido
+643,Hombre,2014-09-22,Hama,Soran,Hassan Mohamed Haj Abdullah,Desconocido
+644,Mujer,2014-09-23,Daraa,,the name didn't reach,Desconocido
+645,Hombre,2014-09-23,Damasco Rural,Daraya,Yassin Etr,Desconocido
+646,Hombre,2014-09-14,Hama,Taibet Al-Imam,khaled Al-Razouk,Desconocido
+647,Hombre,2014-09-23,Damasco,Daraya,Khalid Ibrahim Murad,Desconocido
+648,Hombre,2014-09-20,Aleppo,Aleppo: Tel Rifaat,Omar Farouq Abdullatif Al-Sun,Desconocido
+649,Hombre,2014-09-24,Damasco,Damasco: Yarmuk Camp,Nedal Khalil Saqer,Desconocido
+650,Hombre,2014-09-24,Hama,Taibet Al-Imam,Marwan Alahmdta,Desconocido
+651,Hombre,2014-09-14,Hama,Taibet Al-Imam,Abdulghani Haj Ebrahim,Desconocido
+652,Hombre,2014-09-15,Aleppo,,Abdulaziz Muhammad Assad,Desconocido
+653,Hombre,2014-09-26,Daraa,,Mamun Fawzee Alsaade,Desconocido
+654,Hombre,2014-09-27,Homs,,Rami Abdulrahman Shamsi,Desconocido
+655,Hombre,2014-09-28,Hama,Salamia,Ali Asaad Alloush,Desconocido
+656,Hombre,2014-10-01,Desconocido,,Mohamad Amen Bazy,Desconocido
+657,Hombre,2014-10-01,Desconocido,,Diaa Semmak,Desconocido
+658,Hombre,2014-10-01,Desconocido,,Waleed Mohamad Tammaa,Desconocido
+659,Hombre,2014-10-01,Desconocido,,Khaled Shatat,Desconocido
+660,Hombre,2014-10-01,Desconocido,,Ussef Enjereny,Desconocido
+661,Mujer,2014-10-01,Desconocido,,Fadia Qabath,Desconocido
+662,Hombre,2014-09-27,Damasco Rural,Douma,Khaled Ammar Bakkar,Desconocido
+663,Hombre,2014-10-01,Daraa,,Khodr Elnassar,Desconocido
+664,Mujer,2014-10-01,Hama,,Heba Dieb,Desconocido
+665,Mujer,2014-10-01,Hama,,Latefa Nour Eldeen,Desconocido
+666,Hombre,2014-10-01,Tartous,,,Desconocido
+667,Hombre,2014-10-01,Damasco Rural,Al-tel,Reda Abdulwahab Karem,Desconocido
+668,Hombre,2014-10-01,Homs,Qusair,Abdulbasat Mohamad Warda,Desconocido
+669,Mujer,2014-10-01,Damasco,Hajar Aswad,Tasneem Shehaby,Desconocido
+670,Mujer,2014-10-01,Damasco,Yarmouk camp,Doaa Mansour,Desconocido
+671,Mujer,2014-10-01,Damasco,Yarmouk Ccamp,Mervat Abo Madi,Desconocido
+672,Hombre,2014-10-01,Idlib,Kafr Tekharem,Qusai Khaled Saied Khalel,Desconocido
+673,Mujer,2014-10-01,Damasco Rural,Ghouta,Baraa Abdalla,Desconocido
+674,Mujer,2014-10-01,Damasco Rural,Ghouta,Aya Abdalla,Desconocido
+675,Mujer,2014-10-01,Damasco,,Rana Masry,Desconocido
+676,Hombre,2014-08-03,Damasco Rural,Jeroud,Mohammed Abdel-Mohsen Nadaa,Desconocido
+677,Mujer,2014-10-01,Damasco,,Aisha Sabren,Desconocido
+678,Mujer,2014-10-01,Damasco,Tadamon,Dalia Azzam,Desconocido
+679,Hombre,2014-10-01,Idlib,Tamanaah,Ahmad Abdulkarem Barakat,Desconocido
+680,Hombre,2014-08-03,Hama,Kattab,Nassouh Abdul Salam al-Qasim,Desconocido
+681,Hombre,2014-08-03,Damasco Rural,Qalamoon: Esal Al-Ward,Ayoub al-Khatib,Desconocido
+682,Hombre,2014-08-03,Damasco,,Majid Hamidou,Desconocido
+683,Hombre,2014-08-04,Damasco Rural,Jeroud,Samih Roukaya,Desconocido
+684,Hombre,2014-08-04,Damasco Rural,Qalamoon: Esal Al-Ward,Jamal Ali Khalifa,Desconocido
+685,Hombre,2014-08-04,Hama,Lattamna,Muhanna Khalid Sarakibi,Desconocido
+686,Hombre,2014-08-04,Damasco Rural,Artuz: Jdaidet Al-Fadl,Mahmoud Sami Gareb,Desconocido
+687,Hombre,2014-08-04,Damasco Rural,Kesweh,Mohammed Tees,Desconocido
+688,Hombre,2014-08-04,Damasco Rural,Jeroud,Khaldoun Katyba,Desconocido
+689,Hombre,2014-08-04,Damasco Rural,Misraba,Samer Najjar,Desconocido
+690,Hombre,2014-08-04,Homs,,Khaled Farhan Alssaj,Desconocido
+691,Hombre,2014-08-04,Idlib,Jesr alshagour,Omar Masoud,Desconocido
+692,Mujer,2014-10-01,Homs,,Ibtesam Abo Arafa,Desconocido
+693,Hombre,2014-08-04,Aleppo,Kobani,Mmoslem Mohamad,Desconocido
+694,Hombre,2014-08-04,Aleppo,Kobani,Osman Zeto,Desconocido
+695,Hombre,2014-08-04,Quneitra,,Mahdi.alsaleh,Desconocido
+696,Hombre,2014-08-04,Desconocido,,Muhannad al-Badri,Desconocido
+697,Hombre,2014-08-04,Hama,Salamia,Abdul Rahman Al-Khatib,Desconocido
+698,Hombre,2014-08-04,Daraa,Kafrshams,Mohammed Abdel-Rahman Awad,Desconocido
+699,Hombre,2014-08-04,Damasco Rural,,Nayef Jomaa Qasem,Desconocido
+700,Hombre,2014-08-04,Damasco,Bustan Alًward,Thabt Cassar,Desconocido
+701,Hombre,2014-08-04,Daraa,Karfa,Atallah Alharaki,Desconocido
+702,Hombre,2014-08-04,Hama,Al-Ghab,Firas Oduan,Desconocido
+703,Hombre,2014-08-04,Hama,Halfaya,Mohammed al-Hakim,Desconocido
+704,Hombre,2014-08-04,Hama,Kattab,Abdul Razak AlJawad,Desconocido
+705,Hombre,2014-08-04,Damasco Rural,Jdaidet Artouz,Taha Yasen Alassrawi,Desconocido
+706,Hombre,2014-08-04,Deir Ezzor,Almyadien,Abdul Ghafoor al-Alusi,Desconocido
+707,Hombre,2014-08-04,Damasco,Barzeh,Ayman Ali Tally,Desconocido
+708,Hombre,2014-08-04,Desconocido,,Mouaz Al Galee,Desconocido
+709,Hombre,2014-08-04,Damasco Rural,Qalamoon: Esal Al-Ward,Ali Houreea,Desconocido
+710,Hombre,2014-08-05,Damasco Rural,Douma,Abdul Karim al-Dirani,Desconocido
+711,Hombre,2014-08-05,Hama,,Alaa al-Shami,Desconocido
+712,Hombre,2014-08-05,Hama,,Belal Al Mashal,Desconocido
+713,Hombre,2014-08-05,Idlib,,Sami Mohammed Naji Shaar,Desconocido
+714,Hombre,2014-08-05,Aleppo,Dar Ezza,Ammar Ahmed,Desconocido
+715,Hombre,2014-08-04,Hama,Akrab,Fadi Abdul Qadir Toqaj,Desconocido
+716,Hombre,2014-08-05,Hama,,Majid Mashal,Desconocido
+717,Hombre,2014-08-04,Hama,Maar Shohur,Bassam Alhvian,Desconocido
+718,Hombre,2014-08-06,Hama,,Kamal Ahmed Imam,Desconocido
+719,Hombre,2014-08-06,Idlib,,Fadi Dhnin,Desconocido
+720,Hombre,2014-08-06,Homs,Rastan,Abdel Basset Obaid,Desconocido
+721,Hombre,2014-08-05,Hama,,Talal Al-Shami,Desconocido
+722,Hombre,2014-08-06,Hama,Salamia,Jafar Kurdia,Desconocido
+723,Hombre,2014-08-11,Damasco,,Mahmod Abdulkarem,Desconocido
+724,Hombre,2014-08-08,Aleppo,,Fehmi Yousef,Desconocido
+725,Hombre,2014-08-08,Aleppo,Tadif,Muhammad Mahmoud Al-Mustafa,Desconocido
+726,Hombre,2014-08-11,Aleppo,,Ahmed Yousef Dndl,Desconocido
+727,Hombre,2014-08-05,Daraa,sanamaen,Ammar Ahmed Tawfiq Al-Falah,Desconocido
+728,Hombre,2014-08-11,Otras Nacionalidades,,Yasser Kerkti,Desconocido
+729,Hombre,2014-08-12,Idlib,Badama,Raed Zletou,Desconocido
+730,Hombre,2014-08-12,Idlib,,Hussam Aqel Al-Yusuf,Desconocido
+731,Hombre,2014-08-13,Idlib,Jesr alshagour,Meshel Kedou,Desconocido
+732,Hombre,2014-08-11,Lattakia,jabla,Ammar Kourbatle,Desconocido
+733,Mujer,2014-08-13,Damasco Rural,Daraya,Banan Jawaher Habib,Desconocido
+734,Hombre,2014-07-16,Hama,,Musaab Muhammad Sallourah,Desconocido
+735,Hombre,2014-07-16,Homs,Homs: Baba Amr,Adnan Rishi,Desconocido
+736,Hombre,2014-07-17,Damasco,,Emad Sasa,Desconocido
+737,Hombre,2014-07-17,Daraa,,Hosain Ali Motawea,Desconocido
+738,Hombre,2014-08-13,Damasco,Qaboun,Rabah Abd Alfattah Naffah,Desconocido
+739,Hombre,2014-08-28,Damasco Rural,Daraya,Youssef Wahbi,Desconocido
+740,Hombre,2014-07-18,Idlib,,,Desconocido
+741,Hombre,2014-07-16,Homs,,Salam Hamid,Desconocido
+742,Hombre,2014-07-18,Hama,,ِAbdullah Ahmad Nahedh Al-Fahham,Desconocido
+743,Hombre,2014-07-18,Desconocido,,Samer Muhammad Isbelo,Desconocido
+744,Hombre,2014-07-18,Homs,Rastan,Muhammad Dip Muhammad Saied Darwish,Desconocido
+745,Hombre,2014-07-19,Hama,Janoub Al-Malaab,Yousef Al Houees,Desconocido
+746,Hombre,2014-07-18,Homs,,Abdulrazaq Ez Al-Deen Seriya,Desconocido
+747,Hombre,2014-07-18,Deir Ezzor,Husseiniya,Samer Sattam Al-Shaher,Desconocido
+748,Mujer,2014-07-19,Daraa,om almaeaden,yazefares mafalane,Desconocido
+749,Hombre,2014-07-19,Damasco Rural,Nabk,Namer Ali Moadamani,Desconocido
+750,Hombre,2014-07-18,Desconocido,,Abdulbaset Zayton,Desconocido
+751,Hombre,2014-07-19,Desconocido,,Hamadah Al-Madani,Desconocido
+752,Hombre,2014-07-19,Damasco Rural,Jdaidet Artouz,Ali Hussien Basyouni,Desconocido
+753,Hombre,2014-07-19,Damasco Rural,Sehnaya,Ahmad Al-Dabea,Desconocido
+754,Hombre,2014-07-19,Damasco Rural,Daraya,Wesam Muhammad Nasab,Desconocido
+755,Hombre,2014-07-19,Damasco Rural,Daraya,Ayman Fara (Al-Masri),Desconocido
+756,Hombre,2014-07-17,Damasco Rural,Douma,ٍSoubhi Habaq,Desconocido
+757,Hombre,2014-07-19,Damasco,Rukneddin,Oussama Al-Saqbani,Desconocido
+758,Mujer,2014-07-20,Idlib,,Salma Hanano,Desconocido
+759,Hombre,2014-07-20,Hama,Talf village,Hassan Madean Badrleh,Desconocido
+760,Hombre,2014-07-20,Hama,Talf village,Aboud Gouma TArafa,Desconocido
+761,Hombre,2014-07-20,Hama,Talf village,Faesal Ammoureh,Desconocido
+762,Hombre,2014-07-20,Hama,Talf village,Kaled Mahmmoud Al Dayyab,Desconocido
+763,Hombre,2014-07-20,Hama,Talf village,Zakareah Marza,Desconocido
+764,Hombre,2014-07-20,Hama,Talf village,Amin Kaled Ez AlDen,Desconocido
+765,Hombre,2014-07-20,Hama,Talf village,Kaled AlRagab,Desconocido
+766,Hombre,2014-07-20,Hama,Talf village,Ayoub Hejazeeh Son,Desconocido
+767,Hombre,2014-07-20,Hama,Talf village,Wael Al Shmaleeh,Desconocido
+768,Hombre,2014-07-20,Hama,Talf village,Ayoub Hjazzeh,Desconocido
+769,Hombre,2014-07-20,Otras Nacionalidades,,Mohammed Ata Abou Anza,Desconocido
+770,Hombre,2014-07-20,Hama,Salameaa,Fata Hasan,Desconocido
+771,Mujer,2014-07-20,Idlib,Jesr alshagour,Maha Mamou,Desconocido
+772,Hombre,2014-07-22,Daraa,Daeel,Bayan Gad Alla abo gaesh,Desconocido
+773,Hombre,2014-07-24,Idlib,Een Alsouda,Ali Helal,Desconocido
+774,Hombre,2014-07-24,Daraa,daeel,Bayan Gad All Abo Gesh,Desconocido
+775,Hombre,2014-07-25,Damasco Rural,Qalamoon: Hosh Arab,Ahmad Joumaa,Desconocido
+776,Hombre,2014-07-25,Damasco,Barzeh,Khaled Haider,Desconocido
+777,Hombre,2014-07-25,Damasco,Rukneddin,Muhammad Dahrouj,Desconocido
+778,Hombre,2014-07-25,Damasco,Rukneddin,Muhammad Jan Fawakherji,Desconocido
+779,Hombre,2014-07-25,Damasco,Rukneddin,Esam Jamal Al-Den,Desconocido
+780,Hombre,2014-07-25,Damasco Rural,Hamouria,Haitham Adnan Al-Tareh,Desconocido
+781,Hombre,2014-07-25,Daraa,Gabagib,Hussam Al-Jasem,Desconocido
+782,Hombre,2014-07-26,Damasco Rural,Damasco Suburb : Al-Tal,Fateen Khero Jazia,Desconocido
+783,Hombre,2014-07-26,Daraa,,Hamza Alzayyd,Desconocido
+784,Hombre,2014-07-25,Damasco,Rukneddin,Hasan Zoubaa,Desconocido
+785,Hombre,2014-07-28,Damasco,Damasco: Midan,Loai Sekafi,Desconocido
+786,Hombre,2014-07-28,Hama,Bab Kibli,Alli Ahmad Gnah,Desconocido
+787,Hombre,2014-07-29,Hama,,Ammar Alzaawi,Desconocido
+788,Hombre,2014-07-29,Idlib,Alkfer,Ahmed Kourde,Desconocido
+789,Hombre,2014-07-30,Damasco,,Suraqa Mustafa Abdulateef,Desconocido
+790,Hombre,2014-07-30,Hama,Tel al-Dabbaga,Abd ALHakem Sarmeneh,Desconocido
+791,Hombre,2014-07-30,Hama,Aqirbat,Mouhsen Al Hasan,Desconocido
+792,Hombre,2014-07-30,Hama,Aqirbat,Wael Mohammed Al Housen,Desconocido
+793,Hombre,2014-07-30,Idlib,Zahra,Obada Ali,Desconocido
+794,Hombre,2014-07-30,Idlib,,Abd Allah Jrde,Desconocido
+795,Hombre,2014-07-30,Idlib,Aljamelya,Nezam Mastou,Desconocido
+796,Hombre,2014-07-30,Idlib,Aldourya,Housam Sattouf,Desconocido
+797,Hombre,2014-07-30,Idlib,Badama,Mohameed Mahmoud,Desconocido
+798,Hombre,2014-07-25,Quneitra,,Saied Muhammad Al-Saied,Desconocido
+799,Hombre,2014-07-30,Idlib,,Mustafa Fayz Al Asaf,Desconocido
+800,Hombre,2014-07-31,Hama,Halfaya,Abd Al Rahman Mohammed Habboul,Desconocido
+801,Hombre,2014-07-02,Damasco Rural,Jeroud,Ali Al Gadeh,Desconocido
+802,Hombre,2014-07-02,Damasco Rural,Jeroud,Amer Al Dakak,Desconocido
+803,Hombre,2014-06-01,Damasco Rural,Dumair,Amin Ahmad Wafa,Desconocido
+804,Hombre,2014-06-12,Idlib,,Mustafa Zuhair Al-Zeer,Desconocido
+805,Hombre,2014-05-24,Damasco Rural,Ain Hoor,Ali Fares Mazlom,Desconocido
+806,Hombre,2014-06-01,Damasco Rural,Dumair,Osama Eid Eid,Desconocido
+807,Hombre,2014-07-01,Desconocido,,Fayz Waled Dabore,Desconocido
+808,Hombre,2014-07-01,Desconocido,,Hasan Housien Areedah,Desconocido
+809,Hombre,2014-06-12,Idlib,,Nassar Afara,Desconocido
+810,Hombre,2014-07-01,Desconocido,,Mohe al-Dien Muhammad al-Khane,Desconocido
+811,Hombre,2014-06-12,Idlib,,Samer Maghoni,Desconocido
+812,Hombre,2014-06-12,Idlib,,Saleem Kifaya,Desconocido
+813,Hombre,2014-06-12,Idlib,,Abdulrazaq Hasan Kifaya,Desconocido
+814,Hombre,2014-06-12,Idlib,Idlib: Marteen,Talal Selo,Desconocido
+815,Hombre,2014-06-12,Idlib,,Anas Shuaib,Desconocido
+816,Hombre,2014-06-12,Idlib,Idlib: Ariha,Ahmad Al-Khateeb,Desconocido
+817,Hombre,2014-06-12,Idlib,,Muhammad Shareef Ghandoura,Desconocido
+818,Hombre,2014-06-12,Idlib,,Saher Zakour,Desconocido
+819,Hombre,2014-06-12,Idlib,Idlib: Marteen,Ammar Selo,Desconocido
+820,Hombre,2014-06-12,Idlib,,Baraa Zakour,Desconocido
+821,Hombre,2014-07-01,Desconocido,,Muhammad Ahmad Abdulwahab,Desconocido
+822,Hombre,2014-06-12,Idlib,,Muhammad Ebrahim Zaidani,Desconocido
+823,Hombre,2014-06-12,Idlib,,Hussam Al-Sayed,Desconocido
+824,Hombre,2014-06-12,Idlib,Idlib: Maarat Misreen,Abdulqader Al-Bakri,Desconocido
+825,Hombre,2014-06-12,Damasco,Idlib: Maarat Misreen,Mahmoud Zareefa,Desconocido
+826,Hombre,2014-06-12,Idlib,Idlib: Maarat Misreen,Abdullah bawaba,Desconocido
+827,Hombre,2014-06-12,Damasco,Idlib: Maarat Misreen,Abdulnaser Ahmad Qassab,Desconocido
+828,Hombre,2014-06-12,Idlib,Idlib: Maarat Misreen,Jamal Badla,Desconocido
+829,Hombre,2014-06-12,Desconocido,,Mahmoud Naddaf,Desconocido
+830,Hombre,2012-05-30,Damasco,Barzeh,Muhammad Shaker Abu Najm,Fue transladado a un tribunal antiterrorista
+831,Hombre,2012-06-01,Desconocido,,Maher Husain Kanbar,Condenado a 15 años
+832,Mujer,2012-06-12,Hasakeh,,Kefaa Saleh Al-Ahmad,Pista de campo
+833,Hombre,2012-06-15,Lattakia,,Kusay Aj,Condenado a 15 años
+834,Hombre,2012-06-22,Damasco Rural,Daraya,Muhammad Basher Al-Abbar,Fue transladado a un tribunal antiterrorista
+835,Hombre,2012-06-30,Damasco Rural,Jdaidet Artouz,Obada Muafaq al-Masri,Fue transladado a un tribunal antiterrorista
+836,Hombre,2012-07-05,Raqqa,Slouk,Muhammad Ahmad al-Habeb,Fue transladado a un tribunal antiterrorista
+837,Hombre,2012-07-02,Hama,Halfaya,Muhammad Ahmad Hasan,Fue transladado a un tribunal antiterrorista
+838,Hombre,2012-07-26,Damasco,,Khaled Boqaee,Fue transladado a un tribunal antiterrorista
+839,Mujer,2012-08-12,Daraa,Sanamain,Hebah Ismail Zarqaan,Fue transladado a un tribunal antiterrorista
+840,Hombre,2012-08-04,Raqqa,Tabqeh,Ffahed Shikh Salo,Prueba de campo
+841,Hombre,2012-08-09,Lattakia,,Mohamad Sami Akhras,Sentenciado a 20 años de prisión 
+842,Mujer,2012-08-08,Damasco Rural,Zabadani,Sabaah Khaaled Othmaan,Fue transladado a un tribunal antiterrorista
+843,Hombre,2012-08-25,Damasco Rural,Daraya,Muhammad Basher Al-Abbar,Fue transladado a un tribunal antiterrorista
+844,Hombre,2012-08-27,Damasco Rural,Daraya,Bashar Abdulaziz Janneh,Fue transladado a un tribunal antiterrorista
+845,Hombre,2012-09-05,Damasco Rural,Daraya,Samer Fawzi Shahab,Fue transladado a un tribunal antiterrorista
+846,Hombre,2012-09-29,Damasco,Barzeh,Abdullah Khalil Muhammad Dardas,Prueba de campo
+847,Hombre,2012-09-29,Damasco,Barzeh,Abdulkarem Muhammad Dardas,Prueba de campo
+848,Hombre,2012-09-29,Damasco,Barzeh,Khero Sameer Mouma,Prueba de campo
+849,Hombre,2012-09-29,Damasco,Barzeh,Zyad Saeed Mouma,Prueba de campo
+850,Hombre,2012-09-24,Quneitra,Khan Arnabeh,Nabel Muhammad Zayton,Sentenciado por el tribunal de campo
+851,Hombre,2012-09-28,Damasco,Barzeh,Ibrahim Muhammad Salmah,Prueba de campo
+852,Hombre,2012-09-29,Damasco,Barzeh,Mowafaq Ibrahim Habashiyah,Prueba de campo
+853,Hombre,2012-09-29,Damasco,Barzeh,Ahmed Khaled Habasheah,Juicio de campo
+854,Hombre,2012-09-29,Damasco,Barzeh,Mahmoud Muhammad Salmah,Prueba de campo
+855,Hombre,2012-09-29,Damasco,Barzeh,Muhammad Khaled Habashiyah,Prueba de campo
+856,Hombre,2012-09-29,Damasco,Barzeh,Nader Khaled Habashiyah,Prueba de campo
+857,Mujer,2012-10-01,Homs,Khalidiya,Dalal Al-Kurdi,Fue transladado a un tribunal antiterrorista
+858,Hombre,2012-10-15,Desconocido,,Ali Faisal Mahmoud Al-Taweel,Fue transladado a un tribunal antiterrorista
+859,Hombre,2012-10-11,Damasco Rural,Harasta,Khaled Abdulhamid Muhammad Shaban,Fue transladado a un tribunal antiterrorista
+860,Hombre,2012-10-02,Damasco,,Muhammad Okabah Jamal Qweder,Suspendidio el beneficio del campo judicial
+861,Hombre,2012-10-29,Desconocido,,Ahmed Ali Issa,Suspendido por el tribunal antiterrorista
+862,Hombre,2012-10-29,Lattakia,,Tarek Bro,Suspendidio el beneficio del campo judicial
+863,Hombre,2012-11-28,Damasco Rural,Kanaker,Ali al-Khateeb,Suspendido por el tribunal antiterrorista
+864,Mujer,2012-11-29,Hama,,Bara'a Ahmed Meletot,Fue transladado a un tribunal antiterrorista
+865,Mujer,2012-11-30,Damasco,,Aaya Mahmood Safar,Fue transladado a un tribunal antiterrorista
+866,Hombre,2012-12-06,Damasco Rural,Daraya,Samer Abd al-Razaq Habeeb,Fue transladado a un tribunal antiterrorista
+867,Mujer,2012-12-12,Homs,Baba Amrow,Ayat Khaled Touqanee,Fue transladado a un tribunal antiterrorista
+868,Mujer,2012-12-12,Homs,Baba Amrow,Nora Khaled Touqanee,Fue transladado a un tribunal antiterrorista
+869,Mujer,2012-12-12,Damasco,,Ibtesaam Mohammad Al-Roz,Fue transladado a un tribunal antiterrorista
+870,Mujer,2012-12-12,Homs,,Manaal Khaaled Ala'sar,Fue transladado a un tribunal antiterrorista
+871,Mujer,2012-12-12,Idlib,Ma'arrat Al-Noa'maan: Dear Sharqey,Iemaan Mohammad Al-Jerik,Fue transladado a un tribunal antiterrorista
+872,Mujer,2012-12-12,Damasco,,Seba Mohammad Al-Abd,Fue transladado a un tribunal antiterrorista
+873,Mujer,2012-12-12,Deir Ezzor,,Randah Aowad Hajj Al-Abd,Fue transladado a un tribunal antiterrorista
+874,Mujer,2012-12-12,Tartous,,Reem Mosa,Fue transladado a un tribunal antiterrorista
+875,Mujer,2012-12-28,Desconocido,,Ramzeyah Ahmad Mallesho,Fue transladado a un tribunal antiterrorista
+876,Mujer,2012-12-28,Damasco,,Majdolen Mohammad Saalem Al-Bayer,Fue transladado a un tribunal antiterrorista
+877,Mujer,2012-12-28,Damasco,,Zaaheyah Qaasem Abd Al-Nabey,Fue transladado a un tribunal antiterrorista
+878,Mujer,2013-01-05,Damasco Rural,Daraya,Sahar Taeseer Zyadah,Fue transladado a un tribunal antiterrorista
+879,Hombre,2013-01-13,Damasco Rural,Qalamoon: Ruhaiba,Manar Moustafa,Suspendido por el tribunal antiterrorista
+880,Hombre,2013-01-18,Raqqa,,Ramadaan Kaamel Al-Zaaher,Fue transladado a un tribunal antiterrorista 
+881,Hombre,2013-01-23,Damasco Rural,Daraya,Ammar Yaser Nouh,Fue transladado a un tribunal antiterrorista
+882,Hombre,2013-02-03,Homs,Khalidiya,Qutaeba Ahmed Turkmani,Fue transladado a un tribunal antiterrorista 
+883,Hombre,2013-02-15,Raqqa,,Abd Al-Rahmaan Zeeno,Fue transladado a un tribunal antiterrorista 
+884,Hombre,2013-03-01,Desconocido,,Ibrahem Mohammed Jamal al-Dien,Fue transladado a un tribunal antiterrorista 
+885,Hombre,2013-02-28,Damasco Rural,Daraya,Waleed Rashed Taleb,Fue transladado a un tribunal antiterrorista 
+886,Hombre,2013-02-28,Damasco Rural,Daraya,Abdul-Aziz Sabri Mourad,Fue transladado a un tribunal antiterrorista 
+887,Hombre,2013-03-12,Damasco,Jobar,Mahroos al-Refaai,Suspendido por el tribunal antiterrorista
+888,Hombre,2013-04-16,Desconocido,,Salem Khalel Asaad,Transferido a Fiscalia de Damasco
+889,Hombre,2013-05-05,Desconocido,,Samer Ali Ghazza,Su caso a sido transladado a la Fiscalia de Damasco
+890,Hombre,2013-05-01,Daraa,Nawa,Mohamad Read Solaiman,Condenado a 15 años
+891,Hombre,2013-05-06,Desconocido,,Yahya Ghaleb al-Homsi,Su caso a sido transladado a la Fiscalia de Damasco
+892,Hombre,2013-05-06,Desconocido,,Mazen Raafat al-Aloane,Su caso a sido transladado a la Fiscalia de Damasco
+893,Hombre,2013-06-03,Lattakia,Raml,Ahmad Hasan al-Bkr,Condenado a 15 años - Prueba de campo.
+894,Hombre,2013-06-12,Desconocido,,Ibrahem al-Khatib,Suspendido por el tribunal antiterrorista
+895,Mujer,2013-06-29,Desconocido,,Yosra Khdoor,Interrogado por el tribunal antiterrorista de Damasco
+896,Mujer,2013-06-29,Desconocido,,Zahra al-Masri,Interrogado por el tribunal antiterrorista de Damasco
+897,Mujer,2013-06-29,Damasco,,Maison shakhshero,Interrogado por el tribunal antiterrorista de Damasco
+898,Mujer,2013-06-29,Desconocido,,Mervat Saad al-Dien,Interrogado por el tribunal antiterrorista de Damasco
+899,Mujer,2013-06-29,Desconocido,,Samar al-Ak,Interrogado por el tribunal antiterrorista de Damasco
+900,Mujer,2013-06-29,Desconocido,,Mlak Abdulkarem Al-louz,Interrogado por el tribunal antiterrorista de Damasco
+901,Mujer,2013-06-29,Desconocido,,Rokayyah Mohammad al-Haj Housien,Interrogado por el tribunal antiterrorista de Damasco
+902,Mujer,2013-06-29,Desconocido,,Nadin al-Dorede,Interrogado por el tribunal antiterrorista de Damasco
+903,Mujer,2013-06-29,Desconocido,,Mariam Naddaf,Interrogado por el tribunal antiterrorista de Damasco
+904,Mujer,2013-06-29,Desconocido,,Mariam Khaled al-Asaad,Interrogado por el tribunal antiterrorista de Damasco
+905,Mujer,2013-07-10,Damasco Rural,Jaramana,Samar Mahmoud al-Maghrbe,Interrogado por el tribunal antiterrorista de Damasco
+906,Mujer,2013-07-23,Desconocido,,Soaad Suliman Lakka,Interrogado por el tribunal antiterrorista de Damasco
+907,Mujer,2013-08-12,Desconocido,,Fatemah Farooj,Interrogado por el tribunal antiterrorista
+908,Mujer,2013-08-12,Desconocido,,Reem al-Sarmeene,Interrogado por el tribunal antiterrorista
+909,Mujer,2013-08-12,Desconocido,,Saadah Anjeel,Interrogado por el tribunal antiterrorista
+910,Mujer,2013-08-12,Desconocido,,Nazek al-Shaar,Interrogado por el tribunal antiterrorista
+911,Mujer,2013-08-12,Desconocido,,Freal Abdulrahim,Interrogado por el tribunal antiterrorista
+912,Mujer,2013-08-12,Desconocido,,Fatemah Hammada,Interrogado por el tribunal antiterrorista
+913,Mujer,2013-08-12,Desconocido,,Abeer al-Hasan,Interrogado por el tribunal antiterrorista
+914,Mujer,2013-08-12,Desconocido,,Omyma al-SoSo,Interrogado por el tribunal antiterrorista
+915,Mujer,2013-08-12,Desconocido,,Bayan al-Ghazali,Interrogado por el tribunal antiterrorista
+916,Hombre,2013-08-12,Desconocido,,Nour al-Huda Hawaede,Interrogado por el tribunal antiterrorista
+917,Mujer,2013-08-12,Desconocido,,Dema Tammim,Interrogado por el tribunal antiterrorista
+918,Mujer,2013-08-12,Desconocido,,Ammal Abdulrahman al-Sharra,Interrogado por el tribunal antiterrorista
+919,Mujer,2013-09-15,Damasco Rural,Zabadany,Reham Mohammad Deib Zayton,Interrogado por el tribunal antiterrorista de Damasco
+920,Mujer,2013-10-06,Homs,Karm el-Zaitoun,Fatima Abdulhamid Tu'mah,El tribunal de turismo
+921,Hombre,2013-11-01,Damasco,,Mohamad Zyad Kbreta,Prueba de campo
+922,Hombre,2013-11-28,Damasco,Midan,Mohamad Himamai,Suspendido en favor del tribunal
+923,Hombre,2013-11-28,Homs,,Ayman al-Kordi,Suspendido por el tribunal antiterrorista
+924,Hombre,2013-11-28,Deir Ezzor,,Sad al-Fares,Suspendido por el tribunal antiterrorista
+925,Hombre,2013-11-28,Aleppo,,Ammar Assaf,Suspendido por el tribunal antiterrorista
+926,Hombre,2013-11-28,Damasco,Rukneddin,Abdulmohemen Hannawe,Suspendido por el tribunal antiterrorista
+927,Hombre,2013-11-28,Quneitra,,Ahmad Khbee,Suspendido por el tribunal antiterrorista
+928,Hombre,2013-11-28,Homs,Baba Amr,Monzer Bro,Suspendido por el tribunal antiterrorista
+929,Hombre,2013-11-28,Damasco,Dwelaa,Rami Meshel Samah,Suspendido por el tribunal antiterrorista
+930,Hombre,2013-11-28,Desconocido,,Alaa Faez Kawara,Suspendido por el tribunal antiterrorista
+931,Hombre,2013-11-28,Desconocido,,Muhammad Rffat al-Refai,Suspendido por el tribunal antiterrorista
+932,Hombre,2013-11-28,Desconocido,,Ammar Zaleeto,Suspendidio el beneficio del campo judicial
+933,Hombre,2013-11-28,Desconocido,,Husayn Al-Khatib,Suspendidio el beneficio del campo judicial
+934,Hombre,2013-11-28,Desconocido,,Ahmad al-Khatib,Suspendidio el beneficio del campo judicial
+935,Hombre,2013-11-28,Desconocido,,Moaeed Shbeeb,Suspendidio el beneficio del campo judicial
+936,Hombre,2013-11-28,Desconocido,,Hamzah Batheesh,Suspendidio el beneficio del campo judicial
+937,Hombre,2013-11-28,Desconocido,,Nomer Anwar Shawesh,Suspendidio el beneficio del campo judicial
+938,Hombre,2013-11-28,Desconocido,,Salah al-Mozeb,Suspendidio el beneficio del campo judicial
+939,Hombre,2013-11-28,Desconocido,,Qasem Sheoone,Suspendidio el beneficio del campo judicial
+940,Hombre,2013-11-28,Desconocido,,Bassem Abdulkarim Rahemo,Suspendidio el beneficio del campo judicial
+941,Hombre,2013-11-28,Desconocido,,Bilal al-Atrash,Suspendidio el beneficio del campo judicial
+942,Hombre,2013-11-28,Desconocido,,Mofeed Ibrahem Layla,Suspendidio el beneficio del campo judicial
+943,Hombre,2013-11-28,Desconocido,,Ahmad Othman Tarabelseah,Suspendidio el beneficio del campo judicial
+944,Hombre,2013-11-28,Desconocido,,Maher Saabe,Suspendidio el beneficio del campo judicial
+945,Hombre,2013-11-28,Desconocido,,Muhammad Nawaf,Suspendidio el beneficio del campo judicial
+946,Hombre,2013-11-28,Desconocido,,,Suspendidio el beneficio del campo judicial
+947,Hombre,2013-11-28,Desconocido,,Muhammad Kateesh,Suspendidio el beneficio del campo judicial
+948,Hombre,2014-01-01,Lattakia,,Mohamad Masto,Prueba de campo
+949,Hombre,2014-01-01,Lattakia,,Nawar Andron,Prueba de campo
+950,Hombre,2014-01-01,Lattakia,,Mohamad Walid,Prueba de campo
+951,Hombre,2014-01-01,Hama,soran,Mohamad Rahmon,Condenado a 15 años
+952,Hombre,2014-01-01,Hama,soran,Ahmad Mershi,Condenado a 15 años
+953,Hombre,2014-01-01,Hama,Kafrenabaudeh,Hasan Jaisi,Condenado a 15 años
+954,Hombre,2014-01-01,Damasco,,Nasr Allah,a Pista de campo
+955,Hombre,2014-01-01,Damasco,Barzeh,Belal Ahmad Noman,Prueba de campo
+956,Hombre,2014-01-01,Damasco,Barzeh,Nedal Ahmad Noman,Prueba de campo
+957,Hombre,2014-01-01,Damasco,Barzeh,Mohamad Moafak Habashee,Prueba de campo
+958,Hombre,2014-01-01,Damasco,Barzeh,Iibrahim Mohamad Jomaa Hinnawi,Prueba de campo
+959,Hombre,2014-01-01,Damasco,Barzeh,Ibrahim Ahmad Habashee,Prueba de campo
+960,Hombre,2014-01-01,Damasco,Barzeh,Ahmad Mohamad Zahrawi,Prueba de campo
+961,Hombre,2014-01-01,Damasco,Barzeh,Nouredden Anwar Ardoki,Prueba de campo
+962,Mujer,2014-01-01,Homs,,Nadia Sefo,El tribunal de turismo
+963,Mujer,2014-01-01,Daraa,,Meassar Abd,El tribunal de turismo
+964,Mujer,2014-01-01,Damasco Rural,Zabadany,Marwa As,El tribunal de turismo
+965,Mujer,2014-01-01,Damasco Rural,Beit Sawa,Kamar Jafan,El tribunal de turismo
+966,Mujer,2014-01-09,Daraa,Sheikh Miskeen,Huda Muhammad Abdulaziz al-Diri,Fue transladado a un tribunal antiterrorista
+967,Mujer,2014-01-01,Idlib,Jisr Shagour,Nadra Zeni,El tribunal de turismo
+968,Hombre,0000-00-00,Idlib,marayan,Kasem Mmohamad Adeb Khateb,Pista de campo
+969,Mujer,0000-00-00,Aleppo,Kobani,Hoda Haj,El tribunal de turismo
+970,Mujer,0000-00-00,Damasco,Yarmuk Camp,Hanan Khateb,El tribunal de turismo
+971,Mujer,0000-00-00,Aleppo,,Monira Mahirz,El tribunal de turismo
+972,Mujer,0000-00-00,Aleppo,,Nesreen Zarka,El tribunal de turismo
+973,Mujer,0000-00-00,Otras Nacionalidades,Spanish,Jesela Karkmo,El tribunal de turismo
+974,Mujer,2013-12-09,Lattakia,,Maysoun Qreit,Fue transladado a un tribunal antiterrorista
+975,Mujer,2013-12-09,Lattakia,,Rula Karah Drieq,Fue transladado a un tribunal antiterrorista
+976,Mujer,2013-12-09,Lattakia,,Marwa Dahro,Fue transladado a un tribunal antiterrorista
+977,Hombre,2013-10-27,Lattakia,Bdama,Ibrahem Hesh,Suspendidio el beneficio del campo judicial
+978,Hombre,2013-10-28,Damasco,Salhia,Muhammad Maher Barood,Suspendido por el tribunal antiterrorista
+979,Mujer,2013-08-02,Damasco Rural,Daraya,Maryam Barkat Ellawy,Interrogado por el tribunal antiterrorista de Damasco
+980,Hombre,2013-04-15,Desconocido,,Khaled Muhammad Al-Saloum,Fue transladado a un tribunal antiterrorista
+981,Hombre,2013-04-15,Desconocido,,Samer Khames Meshal,Fue transladado a un tribunal antiterrorista
+982,Hombre,2013-03-19,Desconocido,,Muhammad Merei Odeh,Transferido a Fiscalia de Damasco
+983,Hombre,2013-03-19,Desconocido,,Abdulmalek Shiekh Ahmad,Transferido a Fiscalia de Damasco
+984,Hombre,2013-03-19,Desconocido,,Muhammad Mozhar Muhammad Kamal Mahmoud,Transferido a Fiscalia de Damasco
+985,Hombre,2013-03-19,Desconocido,,Abdulsalam Shiekh Ahmad,Transferido a Fiscalia de Damasco
+986,Mujer,2013-03-19,Desconocido,,Aleaa Odeh,Transferido a Fiscalia de Damasco
+987,Mujer,2013-03-19,Desconocido,,Fatemah Odeh,Transferido a Fiscalia de Damasco
+988,Hombre,2013-03-19,Desconocido,,Amer Ahmad Odeh,Transferido a Fiscalia de Damasco
+989,Hombre,2013-03-19,Desconocido,,Abdulaleem Merie Odeh,Transferido a Fiscalia de Damasco
+990,Hombre,2013-03-13,Desconocido,,Majd Jlilati,Fue transladado a un tribunal antiterrorista
+991,Hombre,2013-03-01,Homs,Ezzedine,Moteb Muhammad Shikati,Suspendidio el beneficio del campo judicial
+992,Hombre,2013-03-01,Damasco Rural,Daraya,Fares Zohair Al-Hossan,Fue transladado a un tribunal antiterrorista
+993,Hombre,2013-01-08,Desconocido,,Amer Muhammad,Suspendido por el tribunal antiterrorista
+994,Hombre,2012-11-27,Damasco Rural,Jdaidet Artouz,Yahya Ghosn,Suspendido por el tribunal antiterrorista
+995,Hombre,2012-10-28,Quneitra,Jobata Khashab,Iead Ali Ghanem,Condenado a 15 años 
+996,Hombre,2012-10-25,Damasco Rural,Kanaker,Alaa al-Khatib,Suspendidio el beneficio del campo judicial
+997,Hombre,2012-09-10,Damasco,Barzeh,Ammar Sadeq Derkhabani,Fue transladado a un tribunal antiterrorista
+998,Hombre,2012-07-15,Damasco Rural,Zabadany,Mohammad Saowaan,Fue transladado a un tribunal antiterrorista

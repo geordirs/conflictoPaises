@@ -1,0 +1,67 @@
+id,fecha,iniciador,objetivo,lugar_especifico,ciudad,provincia,fuente
+1,2015-06-10,Oposicion,Gobierno Sirio,Hrak, Izra',Daraa,SOHR
+2,2015-12-28,Gobierno Sirio,Oposicion,En la Brigada 82, Izra',Daraa,SOHR
+3,2016-04-08,Gobierno Sirio,ISIS,Tassil-1, Izra',Daraa,SOHR
+4,2017-02-20,Gobierno Sirio,Oposicion,Tassil-2, Izra',Daraa,SOHR
+5,2016-04-04,Gobierno Sirio,ISIS,Sheikh Saed, Izra',Daraa,SOHR
+6,2017-03-27,Oposicion,ISIS,Shinwan, Shaqa,Sweida,SOHR
+7,2015-04-30,ISIS,Oposicion,Al este de Samadaniya, Quneitra,Quneitra,Twitter
+8,2014-11-17,Oposicion,Gobierno Sirio,Khan Arnaba, Quneitra,Quneitra,Facebook
+9,2015-10-12,Oposicion,Gobierno Sirio,Tal Ahmar, A'zaz,Aleppo,SOHR
+10,2016-08-25,Oposicion,Gobierno Sirio,Darayya, Darayya,Damasco Rural,SOHR
+11,2016-05-19,Gobierno Sirio,Oposicion,al-Qantara, Duma,Damasco Rural,SOHR
+12,2016-01-11,Oposicion,Gobierno Sirio,al-Balaliya, Duma,Damasco Rural,Media
+13,2015-04-12,Oposicion,Gobierno Sirio,Zamalka,Damasco Rural,Damasco Rural,Media
+14,2016-07-06,Gobierno Sirio,Oposicion,Meidaa, Duma,Damasco Rural,SOHR
+15,2016-07-07,Gobierno Sirio,Oposicion,Rankus, At Tall,Damasco Rural,SOHR
+16,2015-11-22,Gobierno Sirio,ISIS,Hawarin,Homs,Homs,Media
+17,2016-03-27,Gobierno Sirio,ISIS,En Aeropuerto Militar Palmyra-Tadmor, Tadmor,Homs,SOHR
+18,2016-03-26,Oposicion,ISIS,Al-Mutaqa'adin, Tadmor,Homs,SOHR
+19,2015-05-12,Gobierno Sirio,ISIS,al-Sekhna, Tadmor,Homs,SOHR
+20,2017-02-01,Oposicion,ISIS,Salba, As Salamiyeh,Hama,SOHR
+21,2017-03-31,Oposicion,ISIS,Kafr Omeim,Hama,Hama,SOHR
+22,2017-03-31,Gobierno Sirio,Oposicion,Arza,Hama,Hama,SOHR
+23,2017-04-23,Oposicion,ISIS,Zor Abu Zeid,Hama,Hama,SOHR
+24,2017-04-10,ISIS,Oposicion,Maardis,Hama,Hama,SOHR
+25,2016-10-17,ISIS,Gobierno Sirio,Maar Dis,Hama,Hama,SOHR
+26,2017-04-23,Gobierno Sirio,Oposicion,Halfaya, Muhradah,Hama,SOHR
+27,2017-03-31,Gobierno Sirio,Oposicion,Shezer, Muhradah,Hama,SOHR
+28,2016-03-05,Gobierno Sirio,ISIS,En granjas Al-Alam,Deir Ezzor,Deir Ezzor,SOHR
+29,2016-10-08,Gobierno Sirio,Oposicion,Ras Al Ain,Hama,Hama,SOHR
+30,2017-02-12,Gobierno Sirio,ISIS,al-Ommal,Deir Ezzor,Deir Ezzor,SOHR
+31,2016-10-08,ISIS,Oposicion,Khafsine,Hama,Hama,SOHR
+32,2016-02-26,Oposicion,ISIS,Atharia, Al Bab,Aleppo,Twitter
+33,2017-02-16,ISIS,Oposicion,al-Sayyad, Muhradah,Hama,SOHR
+34,2014-12-14,Gobierno Sirio,Oposicion,Punto de control en Ain Qre, Maarrat al-Nu'man,Idlib,Facebook
+35,2015-11-22,Gobierno Sirio,Oposicion,Jeb al-Ahmar, Al Hafa,Lattakia,SOHR
+36,2015-10-10,Gobierno Sirio,Oposicion,Bahsa, As Suqaylabi yah,Hama,SOHR
+37,2015-12-16,Gobierno Sirio,Oposicion,Jabal al-Noba, Al Hafa,Lattakia,Media
+38,2016-02-14,Gobierno Sirio,Oposicion,Majdal Kikhya, Al Hafa,Lattakia,Twitter
+39,2016-02-14,Gobierno Sirio,Oposicion,Bruma, Al Hafa,Lattakia,Media
+40,2016-02-16,Gobierno Sirio,Oposicion,Shalaf, Al Hafa,Lattakia,Twitter
+41,2016-02-14,Gobierno Sirio,Oposicion,Mizyen, Al Hafa,Lattakia,Twitter
+42,2016-01-29,Gobierno Sirio,Oposicion,Karura, Al Hafa,Lattakia,Twitter
+43,2016-01-29,Gobierno Sirio,Oposicion,Eido, Al Hafa,Lattakia,Twitter
+44,2016-02-18,Gobierno Sirio,Oposicion,Kansaba, Al Hafa,Lattakia,SOHR
+45,2016-02-20,Gobierno Sirio,Oposicion,Hamrat, Al Hafa,Lattakia,Twitter
+46,2015-07-27,Gobierno Sirio,Oposicion,Frikeh, Jisr-Ash- Shugur,Idlib,Media
+47,2015-05-28,Gobierno Sirio,Oposicion,Orm Eljoz, Ariha,Idlib,SOHR
+48,2016-01-23,Oposicion,Gobierno Sirio,Hilwet - Sharn,Lattakia,Lattakia,Media
+49,2015-05-10,Oposicion,Gobierno Sirio,Punto de Control en Dubs, Jisr-Ash- Shugur,Idlib,YouTube
+50,2016-02-14,Gobierno Sirio,Oposicion,Beit Ablaq,Lattakia,Lattakia,Twitter
+51,2015-05-28,Oposicion,Gobierno Sirio,Motaram, Ariha,Idlib,YouTube
+52,2015-05-12,Oposicion,Gobierno Sirio,Punto de Control al-Fanar, Ariha,Idlib,YouTube
+53,2015-05-28,Oposicion,Gobierno Sirio,Ariha, Ariha,Idlib,YouTube
+54,2015-05-05,Oposicion,Gobierno Sirio,Tel Ma'rtab'i, Ariha,Idlib,YouTube
+55,2015-05-19,Oposicion,Gobierno Sirio,Nahliya, Ariha,Idlib,YouTube
+56,2015-03-23,Oposicion,Gobierno Sirio,Fabrica al-Mahlaj ,Idlib,Idlib,YouTube
+57,2015-03-25,Oposicion,Gobierno Sirio,Oficina al-Dour ,Idlib,Idlib,YouTube
+58,2015-03-25,Oposicion,Gobierno Sirio,Punto de Control Slaughterhouse,Idlib,Idlib,YouTube
+59,2015-03-24,Oposicion,Gobierno Sirio,En Cuartel de Fabrica Sadkop,Idlib,Idlib,YouTube
+60,2015-03-27,Oposicion,Gobierno Sirio,Idleb 1,Idlib,Idlib,YouTube
+61,2015-03-27,Oposicion,Gobierno Sirio,Idleb 2,Idlib,Idlib,Facebook
+62,2015-03-25,Oposicion,Gobierno Sirio,En punto de control de Binnish,Idlib,Idlib,YouTube
+63,2017-06-04,Oposicion,ISIS,Maskana - Onaiza, Menbij,Aleppo,SOHR
+64,2017-04-22,Oposicion,ISIS,Hazimeh, Ar-Raqqa,Raqqa,SOHR
+65,2016-02-21,Oposicion,ISIS,Ein Sabel, As Safira,Aleppo,Media
+66,2017-03-07,Oposicion,ISIS,Abaja, Menbij,Aleppo,SOHR

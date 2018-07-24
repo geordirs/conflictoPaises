@@ -1,0 +1,70 @@
+yg
+
+para correr solo un determinado numero de veces el crawler
+
+scrapy runspider test2.py -o test2.csv -t csv --set CLOSESPIDER_ITEMCOUNT=30
+
+
+---y se correra 30 veces, nada mas
+
+-------- de martyrs
+tipo_ciudadano = Field()
+	estado_marital = Field()
+	lugar_nacimiento = Field()
+	provincia_muerte = Field()
+	fecha_muerte = Field()
+	causa_muerte = Field()
+	grupo_causante = Field()
+	pertenece_grupo_militar = Field()
+	foto = Field()
+
+------de detenidos
+//*[@id="fullContent"]/div[2]/table/tbody/tr[3]/td[2]
+		//*[@id="fullContent"]/div[2]/table/tbody/tr[16]/td[2]
+		//*[@id="fullContent"]/div[2]/table/tbody/tr[5]/td[2]
+		//*[@id="fullContent"]/div[2]/table/tbody/tr[4]/td[2]
+		//*[@id="fullContent"]/div[2]/table/tbody/tr[11]/td[2]
+		//*[@id="fullContent"]/div[2]/table/tbody/tr[21]/td[2]
+
+-----de desaparecidos
+nombre
+fecha_desaparicion
+sexo
+provincia_desaparicion
+lugar_nacimiento
+fecha_encontrado
+
+//*[@id="fullContent"]/div[2]/table/tbody/tr[4]/td[2]
+		//*[@id="fullContent"]/div[2]/table/tbody/tr[18]/td[2]
+		//*[@id="fullContent"]/div[2]/table/tbody/tr[6]/td[2]
+		//*[@id="fullContent"]/div[2]/table/tbody/tr[5]/td[2]
+		//*[@id="fullContent"]/div[2]/table/tbody/tr[12]/td[2]
+		//*[@id="fullContent"]/div[2]/table/tbody/tr[19]/td[2]
+
+
+----------de carter
+lugar_ataque
+fecha_ataque
+grupo_iniciador
+grupo_objetivo
+ciudad_ataque
+fuente_ataque
+
+
+grupo_iniciador
+grupo_objetivo
+ciudad_ataque
+fuente_ataque
+
+
+
+scrapy crawl nombre_de_crawler -o archivo.csv --set CLOSESPIDER_ITEMCOUNT=20
+
+
+'titulo2':quote.xpath('.//td[2]/text()').extract_first(),
+ 'titulo3':quote.xpath('.//td[3]/text()').extract_first(),
+
+
+
+
+

@@ -1,0 +1,740 @@
+id,provincia_desaparicion,sexo,lugar_nacimiento,fecha_desaparicion,nombre,fecha_encontrado
+1,Sweida,Hombre,Najran,2017-03-18,Jadean Naser,0000-00-00
+2,Aleppo,Hombre,Manbej,2016-06-28,Khalil Amin al-Melhem,0000-00-00
+3,Raqqa,Hombre,,2016-06-16,Alae al-Deen Mohei al-Fihan,0000-00-00
+4,Deir Ezzor,Hombre,Shuhail,2016-07-01,Mohammad al-Mahmoud al-Abd al-Wahab,0000-00-00
+5,Homs,Hombre,Qaryatain,2016-06-10,Khaled Ahmad al-Qaed,0000-00-00
+6,Homs,Hombre,Qaryatain,2016-06-10,Abd al-Kareem Khaled al-Qaed,0000-00-00
+7,Damasco,Hombre,,2016-07-27,Amjad Hisham al-Halabi,0000-00-00
+8,Deir Ezzor,Hombre,Shaitat,2016-08-07,Hamdan al-Aeraj al-Sabeat,0000-00-00
+9,Aleppo,Hombre,Manbej,2016-08-10,Mahmoud Hajawi al-Hwaidi,0000-00-00
+10,Aleppo,Hombre,Bazzaa,2016-08-13,Khaled Abd al-Kareem Mohammad Darweesh,0000-00-00
+11,Aleppo,Hombre,Manbej,2016-08-01,Bashar al-Ali,0000-00-00
+12,Aleppo,Hombre,Kallaseh,2016-08-13,Ali Mohammad Dabbag,0000-00-00
+13,Daraa,Hombre,Bassr Al-Hareer,2016-07-21,Soliman Eisa al-Sayed,0000-00-00
+14,Deir Ezzor,Hombre,,2015-08-13,Ahmad Mohammd al-Hadi,0000-00-00
+15,Hasakeh,Hombre,Mufti neighborhood,2015-09-21,Hasan Naseem al-Naser,0000-00-00
+16,Homs,Hombre,Tairmaaleh,2015-10-16,Haytham al-Hosaini,0000-00-00
+17,Idlib,Hombre,Maart Numan,2015-10-19,Abd al-Razzak al-Younes,0000-00-00
+18,Aleppo,Hombre,,2015-11-01,Salah Adel Abo Zaid,0000-00-00
+19,Hama,Hombre,Aqirbat,2015-09-22,Abd al-Rahman Sobhi Khateeb,0000-00-00
+20,Deir Ezzor,Hombre,,2015-10-01,Faysal Fateh Alloush Nwaiji,0000-00-00
+21,Damasco,Hombre,Jobar,2015-11-03,Ali Joha,0000-00-00
+22,Homs,Hombre,Qaryatain,2015-11-07,Ayham Najeeb al-Saloum,2015-11-09
+23,Idlib,Hombre,Idlib: Salqeen,0000-00-00,Desconocido,0000-00-00
+24,Aleppo,Hombre,,2014-02-01,Yamen Hamdo,0000-00-00
+25,Aleppo,Hombre,Aleppo: Bab Road neighborhood,0000-00-00,Desconocido,0000-00-00
+26,Damasco Rural,Hombre,Zakia,2014-02-01,Ammar Adnan al-Absi,0000-00-00
+27,Aleppo,Hombre,,2014-02-04,Mohammad Atia,0000-00-00
+28,Damasco Rural,Hombre,Harasta,2014-02-03,Hasan Hamdi al-Jazaerli,0000-00-00
+29,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+30,Sweida,Hombre,Najran,2017-03-18,Jadean Naser,0000-00-00
+31,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+32,Daraa,Hombre,Bassr Al-Hareer,2016-07-21,Soliman Eisa al-Sayed,0000-00-00
+33,Homs,Hombre,Qaryatain,2016-06-10,Abd al-Kareem Khaled al-Qaed,0000-00-00
+34,Damasco,Hombre,,2016-07-27,Amjad Hisham al-Halabi,0000-00-00
+35,Aleppo,Hombre,Manbej,2016-08-01,Bashar al-Ali,0000-00-00
+36,Deir Ezzor,Hombre,Shaitat,2016-08-07,Hamdan al-Aeraj al-Sabeat,0000-00-00
+37,Aleppo,Hombre,Manbej,2016-08-10,Mahmoud Hajawi al-Hwaidi,0000-00-00
+38,Aleppo,Hombre,Bazzaa,2016-08-13,Khaled Abd al-Kareem Mohammad Darweesh,0000-00-00
+39,Aleppo,Hombre,Kallaseh,2016-08-13,Ali Mohammad Dabbag,0000-00-00
+40,Idlib,Hombre,,2016-08-13,Ahmad Ahmad Jarad,0000-00-00
+41,Aleppo,Hombre,Manbej,2016-06-28,Khalil Amin al-Melhem,0000-00-00
+42,Raqqa,Hombre,,2016-06-16,Alae al-Deen Mohei al-Fihan,0000-00-00
+43,Raqqa,Mujer,Aleppo,0000-00-00,Desconocido,0000-00-00
+44,Deir Ezzor,Hombre,Shuhail,2016-07-01,Mohammad al-Mahmoud al-Abd al-Wahab,0000-00-00
+45,Homs,Hombre,Qaryatain,2016-06-10,Khaled Ahmad al-Qaed,0000-00-00
+46,Hama,Hombre,Aqirbat,2015-09-22,Abd al-Rahman Sobhi Khateeb,0000-00-00
+47,Deir Ezzor,Hombre,,2015-08-13,Ahmad Mohammd al-Hadi,0000-00-00
+48,Hasakeh,Hombre,Mufti neighborhood,2015-09-21,Hasan Naseem al-Naser,0000-00-00
+49,Daraa,Mujer,Dara: Ebttaa,0000-00-00,Desconocido,0000-00-00
+50,Deir Ezzor,Hombre,,2015-10-01,Faysal Fateh Alloush Nwaiji,0000-00-00
+51,Homs,Hombre,Tairmaaleh,2015-10-16,Haytham al-Hosaini,0000-00-00
+52,Aleppo,Hombre,,2013-09-01,Zakaria Salah al-Deen Akhras,0000-00-00
+53,Aleppo,Hombre,Sheikh Maksoud,2013-09-01,Abdullah Omer Barakat,0000-00-00
+54,Homs,Hombre,Khalidiya,2013-09-01,Fahed Abd al-Sater al-Najjar,0000-00-00
+55,Damasco Rural,Hombre,Sbaineh,2013-09-02,Fakhri Hosain Khaled,0000-00-00
+56,Aleppo,Hombre,,2013-09-02,Sohail Mostafa al-Rashed,0000-00-00
+57,Idlib,Hombre,Saraqib,2013-09-03,Mohammad Jomea Jamal al-Bakeer,0000-00-00
+58,Aleppo,Hombre,Seryan,2013-09-03,Maher Mohammad Naesan al-Abd,0000-00-00
+59,Homs,Hombre,Dahr Magara,2013-09-04,Taki Mahmoud al-Qattan,0000-00-00
+60,Damasco Rural,Hombre,Sayeda Zainab: The camp,2015-08-02,Mohammad Baqer Rida,0000-00-00
+61,Aleppo,Hombre,Kallaseh,2013-09-04,Alae al-Deen Waleed Samneh,0000-00-00
+62,Aleppo,Hombre,,2013-11-10,Abdo Abd al-Hamid al-Ali,0000-00-00
+63,Desconido,Mujer,,2013-11-10,Unidentified,0000-00-00
+64,Homs,Hombre,Qaryatain,2013-11-10,Unidentified,0000-00-00
+65,Aleppo,Hombre,,2014-02-01,Yamen Hamdo,0000-00-00
+66,Aleppo,Hombre,Aleppo: Bab Road neighborhood,0000-00-00,Desconocido,0000-00-00
+67,Damasco Rural,Hombre,Zakia,2014-02-01,Ammar Adnan al-Absi,0000-00-00
+68,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+69,Damasco Rural,Hombre,Harasta,2014-02-03,Hasan Hamdi al-Jazaerli,0000-00-00
+70,Damasco Rural,Hombre,Badda,2012-08-19,Fadey Ali Omar Khratah,0000-00-00
+71,Aleppo,Hombre,Salah Al-Deen,2012-08-19,Mahmood Mohammad Najjar,0000-00-00
+72,Aleppo,Hombre,,2012-01-02,Mahmoud Abd al-Qader Haj Qasem,0000-00-00
+73,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+74,Idlib,Hombre,Kafr Takhareem: Bayates,2012-07-23,Safo Mostafa Moaqia',0000-00-00
+75,Homs,Hombre,,2012-07-23,Alaa' Al-Kharraz,0000-00-00
+76,Idlib,Hombre,Kafr Takhareem: Bayates,2012-07-23,Samer Abd Al-Lateef Abd Al-Salaam,0000-00-00
+77,Damasco,Hombre,Yarmuk Camp,2012-07-23,Feras Zohair Jaza'erly,0000-00-00
+78,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+79,Damasco Rural,Hombre,Harasta,2012-07-23,Osamah Jamaal Swead,0000-00-00
+80,Damasco Rural,Hombre,Seidi Meqdad,2012-07-23,Ahmad Anees Al-Daaly,0000-00-00
+81,Damasco,Hombre,Qaboun,2012-07-24,Yousef Adnan Sharifeh,0000-00-00
+82,Tartous,Hombre,Qadmous,2012-07-24,Ali Abd Allah Soltan,0000-00-00
+83,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+84,Damasco,Hombre,Jobar,2012-07-25,Mohammad Haytham Yatkan,0000-00-00
+85,Damasco,Hombre,Qaboun,2012-07-25,Ibrahim Nathem Muhsen,0000-00-00
+86,Deir Ezzor,Hombre,,2012-07-25,Majdi Abd al-Salam Haj al-Nasif,0000-00-00
+87,Aleppo,Hombre,Sfaireh,2012-07-26,Noah Hosain al-Khalaf,0000-00-00
+88,Aleppo,Hombre,,2012-07-26,Mohammad Ibraheem al-Mohammad,0000-00-00
+89,Hama,Hombre,Salamia,2012-07-26,Nassar Hosain al-Jondi,0000-00-00
+90,Lattakia,Hombre,,0000-00-00,Desconocido,0000-00-00
+91,Damasco Rural,Hombre,Daraya,2012-07-27,Ehaab Ibraheem Rajeh,0000-00-00
+92,Damasco,Hombre,Qadam,2012-07-28,Mohammad Alaa' Al-Saeyed,0000-00-00
+93,Aleppo,Hombre,Abyan,2012-07-29,Abd al-Aziz Mohammad,0000-00-00
+94,Aleppo,Hombre,Salah Al-Deen,2012-07-29,Mahmood Mostafa Al-Lahaam,0000-00-00
+95,Homs,Hombre,Midan,2012-07-30,Akram Shafiq Al-Refaay,0000-00-00
+96,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+97,Aleppo,Hombre,,2012-08-01,Mohammad Nbieh Zahweh,0000-00-00
+98,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+99,Damasco,Hombre,Assali,2012-08-01,Ahmad al-Ameer Zael Hafez,0000-00-00
+100,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+101,Damasco Rural,Hombre,,2012-08-01,Bidar Bozan Abdi,0000-00-00
+102,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+103,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+104,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+105,Aleppo,Hombre,,2012-08-01,Ayoub Ali Hasan Khalil,0000-00-00
+106,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+107,Damasco Rural,Hombre,Madyara,2012-08-01,Omar Ali Iraabey,0000-00-00
+108,Damasco,Hombre,,2012-08-01,Mohammad Asad Ammar,0000-00-00
+109,Damasco,Hombre,,2012-08-01,Qotaiba al-Morei,0000-00-00
+110,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+111,Damasco Rural,Hombre,Al-Tal: Maraba,2012-08-03,Ma'moon Abdo Al-Aghbar,2013-11-07
+112,Damasco,Hombre,Qaboun,2012-08-04,Ammar Hosain Al-Shoghrey,0000-00-00
+113,Daraa,Hombre,,2012-08-03,Esaam Fawaz al-Salim,0000-00-00
+114,Homs,Hombre,,0000-00-00,Desconocido,0000-00-00
+115,Damasco Rural,Hombre,Douma,2012-08-04,Mahmoud Yasin Hamed,2014-10-15
+116,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+117,Damasco,Mujer,,0000-00-00,Desconocido,0000-00-00
+118,Damasco Rural,Hombre,Barda,2012-08-06,Jihad Younes al-Srour,0000-00-00
+119,Damasco Rural,Hombre,Barda,2012-08-06,Mohammad Younes al-Srour,0000-00-00
+120,Damasco Rural,Hombre,Barda,2012-08-06,Riad Younes al-Sorour,0000-00-00
+121,Damasco Rural,Hombre,Bardeh,2012-08-06,Mahmoud Younes al-Srour,0000-00-00
+122,Damasco Rural,Hombre,Bardeh,2012-08-06,Ahmad Younes al-Srour,0000-00-00
+123,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+124,Damasco Rural,Hombre,Douma,2012-08-06,Majed Mostafa Salam,0000-00-00
+125,Daraa,Hombre,Shajara,2012-08-06,Hosain Abd al-Jalil Seifan,0000-00-00
+126,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+127,Damasco,Hombre,,2012-08-08,Desconocido,0000-00-00
+128,Damasco,Hombre,Daf Eshok,2012-08-08,Jameel Taher Omyri,0000-00-00
+129,Damasco,Hombre,Daf Eshok,2012-08-08,Taher Abdo Omyri,0000-00-00
+130,Aleppo,Hombre,,2012-08-08,Mohammad Abo Al-Dahab Ismaiel (Egyptian),0000-00-00
+131,Aleppo,Hombre,Al-Ferdows,2012-08-08,Motea' Mo'allem Al-Qufel,0000-00-00
+132,Homs,Hombre,,2012-08-09,Reifat Mostafa al-Fadel,0000-00-00
+133,Aleppo,Hombre,Salahiddin,2012-08-09,Ahmad Mahmood Fallaha,0000-00-00
+134,Damasco Rural,Hombre,Hejjera,2012-08-09,Samir Mohammad al-Qaseer,0000-00-00
+135,Damasco Rural,Hombre,Al-Tal,2012-08-11,Khaaled Isma'eel Ma'tooq (Abo Ammar),0000-00-00
+136,Damasco Rural,Hombre,Al-Tal,2012-08-11,Abd Al-Kareem Mohammad Baasem Dokhaan,0000-00-00
+137,Damasco Rural,Hombre,Yabrud,2012-08-11,Ahmad Moner Haqoq,0000-00-00
+138,Damasco,Hombre,,2012-08-12,Moafaq Faraj Rabah,0000-00-00
+139,Damasco Rural,Hombre,Al-Tal,2012-08-12,Samer Mowaffaq Kraiz,0000-00-00
+140,Damasco Rural,Hombre,Al-Tal,2012-08-12,Yousof Salaah Kreaz,0000-00-00
+141,Damasco Rural,Hombre,Al-Tal,2012-08-13,Mahfooz Ahmad Azezah,0000-00-00
+142,Damasco Rural,Hombre,Al-Tal,2012-08-13,Mohammad Faysal Ali Saleh,0000-00-00
+143,Homs,Hombre,,2012-08-14,Tammam Mohammad Amin Sabrin,0000-00-00
+144,Aleppo,Hombre,Mare,2012-08-14,Khaled Mohammad Baydoun,0000-00-00
+145,Daraa,Hombre,Maaraba,2012-08-15,Ahmad Abdelqader Deyab,0000-00-00
+146,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+147,Aleppo,Hombre,Marja: Karam Homid,2012-08-15,Abd al-Hamid Ali al-Haj Hamad,0000-00-00
+148,Damasco,Hombre,Damasco: Kafarsusa,0000-00-00,Desconocido,0000-00-00
+149,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+150,Damasco,Hombre,Al-Qaboon,2012-06-03,Gheath Abd Al-Baarey,0000-00-00
+151,Hama,Hombre,Abu Obeida village,2012-06-04,Mohammad Khaled al-Saleh,0000-00-00
+152,Tartous,Hombre,Banias,2012-06-05,Ammar Ahmad al-Jadbeh,0000-00-00
+153,Homs,Hombre,Hula,2012-06-04,Husain Ali Shahoud,0000-00-00
+154,Homs,Hombre,Hseibeih,2012-06-07,Khaled Hosain Idrees al-Mashehadani,0000-00-00
+155,Damasco Rural,Hombre,Al-Tal,2012-08-10,Ahmad Mowaffaq Kraiz,0000-00-00
+156,Homs,Hombre,Bab Sbaa,2012-06-09,Firas Ali Arrouq,0000-00-00
+157,Aleppo,Hombre,Ein Arab,2012-06-08,Ghatheth Sanad al-Mohammad,0000-00-00
+158,Damasco Rural,Hombre,,2012-06-15,Imad al-Deen al-Hamed,0000-00-00
+159,Aleppo,Hombre,Arshaf,2012-06-16,Ahmad Abd Al-Haq Backour,0000-00-00
+160,Daraa,Hombre,Daraa al-Mahata,2012-06-18,Hosain Omar Hallaq,0000-00-00
+161,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+162,Hama,Hombre,,2012-06-19,Mamoon Morey Al-Masry,0000-00-00
+163,Homs,Hombre,Wawiat,2012-06-22,Qasem al-Omer,0000-00-00
+164,Damasco Rural,Hombre,Saqba,2012-06-22,Ali Ahmad Hawwara,0000-00-00
+165,Aleppo,Hombre,,2012-06-23,Absi Ahmad al-Farra,0000-00-00
+166,Desconido,Mujer,Damasco Rural: Al-Tal,0000-00-00,Desconocido,0000-00-00
+167,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+168,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+169,Damasco,Hombre,,2012-06-27,Abd al-Razzaq Mohammad Khadijeh,0000-00-00
+170,Damasco Rural,Hombre,Douma,2012-06-28,Adel Osama al-Tokhi,0000-00-00
+171,Daraa,Hombre,Enkhel,2012-06-28,Mohammad Hosain Al-Mohaisen,0000-00-00
+172,Homs,Hombre,Hula: Kafarlaha,2012-06-28,Mohannad Ahmad Ismaeil,0000-00-00
+173,Damasco Rural,Hombre,Douma,2012-06-29,Desconocido,0000-00-00
+174,Damasco,Hombre,,2012-07-01,Nawar Zakaria Brisheh,0000-00-00
+175,Damasco,Hombre,,2012-08-15,Desconocido,0000-00-00
+176,Aleppo,Hombre,Samiria village,2012-07-01,Mohammad Khair al-Jasem al-Gaber,0000-00-00
+177,Damasco Rural,Hombre,Qutayfah,2012-07-01,Firas Mahmoud Abo Nomeh,0000-00-00
+178,Aleppo,Hombre,,2012-07-01,Abd al-Wahab Qabbani,0000-00-00
+179,Aleppo,Hombre,Aleppo:Qadi Askar,0000-00-00,Desconocido,0000-00-00
+180,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+181,Aleppo,Hombre,Mare,2012-07-01,Qosai Khateeb,0000-00-00
+182,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+183,Aleppo,Hombre,Ard Hamra,2012-07-05,Husam al-Deen Maemo,0000-00-00
+184,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+185,Aleppo,Hombre,Aleppo: Salahiddin,0000-00-00,Desconocido,0000-00-00
+186,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+187,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+188,Aleppo,Hombre,Manbej,2012-07-10,Ibraheem Abbas Mohammad,0000-00-00
+189,Damasco,Hombre,Erbeen,2012-07-11,Ahmad Yasen Al-Hashash,0000-00-00
+190,Damasco Rural,Hombre,Erbeen,2012-07-11,Abd Al-Azeez Mahmood Keshkeh,0000-00-00
+191,Aleppo,Hombre,Tel Rifaat,2012-07-12,Ali Bakri Haj Ali,0000-00-00
+192,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+193,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+194,Idlib,Hombre,Idlib city,0000-00-00,Desconocido,0000-00-00
+195,Damasco Rural,Mujer,,0000-00-00,Desconocido,0000-00-00
+196,Deir Ezzor,Hombre,Mohassan,2012-07-17,Yamen Awwad al-Khlaif,0000-00-00
+197,Homs,Hombre,,0000-00-00,Desconocido,0000-00-00
+198,Homs,Hombre,,0000-00-00,Desconocido,0000-00-00
+199,Damasco,Hombre,,2012-07-17,Mohammad al-Sheikh Musataf,0000-00-00
+200,Aleppo,Hombre,Afrin,2012-07-18,Mohammad Zohair Hosain,0000-00-00
+201,Damasco,Hombre,Abasyeen Neighborhood,2012-07-18,Hosain Mohammad al-Sageer,0000-00-00
+202,Damasco,Hombre,,2012-07-19,Rashed Abdah Al-Rehaany,0000-00-00
+203,Damasco,Hombre,,2012-07-19,Ali Khattab Nassar,0000-00-00
+204,Aleppo,Hombre,Darat Ezzah,2012-07-19,Mohannad Ab Al-Rahmaan Hasan,0000-00-00
+205,Damasco,Mujer,,0000-00-00,Desconocido,0000-00-00
+206,Damasco Rural,Hombre,Sayeda Zainab: The camp,2012-07-19,Mohammad Enad Jalileh,0000-00-00
+207,Idlib,Hombre,Binnish,2012-07-19,Tarek Al-Numer,0000-00-00
+208,Damasco,Hombre,,2012-07-19,Nayef Rageb Amawi,0000-00-00
+209,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+210,Damasco,Hombre,,2012-07-20,Mohammad Jom'ah Qaasem Haaj Qaasem,0000-00-00
+211,Damasco Rural,Hombre,Al-Tal,2012-07-20,Mostafa Talab,0000-00-00
+212,Damasco Rural,Hombre,Jdaidet Artouz,2012-07-20,Ahmad Saood Al-Masry,0000-00-00
+213,Damasco Rural,Hombre,Jdaidet Artouz,2012-07-20,Yousef Ali Ghnem,0000-00-00
+214,Daraa,Hombre,Tafas,2012-07-21,Nawras Mohammad Kewan,0000-00-00
+215,Lattakia,Hombre,,0000-00-00,Desconocido,0000-00-00
+216,Lattakia,Hombre,,0000-00-00,Desconocido,0000-00-00
+217,Lattakia,Hombre,,0000-00-00,Desconocido,0000-00-00
+218,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+219,Damasco Rural,Hombre,Mouadamiyeh,2012-07-22,Khalil al-Gazzawi,0000-00-00
+220,Damasco,Hombre,Tishreen neighborhood,2012-07-22,Ayman Mohammad Layla,0000-00-00
+221,Homs,Hombre,Al-Haolah,2012-07-23,Baraa' Ibraheem Barakaat,0000-00-00
+222,Damasco Rural,Hombre,Al-Tal,2012-07-23,Belal Jehad Saleh,0000-00-00
+223,Deir Ezzor,Hombre,,2012-01-08,Ahmad Ibraheem al-Twal,0000-00-00
+224,Homs,Hombre,Karm Al-Zaytoon,2012-01-15,Obaidah Nader Arrouq,0000-00-00
+225,Damasco,Hombre,,2012-01-17,Zakareya Mohammad Azzam,0000-00-00
+226,Daraa,Hombre,Bassr Al-Hareer,2012-01-20,Husain Ezzat al-Hariri,0000-00-00
+227,Aleppo,Hombre,,2012-01-26,Amer Ali Mahrouseh,0000-00-00
+228,Damasco Rural,Hombre,Harasta,2012-01-27,Mohammad Bassam Muhmendaar,0000-00-00
+229,Damasco,Hombre,Tishreen neighborhood,2012-07-20,Imaad Fa'ez Sardy,0000-00-00
+230,Damasco,Hombre,Hanableh,2012-02-01,Mohammad Emad al-Daghestani,0000-00-00
+231,Daraa,Hombre,Ezraa,2012-02-01,Adeeb Ismaeil al-Ali,0000-00-00
+232,Damasco,Hombre,,2012-02-01,Kamel Mohammad Shwaikh,0000-00-00
+233,Homs,Mujer,Bayada,2012-02-02,Jameelah Amro Al-Nakdaly,0000-00-00
+234,Daraa,Hombre,,2012-02-11,Moetasem Ayman al-Balkhi,0000-00-00
+235,Idlib,Mujer,,2012-02-11,Daughter of Mohammad Qadour,0000-00-00
+236,Aleppo,Hombre,,2012-02-12,Imad Hashem al-Omer,0000-00-00
+237,Idlib,Mujer,Barra,2012-02-11,Amina Abd al-Qader Shartah,0000-00-00
+238,Damasco Rural,Hombre,Hamouria,2012-02-12,Mohammad Abd al-Lateef Hamdan,0000-00-00
+239,Damasco Rural,Hombre,Der Atia,2012-02-15,Bassam Mahmoud al-Zuhaili,0000-00-00
+240,Homs,Hombre,,0000-00-00,Desconocido,0000-00-00
+241,Homs,Hombre,,2012-02-21,Omer Samir al-Sageer,0000-00-00
+242,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+243,Idlib,Hombre,,0000-00-00,Desconocido,0000-00-00
+244,Aleppo,Hombre,Kafour,2012-03-01,Mohammad Hasan al-sagher al-Taleb,0000-00-00
+245,Idlib,Hombre,Damasco,0000-00-00,Desconocido,0000-00-00
+246,Idlib,Hombre,Areeha,2012-03-03,Aabed Haaj Darwesh,0000-00-00
+247,Hama,Hombre,Khattab,2012-03-03,Fadi Ahmad al-Wahab,0000-00-00
+248,Homs,Hombre,Telbeiseh,2012-03-11,Anas Ahmad al-Nabo,0000-00-00
+249,Homs,Hombre,Hula: Kafarlaha,2012-03-11,Muhanad Ahmad al-Husain,0000-00-00
+250,Idlib,Hombre,Khan Sheikhoun,2012-03-15,Mohammad Hasan al-Merati,0000-00-00
+251,Homs,Hombre,Baba Amr,2012-03-15,Ziad Sadem al-Ahmad,0000-00-00
+252,Homs,Hombre,Baba Amr,2012-03-15,Iyad Sadem al-Ahmad,0000-00-00
+253,Idlib,Hombre,,2012-03-17,Khaled al-Asad,0000-00-00
+254,Raqqa,Mujer,,2012-03-17,Latifeh Ahmad al-Mohammad,0000-00-00
+255,Aleppo,Hombre,,2012-03-19,Anas Jamal Jalab,0000-00-00
+256,Aleppo,Hombre,Southern Aleppo Countryside: Al-Hadir town,2012-03-26,Jomea Atiya,0000-00-00
+257,Daraa,Hombre,Al-Shajara,2012-03-23,Hazem Ahmad Abd Al-Haleem Al-Bareedy,0000-00-00
+258,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+259,Deir Ezzor,Hombre,,2012-04-01,Suliman Mosa al-Hosain,0000-00-00
+260,Homs,Hombre,,0000-00-00,Desconocido,0000-00-00
+261,Idlib,Hombre,,0000-00-00,Desconocido,0000-00-00
+262,Homs,Hombre,,2012-04-04,Rasoul Al-Salhany,0000-00-00
+263,Damasco Rural,Hombre,Sbaineh,2012-04-01,Jamal Khaled Mohammad,0000-00-00
+264,Damasco Rural,Hombre,Daraya,2012-04-06,Hosam Balsheh,2013-09-17
+265,Damasco Rural,Hombre,Qudsaya,2012-04-15,"Haidar Abd Al-Azeem Al-Hamadaney ""Iraqi""",0000-00-00
+266,Daraa,Hombre,,2012-04-22,Firas Mohammad Khair al-Jahmani,0000-00-00
+267,Homs,Hombre,Qusour neighborhood,2012-04-22,Idnan Abdulghaffar al-Ghefree,0000-00-00
+268,Homs,Hombre,Qusour neighborhood,2012-04-22,Abdulmaola Abdulghaffar al-Ghefree,0000-00-00
+269,Aleppo,Mujer,,2012-04-22,Fatemah Jom'ah Ameen,0000-00-00
+270,Aleppo,Hombre,,2012-04-24,Abdel Ghafour Janat,0000-00-00
+271,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+272,Idlib,Hombre,,2012-04-08,Mohammad Affara,0000-00-00
+273,Damasco,Hombre,Qaboun,2012-04-27,Omer Mahmoud al-Zayyat,0000-00-00
+274,Damasco Rural,Hombre,Sa'saa,0000-00-00,Desconocido,0000-00-00
+275,Damasco,Hombre,Yarmuk Camp,2012-04-29,Mohammad Ziad Forani,0000-00-00
+276,Homs,Hombre,Waar,2012-05-01,Omer Mohammad al-Aswad,0000-00-00
+277,Damasco,Hombre,Barzeh,2012-05-01,Redwan Mohammad Saeid Heiba,0000-00-00
+278,Damasco,Hombre,Qaboun,2012-05-03,emad El-Deen Mohammad Hasan Antouz,0000-00-00
+279,Homs,Hombre,,2012-05-06,Naser Mowaffaq al-Ikhwan,0000-00-00
+280,Homs,Hombre,,2012-05-06,Hayyan Mohammad Nadim al-Ikhwan,0000-00-00
+281,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+282,Lattakia,Hombre,,0000-00-00,Desconocido,0000-00-00
+283,Damasco,Hombre,,2012-05-15,Ahmad Basher Asalia,2012-06-02
+284,Damasco Rural,Hombre,Al-Tal,2012-05-17,Mohammad Tayser Mohammad al-Ghadban,0000-00-00
+285,Lattakia,Hombre,,0000-00-00,Desconocido,0000-00-00
+286,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+287,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+288,Aleppo,Hombre,,2012-05-25,Ahmad Mohammad Bahloul,0000-00-00
+289,Homs,Mujer,,0000-00-00,Desconocido,0000-00-00
+290,Homs,Mujer,,0000-00-00,Desconocido,0000-00-00
+291,Aleppo,Hombre,Salahiddin,2012-08-15,Wael Abdelqader mousa,0000-00-00
+292,Damasco Rural,Hombre,Harasta,2012-08-16,Ahmad Qasem Al-Fahad,0000-00-00
+293,Damasco Rural,Hombre,Kafr Batna,2012-08-16,Mohammad Fares Reda To'meh,0000-00-00
+294,Damasco,Hombre,Barzeh,2012-08-17,Wesam Ali Sha'baan,0000-00-00
+295,Aleppo,Hombre,Salah Al-Deen,2012-08-17,Gheath Abd Al-Salaam Ameeno,0000-00-00
+296,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+297,Damasco,Hombre,Rukneddin,2012-08-17,Mahmood Abd Al-Waheed Al-Arky,0000-00-00
+298,Damasco,Hombre,Abasyeen Neighborhood,2012-08-17,Mostafa Mohammad al-Khateeb,0000-00-00
+299,Daraa,Hombre,,2012-08-18,Khaled Abdullah al-Kurdi,0000-00-00
+300,Damasco,Mujer,Ruken al-Din,2012-08-18,Youna Solty Nwarah,0000-00-00
+301,Damasco Rural,Hombre,Damasco: Qaboun,0000-00-00,Desconocido,0000-00-00
+302,Hasakeh,Hombre,,0000-00-00,Desconocido,0000-00-00
+303,Aleppo,Hombre,Ashrafieh,2012-10-18,Maher Hesso,0000-00-00
+304,Deir Ezzor,Hombre,Joura Nieghborhood,2012-09-12,Mohammad Yaseen Taha Al-Khaleel,0000-00-00
+305,Daraa,Hombre,Tseel,2012-09-30,Mohammad Khaled al-Natouri,0000-00-00
+306,Damasco Rural,Hombre,Al-Sayeda Zaynab,2012-09-12,Ammar Yousof Al-Aayed,0000-00-00
+307,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+308,Aleppo,Hombre,Solaimaan Al-Halaby,2012-09-30,Abd Al-Ra'ouf Mahmood Helwah,0000-00-00
+309,Deir Ezzor,Hombre,Mohassan,2012-10-01,Ayman Awwad al-Khlaif,0000-00-00
+310,Damasco Rural,Hombre,,2012-10-01,Ahmad Aous Abdelrahman Bebbes,0000-00-00
+311,Damasco Rural,Hombre,Jaramana,2012-10-01,Nazeer Khalil Abdelil,0000-00-00
+312,Aleppo,Hombre,,2012-10-01,Hikmat Hassan Shihabi,0000-00-00
+313,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+314,Damasco,Hombre,Midan,2012-10-01,Hassan Shamout,0000-00-00
+315,Damasco,Hombre,,2012-10-01,Wajeeh Mohammad al-Debes,0000-00-00
+316,Damasco,Hombre,Jobar,2012-10-01,Mohammad Saeid Badawi Faeour,0000-00-00
+317,Idlib,Hombre,Kafrenbil,2012-10-01,Gassan Fayez al-Dyab,0000-00-00
+318,Damasco,Hombre,Qassa'a,2012-10-02,Doraid Falloh,0000-00-00
+319,Damasco,Hombre,New Zahera,2012-10-02,Ghassan Mohammad Khear Haikal,0000-00-00
+320,Daraa,Hombre,,2012-10-03,Sameh Mohammad Ali al-Zubi,0000-00-00
+321,Aleppo,Hombre,,2012-10-03,Ahmad Marwan Ahmad Qllah,0000-00-00
+322,Aleppo,Hombre,Karm Al-Qasr neighborhood,2012-10-03,Oqlah Al-Sabea,0000-00-00
+323,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+324,Hama,Hombre,Taibet Al-Imam,2012-10-04,Ayham Abdelmunaem Khalil,0000-00-00
+325,Idlib,Hombre,Aleppo,2012-10-05,Abd al-Lateef Bahjat al-Zain,0000-00-00
+326,Damasco Rural,Hombre,Jaramana Camp,2012-10-05,"Waheed Mahmood Khalaf ""Palestinian""",0000-00-00
+327,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+328,Hama,Hombre,Damasco Rural: East Ghota,0000-00-00,Desconocido,0000-00-00
+329,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+330,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+331,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+332,Hama,Hombre,,2012-10-01,Ayman Hawa,0000-00-00
+333,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+334,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+335,Damasco,Hombre,Bab Tuma,2012-10-08,Hosaam Mohammad Khear Omrah,0000-00-00
+336,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+337,Damasco,Hombre,,2012-10-08,Desconocido,0000-00-00
+338,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+339,Damasco,Hombre,,2012-10-09,Desconocido,0000-00-00
+340,Aleppo,Hombre,,2012-10-09,Shaleh Ahmad Sabsaby,0000-00-00
+341,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+342,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+343,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+344,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+345,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+346,Damasco,Hombre,,2012-10-10,"Mohammad Boraq Al-Deen Mohammad Al-Ahmad ""Palestinian""",0000-00-00
+347,Damasco Rural,Hombre,Al-Tal,2012-10-10,Saleem Abd Al-Baarey Sinjaab,0000-00-00
+348,Damasco Rural,Hombre,Douma,2012-10-10,Bashar Mohammad Debo,0000-00-00
+349,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+350,Hasakeh,Hombre,,0000-00-00,Desconocido,0000-00-00
+351,Hasakeh,Hombre,,0000-00-00,Desconocido,0000-00-00
+352,Raqqa,Hombre,Thawra,2012-10-12,Ibraheem Hasan al-Khalaf,0000-00-00
+353,Damasco,Hombre,,2012-10-13,Desconocido,0000-00-00
+354,Damasco Rural,Hombre,Jdaidet Artouz,2012-10-13,Nidal Yousef Khalil Mjali,0000-00-00
+355,Homs,Hombre,Bab Sbaa,2012-10-14,Mohammad Hasan Husni al-Hayek,0000-00-00
+356,Raqqa,Hombre,,0000-00-00,Desconocido,0000-00-00
+357,Raqqa,Hombre,,0000-00-00,Desconocido,0000-00-00
+358,Aleppo,Hombre,Bab Neirab,2012-10-14,Imad al-Deen Mahmoud Waez,0000-00-00
+359,Damasco,Hombre,,2012-10-14,Feras Ahmad Wannous,0000-00-00
+360,Damasco Rural,Hombre,Daraya,2012-10-14,Ibrahim Qrh Jouli al-Kurdi,0000-00-00
+361,Damasco,Hombre,New Zahera,2012-10-15,Hasan Fahed al-Baik,0000-00-00
+362,Aleppo,Hombre,Zebdieh,2012-10-15,Abd al-Hamid Abd al-Gani Kasha,0000-00-00
+363,Deir Ezzor,Hombre,Al-Jorah neighborhood,2012-10-15,Rajab Ahmad Al-Mhanna,0000-00-00
+364,Damasco Rural,Hombre,Douma,2012-10-17,Ma'moun Mahmoud Al-Shaikh Ibraheem,0000-00-00
+365,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+366,Damasco Rural,Hombre,Douma,2012-10-17,Mahmoud Al-Shaikh Ibraheem,0000-00-00
+367,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+368,Damasco Rural,Hombre,Erbeen,2012-10-17,Abd Al-Hady Ali Al-Sayed Hasan,0000-00-00
+369,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+370,Aleppo,Hombre,Sukkari neighborhood,2012-09-12,Abd al-Kafi Ahmad al-Omer,0000-00-00
+371,Damasco Rural,Hombre,Erbeen,2012-09-12,Abd Al-Haq Mohammad Eed Al-Hallaq,0000-00-00
+372,Homs,Hombre,Baba Amr,2012-09-12,Walid Maseoud Ihmaidi,0000-00-00
+373,Damasco,Hombre,Yarmuk Camp,2012-09-13,Nabil Saleh Aboud,0000-00-00
+374,Damasco Rural,Hombre,Douma,2012-09-13,Abd Allah Ameen Al-Maleeh,0000-00-00
+375,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+376,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+377,Aleppo,Hombre,,2012-09-14,Ahmad Mohammad Ezzo,0000-00-00
+378,Damasco Rural,Hombre,Al-Tal,2012-09-15,Desconocido,0000-00-00
+379,Damasco,Hombre,Hajar Aswad,2012-09-14,Hashem Khalil Yafawi,0000-00-00
+380,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+381,Damasco Rural,Hombre,Hafir,2012-09-15,Fawaz Jamal Aysheh,0000-00-00
+382,Aleppo,Hombre,,2012-09-15,Ayman Faysal Qattan,0000-00-00
+383,Homs,Hombre,,2012-09-15,Qsai Mohammad Lattouf,0000-00-00
+384,Idlib,Hombre,,2012-09-15,Ahmad Al-Hasan,0000-00-00
+385,Damasco,Hombre,,2012-09-16,Desconocido,0000-00-00
+386,Damasco Rural,Hombre,Tal: Herneh,2012-09-17,Amjad Muwafaq Jandal,0000-00-00
+387,Lattakia,Hombre,,2012-09-17,Nedaal Sa'eed Mohammad Sa'eed,0000-00-00
+388,Deir Ezzor,Hombre,,2012-09-17,Mahmoud Hasan Hwaili,0000-00-00
+389,Damasco,Hombre,Salhia,2012-09-17,Mo'men Mohammad Rateb Al-Kojk,0000-00-00
+390,Damasco,Hombre,Qaboun,2012-09-17,Fayez Mahmood Al-Madany,0000-00-00
+391,Damasco Rural,Hombre,Daraya,2012-09-12,Mohammad Ahmad Khoulani,0000-00-00
+392,Lattakia,Hombre,,0000-00-00,Desconocido,0000-00-00
+393,Lattakia,Hombre,,0000-00-00,Desconocido,0000-00-00
+394,Lattakia,Hombre,,2012-09-18,Ibrahim Khaled Saed,0000-00-00
+395,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+396,Hasakeh,Hombre,Amuda,2012-09-18,Faysal Mohammad Mahmoud,0000-00-00
+397,Damasco Rural,Hombre,Douma,2012-09-19,Alae Hasan Ismaeil Qablawi,0000-00-00
+398,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+399,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+400,Damasco,Hombre,Naher Aysha,2012-09-19,Mohammad Saleh Ismaeil,0000-00-00
+401,Damasco,Hombre,,2012-09-20,Khaled Aadel Al-Madany,0000-00-00
+402,Daraa,Hombre,Hirak,2012-09-20,Mohammad Khaled Eid al-Hariri,0000-00-00
+403,Damasco Rural,Hombre,Harasta,2012-09-20,Naser Abdelrahman Dawi,0000-00-00
+404,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+405,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+406,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+407,Damasco,Hombre,,2012-09-22,Mohammad Tayseer Mohammad Ayman Mrayati,0000-00-00
+408,Hama,Hombre,,2012-09-22,Ahmad Mohammad Shaeban,0000-00-00
+409,Damasco,Hombre,Dommar Project,2012-09-22,Mohammad Taiseer Meryatey,0000-00-00
+410,Damasco,Hombre,,2012-09-22,Waseem Abo Wafeeq Qaoley,0000-00-00
+411,Damasco,Hombre,Naher Aysha,2012-09-22,Yehya Mostafa Asfora,0000-00-00
+412,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+413,Aleppo,Hombre,Salwa Village,2012-09-22,Mukhtar Zaki Kamal Mohammad,0000-00-00
+414,Homs,Hombre,,0000-00-00,Desconocido,0000-00-00
+415,Damasco,Hombre,Qazaz,2012-09-25,Anwar Ahmad al-Kheyami,0000-00-00
+416,Aleppo,Hombre,Fafin,2012-09-25,Nihad Bakri Imam,0000-00-00
+417,Damasco Rural,Hombre,Der Atia,2012-09-25,Ahmad Qasem Abdoh,0000-00-00
+418,Damasco,Hombre,,2012-09-25,Sha'ban Taher Omyri,0000-00-00
+419,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+420,Damasco,Mujer,,2012-09-25,Desconocido,0000-00-00
+421,Damasco Rural,Hombre,Al-Tal: Herneh,2012-09-25,Mohammad Husain Anbara,0000-00-00
+422,Hama,Hombre,,2012-09-26,Salah al-Deen Mohammad Gazi al-Osta,0000-00-00
+423,Damasco,Hombre,,2012-09-26,Alaa' Zohair Abd Al-Wahaab Faowaz (Jordanian),0000-00-00
+424,Homs,Hombre,Al-Hamra,2012-09-26,Saif Al-Deen Mohammad Wasfy Al-Jondy,0000-00-00
+425,Deir Ezzor,Hombre,,2012-09-26,Ragheb Al-Sarah,2012-09-26
+426,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+427,Damasco Rural,Hombre,Jdaidet Artouz,2012-09-27,Moahmmad Ayham al-Buqaee,0000-00-00
+428,Homs,Hombre,,2012-09-29,Nezar al-Habbal,0000-00-00
+429,Damasco,Mujer,Al-Baramekah,2012-08-27,Rama Al-Asas,0000-00-00
+430,Damasco,Hombre,Jobar,2012-08-27,Wael Reslan,0000-00-00
+431,Damasco Rural,Hombre,East Ghota,2012-08-27,Tareq Hayedar,0000-00-00
+432,Damasco,Hombre,Kafarsusa,2012-08-28,Ahmad Asfour,0000-00-00
+433,Damasco Rural,Hombre,Sayeda Zainab,2012-09-29,Mohammad Emad Mohammad Nazir Bayloun,0000-00-00
+434,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+435,Damasco,Hombre,,2012-08-28,Desconocido,0000-00-00
+436,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+437,Aleppo,Hombre,,2012-08-28,Yaser Mohammad Mohammad Ali,0000-00-00
+438,Damasco,Hombre,Al-Qaboon,2012-08-28,Mohammad Jamel Toameh,0000-00-00
+439,Idlib,Hombre,Kafroumah,2012-08-28,Saber Khaled Bayour,0000-00-00
+440,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+441,Damasco Rural,Hombre,,2012-08-30,Salim Bakoura,0000-00-00
+442,Aleppo,Hombre,Salahiddin,2012-08-30,Yousef Mohammad Khair Falaha,0000-00-00
+443,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+444,Damasco,Hombre,,2012-09-01,"Mohammad Nabil Deeb Arafeh ""al-Saed""",0000-00-00
+445,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+446,Idlib,Hombre,Barra,2012-09-01,Ahmad Abdel kareem al-Nasouh,0000-00-00
+447,Damasco Rural,Hombre,Hazza,2012-09-01,Yousof Sohel Al-Otany,0000-00-00
+448,Aleppo,Hombre,Marja: Karam Homid,2012-09-01,Mohammad Farouk Bakri,0000-00-00
+449,Damasco Rural,Hombre,Harasta,2012-09-01,Saddam Hamad Al-Harb,0000-00-00
+450,Daraa,Hombre,,2012-09-01,Mohammad Khaled Al-Natoor,0000-00-00
+451,Damasco,Hombre,,2012-09-01,Khaled Ali Hajouleh,0000-00-00
+452,Damasco Rural,Hombre,Mleha,2012-09-01,Khaled Mostafa al-Kayali,0000-00-00
+453,Homs,Hombre,Jouret Shiyah,2012-09-01,Abd al-Rahman Ismaeil al-Ahmad,0000-00-00
+454,Daraa,Hombre,Lajat,2012-09-01,Salama Mosa Awdeh,0000-00-00
+455,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+456,Raqqa,Hombre,,0000-00-00,Desconocido,0000-00-00
+457,Damasco,Hombre,,2012-09-02,Shadi Wajeh Habashia,0000-00-00
+458,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+459,Damasco Rural,Hombre,Erbeen,2012-09-04,Majed Baydoun,0000-00-00
+460,Idlib,Hombre,Hama: Salamia,2012-09-02,Abd al-Qader Qassom,0000-00-00
+461,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+462,Damasco Rural,Hombre,Hejjera,2012-09-04,Ismaeil al-Hasan,0000-00-00
+463,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+464,Damasco Rural,Hombre,Harasta,2012-09-07,Samir Mohammad Khair al-Lahham,0000-00-00
+465,Damasco,Hombre,Baghdad Street,2012-09-07,Fadi Asha,0000-00-00
+466,Daraa,Hombre,Khirbet Ghazaleh,2012-09-09,Orwa Samir Ahmad al-Haj Ali,0000-00-00
+467,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+468,Aleppo,Hombre,,2012-09-10,Desconocido,0000-00-00
+469,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+470,Damasco Rural,Hombre,,2012-09-10,Mohammad Ahmad Touj,0000-00-00
+471,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+472,Hama,Hombre,,2012-09-10,Obaida Jamal Barodi,0000-00-00
+473,Aleppo,Hombre,Deir Hafir,2012-09-11,Aboud Farouq al-Ali al-Aboud,0000-00-00
+474,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+475,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+476,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+477,Damasco,Hombre,,2012-09-11,Mosa al-Mohammad al-Ali,0000-00-00
+478,Aleppo,Hombre,Khalidiya,2012-09-12,Mohammad Basel Fostoq,0000-00-00
+479,Damasco Rural,Hombre,Erbeen,2012-09-12,Ahmad Awad,0000-00-00
+480,Damasco,Hombre,,2012-09-12,Eyaad Mohammad Ameen Al-Saqal,0000-00-00
+481,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+482,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+483,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+484,Aleppo,Hombre,Sukkari neighborhood,2012-10-18,Abd al-Qader Bader,0000-00-00
+485,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+486,Deir Ezzor,Hombre,Jbaila,2012-10-20,Abd Al-Rahmaan Mohammad Al-Alouch,0000-00-00
+487,Damasco Rural,Hombre,Jdaidet Artouz,2012-10-21,Ayman Mohammad al-Masri,0000-00-00
+488,Aleppo,Hombre,Bustan el-Qassr,2012-10-21,Hosain Abd al-Qader al-Ali,0000-00-00
+489,Damasco Rural,Hombre,Jaramana,2012-10-21,Ammar al-Tarabolsi,2012-10-26
+490,Idlib,Hombre,,2012-10-22,Abd al-Fattah al-Omer,0000-00-00
+491,Damasco,Hombre,,2012-10-21,Hesham Saief El-Deen Ezz El-Deen,0000-00-00
+492,Quneitra,Hombre,,0000-00-00,Desconocido,0000-00-00
+493,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+494,Damasco,Hombre,Barzeh,2012-11-02,Bolos Saamey Mnajeh,0000-00-00
+495,Damasco Rural,Hombre,Harasta,2012-11-03,Ahmad Adnaan Al-Halbony,0000-00-00
+496,Damasco Rural,Hombre,Douma,2012-11-03,Saleem Souleman Khebeih,0000-00-00
+497,Damasco Rural,Hombre,Douma,2012-11-03,Sa'eed Mohammad Al-Rehaney,0000-00-00
+498,Hama,Mujer,Wadi Al-Oyoon,2012-12-03,Samar Anees Al-ali,0000-00-00
+499,Aleppo,Hombre,Maskana,2012-12-03,Mohammad Khalaf Al-Jadaan,0000-00-00
+500,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+501,Deir Ezzor,Hombre,Al-Tebney,2012-12-04,Mahmood Mohammad Al-Abboush,0000-00-00
+502,Aleppo,Mujer,,2012-12-04,Desconocido,0000-00-00
+503,Damasco Rural,Hombre,Al-Hamah,2012-12-04,Mansour Hmead Snoubar,0000-00-00
+504,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+505,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+506,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+507,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+508,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+509,Damasco,Hombre,,2012-10-22,Tammam Nada,0000-00-00
+510,Damasco Rural,Hombre,Erbeen,2012-12-06,Noor Al-Deen No'maan Al-Qalesh (Nory),0000-00-00
+511,Hasakeh,Hombre,,0000-00-00,Desconocido,0000-00-00
+512,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+513,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+514,Damasco,Hombre,Qazzaz,2012-12-07,Waseem Mohammad Badawi Shweaki,0000-00-00
+515,Idlib,Hombre,,0000-00-00,Desconocido,0000-00-00
+516,Damasco,Hombre,,2012-12-08,Rami al-Satta,0000-00-00
+517,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+518,Daraa,Mujer,,0000-00-00,Desconocido,0000-00-00
+519,Daraa,Mujer,,0000-00-00,Desconocido,0000-00-00
+520,Aleppo,Hombre,Nile Street,2012-12-08,Mohammad Mahmoud Barakat,0000-00-00
+521,Aleppo,Hombre,Nile Street,2012-12-08,Kamel Mahmoud Barakat,0000-00-00
+522,Damasco,Hombre,Fahameh,2012-12-08,Abd al-Majeed Tarablsi,0000-00-00
+523,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+524,Damasco,Hombre,Yarmuk Camp,2012-12-09,Saleh Ghazy Al-Ali,0000-00-00
+525,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+526,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+527,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+528,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+529,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+530,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+531,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+532,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+533,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+534,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+535,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+536,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+537,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+538,Damasco Rural,Hombre,Daraya,2012-12-10,Mohammad Abd al-Majeed Hamada,0000-00-00
+539,Aleppo,Hombre,Bab el-Hadeed,2012-12-10,Mahmoud Ibraheem Dandi,0000-00-00
+540,Aleppo,Hombre,Aleppo: Ramouseh,0000-00-00,Desconocido,0000-00-00
+541,Damasco Rural,Hombre,Jdaidet Al-Shaibany,2012-12-10,"Tarek Aadel Baltajy "" Lebanese""",0000-00-00
+542,Damasco,Hombre,Al-Qaboon,2012-12-10,Abd Al-Haleem Mohammad Shbeab,0000-00-00
+543,Homs,Hombre,Hula: Kafarlaha,2012-12-10,Samir Mohammad al-Awead,0000-00-00
+544,Homs,Hombre,Homs: Dablan,0000-00-00,Desconocido,0000-00-00
+545,Damasco,Hombre,Qusour,2012-12-11,Mohammad Wasim Abd al-Qader al-Sawwaf,0000-00-00
+546,Damasco,Hombre,Yarmouk camp,2012-12-11,"Anas Ghazwan Al-Naqley ""Al-Dawoody""",0000-00-00
+547,Damasco,Hombre,Qadam,2012-12-11,Ibraheem Zraikat,0000-00-00
+548,Damasco,Hombre,,2012-12-11,Bashar Mohammad Ali al-Najjar,0000-00-00
+549,Aleppo,Hombre,,2012-12-12,Abd al-Kafi Abd al-Dayem Ibraheem,0000-00-00
+550,Damasco Rural,Hombre,,2012-12-12,Ahmad Abdo Kashkoush,0000-00-00
+551,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+552,Sweida,Hombre,,0000-00-00,Desconocido,0000-00-00
+553,Damasco,Hombre,Mazzeh,2012-12-12,Mohammad Samer al-Dada,0000-00-00
+554,Damasco Rural,Mujer,Al-Jubah,2012-12-12,Marwa Nawaf Omar,0000-00-00
+555,Damasco Rural,Hombre,Damasco Rural: Al-Tal: Maraba,0000-00-00,Desconocido,0000-00-00
+556,Idlib,Hombre,,0000-00-00,Desconocido,0000-00-00
+557,Damasco Rural,Hombre,,2012-12-13,Abd Al-Rahmaan Fayez Al-Saeedy,0000-00-00
+558,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+559,Aleppo,Hombre,New Aleppo,2012-12-13,Barae Abd al-Haseeb Khawatmi,0000-00-00
+560,Aleppo,Hombre,Muyassar neighborhood,2012-12-13,Mhamoud Nakmi,0000-00-00
+561,Damasco,Hombre,Midan,2012-12-13,Mohammad Fares Muhdar,0000-00-00
+562,Idlib,Hombre,,0000-00-00,Desconocido,0000-00-00
+563,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+564,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+565,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+566,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+567,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+568,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+569,Idlib,Hombre,Binnish,2012-12-13,Basel Haj Hashem,0000-00-00
+570,Damasco,Hombre,,2012-12-14,Nedal Khalifa,0000-00-00
+571,Damasco Rural,Hombre,Mouadamiyeh,2012-12-14,Khaled Mohammad Matar,0000-00-00
+572,Damasco,Hombre,Barzeh,2012-12-14,Majed Bahej Esh,0000-00-00
+573,Damasco Rural,Mujer,,0000-00-00,Desconocido,0000-00-00
+574,Damasco,Hombre,,2012-12-15,Mohammad Sobhi Mojber,0000-00-00
+575,Damasco Rural,Hombre,Erbeen,2012-12-15,Mohammad Hani Fawaz al-Hashsh ///  martyred,0000-00-00
+576,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+577,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+578,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+579,Damasco,Hombre,,2012-11-05,Mohammad Shafiq al-Sherbaji al-Mzayek,0000-00-00
+580,Damasco,Hombre,Barzeh,2012-11-05,Muhran Omar Zaza,0000-00-00
+581,Idlib,Hombre,Ma'arrat Al-Noa'maan,2012-11-05,Zakareya Mahmood Al-Mahlool,0000-00-00
+582,Damasco Rural,Hombre,Douma,2012-11-06,Mohammad Hasan Al-Saa'or,0000-00-00
+583,Idlib,Hombre,,0000-00-00,Desconocido,0000-00-00
+584,Damasco,Hombre,,2012-11-05,Ahmad Faysal Betaar,0000-00-00
+585,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+586,Homs,Hombre,,0000-00-00,Desconocido,0000-00-00
+587,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+588,Homs,Hombre,,2012-11-05,Deaa Al-Deen Al-Da'as,0000-00-00
+589,Damasco,Hombre,Shaghour,2012-11-08,Hosain Isam al-Gabra,0000-00-00
+590,Damasco Rural,Hombre,Hazza,2012-11-08,Ibraheem Abd Al-Kareem Al-Otany,0000-00-00
+591,Damasco Rural,Hombre,Daf Al-Shuk,2012-11-08,Feras Mohammad Faroq Al-Maleh,0000-00-00
+592,Deir Ezzor,Mujer,Mayadeen,2012-11-06,Yasmin Hadi al-Abdullah,0000-00-00
+593,Aleppo,Hombre,,2012-11-09,Ahmad Zaki Yasin,0000-00-00
+594,Damasco,Hombre,Yarmuk Camp,2012-11-09,Ahmad Tawfeeq Adnan Wakeel,0000-00-00
+595,Aleppo,Hombre,Sheikh Maksoud,2012-11-10,Mohammad Bader Abdullah,0000-00-00
+596,Damasco Rural,Hombre,Ein Tarma,2012-11-09,Yazin Mohammad Yaseen al-Sati,0000-00-00
+597,Aleppo,Hombre,Hritan,2012-11-10,Zaher Mahmoud Akrae,0000-00-00
+598,Damasco Rural,Hombre,Der Atia,2012-11-10,Wahbeh Jalal al=Zuhaili,0000-00-00
+599,Aleppo,Hombre,Hritan,2012-11-10,Abd al-Rahman Mahmoud Akrae,0000-00-00
+600,Idlib,Hombre,Kafrenbil,2012-11-10,Monzer Idrees al-Othman,0000-00-00
+601,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+602,Damasco Rural,Hombre,Harasta,2012-11-11,Zaher Jehad Murad,0000-00-00
+603,Homs,Hombre,,0000-00-00,Desconocido,0000-00-00
+604,Homs,Hombre,,0000-00-00,Desconocido,0000-00-00
+605,Homs,Hombre,,0000-00-00,Desconocido,0000-00-00
+606,Homs,Mujer,,2012-11-11,Desconocido,0000-00-00
+607,Damasco,Hombre,,2012-11-11,Abd Al-Azeez Mohammad Ali,0000-00-00
+608,Damasco,Hombre,,2012-11-11,Zohair Mahmood Alaya,0000-00-00
+609,Damasco,Hombre,,2012-11-11,Raafey Sosaan,0000-00-00
+610,Damasco,Hombre,,2012-11-11,Abd al-Rahman Malek Morshed,0000-00-00
+611,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+612,Deir Ezzor,Hombre,Deir Ezzor: Hamidiya,0000-00-00,Desconocido,0000-00-00
+613,Deir Ezzor,Hombre,Deir Ezzor: Hamidiya,0000-00-00,Desconocido,0000-00-00
+614,Raqqa,Hombre,,2012-11-12,Samer Mohammad Atrash,0000-00-00
+615,Aleppo,Hombre,Aazameyah,2012-11-13,Omar Abd Al-Qahaar Sattout,0000-00-00
+616,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+617,Damasco,Hombre,Sahnaya,2012-11-14,Mohammad Nedaal Krayem,0000-00-00
+618,Damasco,Hombre,,2012-11-14,Baraa Fawaz al-Hendi,0000-00-00
+619,Deir Ezzor,Mujer,,0000-00-00,Desconocido,0000-00-00
+620,Deir Ezzor,Hombre,,0000-00-00,Desconocido,0000-00-00
+621,Deir Ezzor,Hombre,,0000-00-00,Desconocido,0000-00-00
+622,Deir Ezzor,Mujer,,0000-00-00,Desconocido,0000-00-00
+623,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+624,Deir Ezzor,Mujer,,0000-00-00,Desconocido,0000-00-00
+625,Deir Ezzor,Hombre,,0000-00-00,Desconocido,0000-00-00
+626,Deir Ezzor,Hombre,,0000-00-00,Desconocido,0000-00-00
+627,Homs,Hombre,Qusair,2012-11-15,Abdel Wakel Faraj al-Amouri,0000-00-00
+628,Damasco Rural,Mujer,,0000-00-00,Desconocido,0000-00-00
+629,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+630,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+631,Daraa,Hombre,Dara Al-Balad,2012-11-15,Mohammad Qasem Qaadan,0000-00-00
+632,Damasco Rural,Hombre,Daraya,2012-11-15,Yousef Raslan Shamma,0000-00-00
+633,Damasco Rural,Hombre,Daraya,2012-11-15,Abd Al-Kareem Al-Refaai,0000-00-00
+634,Damasco,Hombre,Jobar,2012-11-17,Abd Al-Rahmaan Majed Abd Allah Al-Badawe,2013-06-11
+635,Deir Ezzor,Hombre,Joura Nieghborhood,2012-11-16,Ali Ahmad al-Ali,0000-00-00
+636,Damasco,Hombre,Jobar,2012-11-17,Majed Abd Allah Al-Badawe,2013-06-11
+637,Damasco,Hombre,,2012-11-17,Desconocido,0000-00-00
+638,Damasco Rural,Hombre,Yalda,2012-11-17,Feraas Mohammad Awedaat,0000-00-00
+639,Damasco Rural,Hombre,Damasco Rural: Adra,0000-00-00,Desconocido,0000-00-00
+640,Damasco Rural,Hombre,Daraya,2012-11-18,Saeed Jameel Moaddamany,0000-00-00
+641,Damasco Rural,Hombre,Daraya,2012-11-18,Alae Salim al-Qareh,2013-11-13
+642,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+643,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+644,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+645,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+646,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+647,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+648,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+649,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+650,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+651,Daraa,Hombre,Dara Al-Balad,2012-11-15,Samer Qasem Qaadan,0000-00-00
+652,Aleppo,Hombre,,2012-11-20,Yousef al-Helo,0000-00-00
+653,Aleppo,Hombre,,2012-11-20,Mahmoud al-Helo,0000-00-00
+654,Aleppo,Hombre,,2012-11-20,Mohammad al-Helo,0000-00-00
+655,Damasco Rural,Hombre,Daraya,2012-11-21,Mohammad Ahmad Kholany,0000-00-00
+656,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+657,Damasco,Hombre,,2012-11-22,Desconocido,0000-00-00
+658,Damasco Rural,Mujer,,2012-11-22,Desconocido,0000-00-00
+659,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+660,Damasco Rural,Hombre,Beit Sahm,2012-11-22,Aamer Ebraheem Al-Obary,0000-00-00
+661,Hama,Hombre,,2012-11-22,Marwan Khaled al-Terk,0000-00-00
+662,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+663,Damasco Rural,Hombre,Daraya,2012-11-23,Ayman Ahmad Ziadeh,0000-00-00
+664,Damasco,Hombre,,2012-11-23,Mohammad Nour al-Deen Mezyan,0000-00-00
+665,Damasco Rural,Hombre,Sayeda Zainab,2012-11-24,"Najm Abd Mohammad ""Iraqi""",0000-00-00
+666,Aleppo,Hombre,Hulluk: Ein el-Tal,0000-00-00,Desconocido,0000-00-00
+667,Damasco Rural,Hombre,Daraya,2012-11-24,Helaal Mohammad Omraany,0000-00-00
+668,Damasco Rural,Mujer,,0000-00-00,Desconocido,0000-00-00
+669,Aleppo,Hombre,Qadey Askar,2012-11-24,Mohammad Mahmood Shushmaan,0000-00-00
+670,Desconido,Hombre,,2012-11-25,Ahmad Mohammad al-Kordi,0000-00-00
+671,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+672,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+673,Damasco Rural,Hombre,Douma,2012-11-25,Baby was found on the road of Douma-Adra.,0000-00-00
+674,Damasco,Hombre,,2012-11-25,Yaseen Yousof,0000-00-00
+675,Aleppo,Hombre,Kafr Hamra,2012-11-25,Zaher Mahmood Al-Agha,0000-00-00
+676,Damasco Rural,Hombre,,2012-12-08,Desconocido,0000-00-00
+677,Damasco Rural,Hombre,Daraya,2012-11-25,Fares Bashar al-Abbar,2012-12-08
+678,Aleppo,Hombre,,2012-11-25,Ahmad al-Qadour al-Shaikh,0000-00-00
+679,Damasco,Hombre,Yarmuk Camp,2012-11-25,"Younos Yahya Al-Batal ""Palestinian""",0000-00-00
+680,Damasco Rural,Hombre,Tal,2012-11-26,Mohammad Mahfouz Qadoura,0000-00-00
+681,Homs,Mujer,Tall Al-Naqah,2012-11-26,Iemaan Abd Al-Hameed Al-Shamy,0000-00-00
+682,Damasco,Hombre,,2012-11-26,Khaldoun Mohammad al-Olabi,0000-00-00
+683,Damasco,Hombre,Yarmouk Camp,2012-11-27,Mohammad Nayef al-Haj Ahmad,0000-00-00
+684,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+685,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+686,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+687,Lattakia,Hombre,,0000-00-00,Desconocido,0000-00-00
+688,Damasco Rural,Mujer,,0000-00-00,Desconocido,0000-00-00
+689,Damasco Rural,Hombre,Al-Tal,2012-11-28,Abd Al-Azeez Ahmad Dokhan,0000-00-00
+690,Damasco,Hombre,,0000-00-00,Desconocido,0000-00-00
+691,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+692,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+693,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+694,Aleppo,Hombre,,0000-00-00,Desconocido,0000-00-00
+695,Damasco Rural,Hombre,Ghezlania,2012-12-01,Mohammad Abdo Fodail,0000-00-00
+696,Idlib,Hombre,,2012-12-01,Mohammad Nader Jraid,0000-00-00
+697,Damasco,Hombre,Damasco: Qazzaz,2012-12-01,Osama Mohammad Deeb Hamadeh,0000-00-00
+698,Damasco,Hombre,Yarmuk Camp,2012-12-01,Abd al-Rahman Saed Mohammad,0000-00-00
+699,Damasco,Hombre,Midan,2012-12-01,Mohammad Samir al-Masri,0000-00-00
+700,Damasco,Hombre,,2012-12-01,Khaaled Naeem Lababeedy,0000-00-00
+701,Aleppo,Hombre,,2012-12-01,Mohammad Ahmad Na'saan,0000-00-00
+702,Aleppo,Hombre,Afrin: Mariameen,2012-12-02,Hassan Ali Qasem,0000-00-00
+703,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+704,Damasco,Hombre,Zahera,2012-12-02,Mohammad Kamel Abd al-Lateef al-Asali,0000-00-00
+705,Daraa,Hombre,,0000-00-00,Desconocido,0000-00-00
+706,Aleppo,Hombre,Kafr Naseh,2012-12-02,Mohammad Mohammad Ali,0000-00-00
+707,Damasco,Hombre,Yarmouk camp,2012-12-02,Yahya Abd Al-Kareem Meknas,0000-00-00
+708,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+709,Damasco Rural,Hombre,Daraya,2012-12-15,Mohammad Khear Kassah,0000-00-00
+710,Damasco Rural,Hombre,Daraya,2012-12-15,Mohammad Saleem Matar,0000-00-00
+711,Damasco Rural,Hombre,Beit Sahm,2012-12-15,Mohammad Imad Haamed,0000-00-00
+712,Aleppo,Hombre,Muyassar neighborhood,2012-12-15,Mohammad Ahmad al-Khalaf,0000-00-00
+713,Damasco,Mujer,,0000-00-00,Desconocido,0000-00-00
+714,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+715,Damasco Rural,Hombre,,0000-00-00,Desconocido,0000-00-00
+716,Damasco Rural,Hombre,Daraya,2012-12-16,Gassan Mohammad Ali al-Abbar,0000-00-00
+717,Aleppo,Hombre,Ayn Al-Arab,2013-01-05,Jameel Samey Beky,0000-00-00
+718,Hama,Mujer,,0000-00-00,Desconocido,0000-00-00
+719,Homs,Hombre,,0000-00-00,Desconocido,0000-00-00
+720,Hama,Mujer,,0000-00-00,Desconocido,0000-00-00
+721,Hama,Mujer,,0000-00-00,Desconocido,0000-00-00
+722,Hama,Mujer,,0000-00-00,Desconocido,0000-00-00
+723,Hama,Hombre,,0000-00-00,Desconocido,0000-00-00
+724,Aleppo,Hombre,,2013-01-05,Mohammad Deeb al-Futaimi,0000-00-00
+725,Aleppo,Hombre,Al-Akrameah,2013-01-10,Abd Al-Rahmaan Rostom (Abo Hasan),0000-00-00
+726,Homs,Hombre,,0000-00-00,Desconocido,0000-00-00
+727,Damasco Rural,Hombre,Daraya,2013-01-29,Yehya Hasan Matar,0000-00-00
+728,Damasco,Hombre,Barzeh,2013-01-29,Hosain Mohammad Najey // He was found,0000-00-00
+729,Damasco,Hombre,Rokn Al-Deen,2013-01-30,Nezaar Aadel Abo Khamees,0000-00-00
+730,Hama,Hombre,Salamia,2013-01-30,Mostafa Salah al-Deen al-Beri,0000-00-00
+731,Damasco Rural,Hombre,Daraya,2013-01-30,Naser Haydar al-Shummari,0000-00-00
+732,Damasco Rural,Hombre,Jdaidet Artouz,2013-01-31,Wahdan Abdullah al-Rawashda,0000-00-00
+733,Idlib,Hombre,Abu Zohour,2013-01-31,Saleh Jasem al-Abdullah,0000-00-00
+734,Damasco,Hombre,,2013-01-31,Karam Hamo,0000-00-00
+735,Damasco,Hombre,Damasco Rural: Sabura,0000-00-00,Desconocido,0000-00-00
+736,Damasco Rural,Hombre,Al-Tal,2013-02-01,Thaer Faysal Basheer,0000-00-00
+737,Homs,Hombre,,0000-00-00,Desconocido,0000-00-00
+738,Otras Nacionalidades,Hombre,Tunisia,2013-02-01,Hamzeh AbelMoutleb Belqasmi,0000-00-00
+739,Homs,Mujer,,0000-00-00,Desconocido,0000-00-00
